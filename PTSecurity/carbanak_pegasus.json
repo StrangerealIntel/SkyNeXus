@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "MALWARE [PTsecurity] Pegasus (Buhtrap/Ratopak) C2 connection",
+        "type":  "trojan-activity",
+        "sid":  "10003298",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Buhtrap,Ratopak,Pegasus",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "MALWARE [PTsecurity] Pegasus (Buhtrap/Ratopak) credentials broadcast via Mailslot",
+        "type":  "trojan-activity",
+        "sid":  "10003304",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Buhtrap,Ratopak,Pegasus",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "MALWARE [PTsecurity] Pegasus (Buhtrap/Ratopak) domain replication remote pipe check",
+        "type":  "trojan-activity",
+        "sid":  "10003305",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Buhtrap,Ratopak,Pegasus,Backdoor",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

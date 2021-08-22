@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] BadTunnel NBNS response after NBSTAT query",
+        "type":  "attempted-recon",
+        "sid":  "10000051",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "BadTunnel",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xlab.tencent.com/en/2016/06/17/BadTunnel-A-New-Hope/"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] BadTunnel WPAD spoofing attempt via NBNS",
+        "type":  "attempted-recon",
+        "sid":  "10000052",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "BadTunnel",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xlab.tencent.com/en/2016/06/17/BadTunnel-A-New-Hope/"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] BadTunnel ISATAP spoofing attempt via NBNS",
+        "type":  "attempted-recon",
+        "sid":  "10000053",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "BadTunnel",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xlab.tencent.com/en/2016/06/17/BadTunnel-A-New-Hope/"
+                }
+    }
+]

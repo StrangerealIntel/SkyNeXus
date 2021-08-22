@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] Possible HTTPoxy HTTP_PROXY value spoofing",
+    "type":  "attempted-recon",
+    "sid":  "10000065",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "HTTPoxy,CGI,Bypass Proxy,spoofing",
+                     "rev":  "3"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "httpoxy.org"
+            }
+}

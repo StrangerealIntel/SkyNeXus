@@ -1,0 +1,62 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] EFSR Bind",
+        "type":  "attempted-admin",
+        "sid":  "10006662",
+        "metadata":  {
+                         "crtime":  "2021_07_23",
+                         "uptime":  "2021_08_10",
+                         "tags":  "EFSR,Bind,NTML Relay Attacks,Credentials disclosure",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] EFSR /efsrpc Bind",
+        "type":  "attempted-admin",
+        "sid":  "10006663",
+        "metadata":  {
+                         "crtime":  "2021_07_23",
+                         "uptime":  "2021_08_10",
+                         "tags":  "EFSR,Bind,NTML Relay Attacks,Credentials disclosure",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] PetitPotam (Machine account NTLM Hash leak) attempt",
+        "type":  "attempted-admin",
+        "sid":  "10006664",
+        "metadata":  {
+                         "crtime":  "2021_07_23",
+                         "uptime":  "2021_08_10",
+                         "tags":  "EFSR,Bind,NTML Relay Attacks,Credentials disclosure",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "\"ATTACK [PTsecurity] PetitPotam (Machine account NTLM Hash leak) successful",
+        "type":  "attempted-admin",
+        "sid":  "10006665",
+        "metadata":  {
+                         "crtime":  "2021_07_23",
+                         "uptime":  "2021_07_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

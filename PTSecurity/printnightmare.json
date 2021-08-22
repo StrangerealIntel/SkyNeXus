@@ -1,0 +1,62 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] IREMOTEWINSPOOL Bind",
+        "type":  "attempted-admin",
+        "sid":  "10006624",
+        "metadata":  {
+                         "crtime":  "2021_07_12",
+                         "uptime":  "2021_08_10",
+                         "tags":  "cve-2021-1675,PrintNightmare,Bind",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] PrintNightmare attempt (CVE-2021-1675)",
+        "type":  "attempted-admin",
+        "sid":  "10006625",
+        "metadata":  {
+                         "crtime":  "2021_07_12",
+                         "uptime":  "2021_08_10",
+                         "tags":  "cve-2021-1675,PrintNightmare,Bind",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] SPOOLSS Bind",
+        "type":  "attempted-admin",
+        "sid":  "10006626",
+        "metadata":  {
+                         "crtime":  "2021_07_12",
+                         "uptime":  "2021_08_10",
+                         "tags":  "cve-2021-1675,PrintNightmare,Bind",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] PrintNightmare attempt (CVE-2021-1675)",
+        "type":  "attempted-admin",
+        "sid":  "10006627",
+        "metadata":  {
+                         "crtime":  "2021_07_12",
+                         "uptime":  "2021_08_10",
+                         "tags":  "cve-2021-1675,PrintNightmare,Bind",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

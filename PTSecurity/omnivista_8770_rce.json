@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Omnivista 8770 UnAuth RCE (AddJobSet)",
+        "type":  "attempted-admin",
+        "sid":  "10000677",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Omnivista,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.malerisch.net/2016/12/alcatel-omnivista-8770-unauth-rce-giop-corba.html"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Omnivista 8770 UnAuth RCE (AddJob)",
+        "type":  "attempted-admin",
+        "sid":  "10000678",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Omnivista,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.malerisch.net/2016/12/alcatel-omnivista-8770-unauth-rce-giop-corba.html"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Omnivista 8770 UnAuth RCE (ExecuteNow)",
+        "type":  "attempted-admin",
+        "sid":  "10000679",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Omnivista,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.malerisch.net/2016/12/alcatel-omnivista-8770-unauth-rce-giop-corba.html"
+                }
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] Apache Continuum \u003c= v1.4.2 CMD Injection",
+    "type":  "web-application-attack",
+    "sid":  "10000048",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "Apache,RCE,Continuum",
+                     "rev":  "1"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "exploit-db.com/exploits/39886"
+            }
+}

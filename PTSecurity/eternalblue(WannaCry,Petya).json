@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Unimplemented Trans2 Sub-Command code. Possible ETERNALBLUE (WannaCry, Petya) tool",
+        "type":  "attempted-admin",
+        "sid":  "10001254",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Ransomware,WannaCry,Petya,Eternalblue,SMB",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "msdn.microsoft.com/en-us/library/ee441654.aspx"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Petya ransomware perfc.dat component",
+        "type":  "suspicious-filename-detect",
+        "sid":  "10001443",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Ransomware,Petya",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] SMB2 Create PSEXESVC.EXE",
+        "type":  "suspicious-filename-detect",
+        "sid":  "10001444",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "SMB,PSExec",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

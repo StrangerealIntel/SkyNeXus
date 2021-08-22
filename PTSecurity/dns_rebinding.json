@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] DNS Rebinding attack in progress",
+        "type":  "attempted-admin",
+        "sid":  "10002488",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DNS,DNS rebinding,Hijacking IP",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] DNS Rebinding attack in progress",
+        "type":  "attempted-admin",
+        "sid":  "10002489",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DNS,DNS rebinding,Hijacking IP",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Possible DNS Rebinding attack",
+        "type":  "attempted-admin",
+        "sid":  "10002490",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DNS,DNS rebinding,Hijacking IP",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

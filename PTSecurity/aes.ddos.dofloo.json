@@ -1,0 +1,32 @@
+[
+    {
+        "description":  "MALWARE [PTsecurity] AES.DDoS.Dofloo",
+        "type":  "trojan-activity",
+        "sid":  "10004700",
+        "metadata":  {
+                         "crtime":  "2019_04_11",
+                         "uptime":  "-",
+                         "tags":  "Dofloo,DDOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "MALWARE [PTsecurity] AES.DDoS.Dofloo",
+        "type":  "trojan-activity",
+        "sid":  "10004701",
+        "metadata":  {
+                         "crtime":  "2019_04_11",
+                         "uptime":  "-",
+                         "tags":  "Dofloo,DDOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "BACKDOOR [PTsecurity] SSVagent.APT31",
+        "type":  "trojan-activity",
+        "sid":  "10006530",
+        "metadata":  {
+                         "crtime":  "2021_05_13",
+                         "uptime":  "2021_05_14",
+                         "tags":  "APT31,SSVagent,Backdoor",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "BACKDOOR [PTsecurity] Possible SSVagent.APT31",
+        "type":  "trojan-activity",
+        "sid":  "10006531",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "APT31,SSVagent,Backdoor",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "BACKDOOR [PTsecurity] SSVagent.APT31 SSL certificate",
+        "type":  "trojan-activity",
+        "sid":  "10006685",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "APT31,SSVagent,Backdoor,Certificate",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Mikrotik Router OS 6.38.4 Stack Clash RCE",
+        "type":  "attempted-admin",
+        "sid":  "10002456",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Mikrotik,Stack Clash,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/BigNerd95/Chimay-Red/blob/master/StackClashMIPS.py"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Mikrotik Router OS 6.38.4 Stack Clash RCE",
+        "type":  "attempted-admin",
+        "sid":  "10002457",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Mikrotik,Stack Clash,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/BigNerd95/Chimay-Red/blob/master/StackClashMIPS.py"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Possible Mikrotik Router OS 6.38.4 Stack Clash RCE",
+        "type":  "attempted-admin",
+        "sid":  "10002459",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Mikrotik,Stack Clash,Exploit,RCE",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/BigNerd95/Chimay-Red/blob/master/StackClashMIPS.py"
+                }
+    }
+]

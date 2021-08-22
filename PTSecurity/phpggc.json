@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] PHP Object Deserialization RCE POP Chain (Guzzle/RCE1)",
+    "type":  "attempted-admin",
+    "sid":  "10003494",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "PHP,phpggc,Guzzle,RCE",
+                     "rev":  "2"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "github.com/ambionics/phpggc"
+            }
+}

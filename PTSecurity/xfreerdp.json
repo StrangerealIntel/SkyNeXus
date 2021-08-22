@@ -1,0 +1,15 @@
+{
+    "description":  "TOOLS [PTsecurity] Possible xfreerdp RDP client",
+    "type":  "bad-unknown",
+    "sid":  "10005928",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "xfreerdp,RDP",
+                     "rev":  "2"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "github.com/ptresearch/AttackDetection"
+            }
+}

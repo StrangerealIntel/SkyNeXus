@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] SVN/Git Remote Code Execution through malicious (svn+,git+)ssh:// URL (Multiple CVEs)",
+        "type":  "attempted-admin",
+        "sid":  "10001756",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Git,Exploit,RCE",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-9800"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] SVN/Git Remote Code Execution through malicious (svn+,git+)ssh:// URL (Multiple CVEs)",
+        "type":  "attempted-admin",
+        "sid":  "10001757",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Git,Exploit,RCE",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-9800"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] SVN/Git Remote Code Execution through malicious (svn+,git+)ssh:// URL (Multiple CVEs)",
+        "type":  "attempted-admin",
+        "sid":  "10001763",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Git,Exploit,RCE",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-9800"
+                }
+    }
+]

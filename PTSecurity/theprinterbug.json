@@ -1,0 +1,32 @@
+[
+    {
+        "description":  "ATTACK AD [PTsecurity] SPOOLSS DCERPC/SMB Bind",
+        "type":  "attempted-recon",
+        "sid":  "10004152",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "SMB,Bind,recon",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK AD [PTsecurity] Possible MS-RPRN abuse. Hash or Ticket theft",
+        "type":  "attempted-recon",
+        "sid":  "10004153",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "RPRN,ticket-granting,recon",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d"
+                }
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "description":  "TOOLS [PTsecurity] Burp Suite tool activity. portswigger.net resolve",
+    "type":  "string-detect",
+    "sid":  "10006023",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "Burp,CheckIn",
+                     "rev":  "2"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "github.com/ptresearch/AttackDetection"
+            }
+}

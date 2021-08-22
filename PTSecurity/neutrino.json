@@ -1,0 +1,62 @@
+[
+    {
+        "description":  "MALWARE [PTsecurity] Neutrino Bot Check-in",
+        "type":  "trojan-activity",
+        "sid":  "10002712",
+        "metadata":  {
+                         "crtime":  "2018_3_20; reference: url",
+                         "uptime":  "-",
+                         "tags":  "Neutrino,Bot,PingC2",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "SCAN [PTsecurity] Neutrino shell probing die(@md5(",
+        "type":  "attempted-recon",
+        "sid":  "10003765",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Neutrino,Bot,shell probing,recon",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "SCAN [PTsecurity] Neutrino shell probing die(md5(",
+        "type":  "attempted-recon",
+        "sid":  "10003766",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Neutrino,Bot,shell probing,recon",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] PHPMyAdmin web shell planting with log redirection",
+        "type":  "attempted-admin",
+        "sid":  "10004566",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "PHPMyAdmin,webshell",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

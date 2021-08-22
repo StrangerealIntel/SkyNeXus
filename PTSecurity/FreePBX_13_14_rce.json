@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] FreePBX 13/14 Malicious Filename Upload attempt",
+        "type":  "attempted-user",
+        "sid":  "0000082",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "FreePBX,RFI,Exploit",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "exploitdb",
+                    "ref":  "40232"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] FreePBX 13/14 Remote Command Execution",
+        "type":  "successful-user",
+        "sid":  "0000083",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "FreePBX,Exploit,RCE",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "exploitdb",
+                    "ref":  "40232"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] FreePBX 13/14 Remote Command Execution attempt",
+        "type":  "attempted-user",
+        "sid":  "0000084",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "FreePBX,Exploit,RCE",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "exploitdb",
+                    "ref":  "40232"
+                }
+    }
+]

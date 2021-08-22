@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] vBulletin 5.x pre-auth RCE",
+    "type":  "attempted-admin",
+    "sid":  "10005417",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "vBulletin,Exploit,RCE",
+                     "rev":  "1"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "seclists.org/fulldisclosure/2019/Sep/31"
+            }
+}

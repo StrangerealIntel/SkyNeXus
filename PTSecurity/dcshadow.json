@@ -1,0 +1,62 @@
+[
+    {
+        "description":  "ATTACK AD [PTsecurity] DCShadow Replication Attempt",
+        "type":  "attempted-admin",
+        "sid":  "10002557",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DCShadow,Replication,Credentials disclosure,Exploit",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.alsid.eu/dcshadow-explained-4510f52fc19d"
+                }
+    },
+    {
+        "description":  "ATTACK AD [PTsecurity] DCShadow Replication Attempt - DRSUAPI_REPLICA_ADD from non-DC",
+        "type":  "attempted-admin",
+        "sid":  "10002558",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DCShadow,Replication,Credentials disclosure,Exploit",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.alsid.eu/dcshadow-explained-4510f52fc19d"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] DCShadow: Fake DC Creation",
+        "type":  "attempted-admin",
+        "sid":  "10002559",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DCShadow,Replication,Credentials disclosure,Exploit",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.alsid.eu/dcshadow-explained-4510f52fc19d"
+                }
+    },
+    {
+        "description":  "ATTACK AD [PTsecurity] DCShadow Replication Attempt - DRSUAPI_REPLICA_ADD",
+        "type":  "attempted-admin",
+        "sid":  "10002570",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "DCShadow,Replication,Credentials disclosure,Exploit",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.alsid.eu/dcshadow-explained-4510f52fc19d"
+                }
+    }
+]

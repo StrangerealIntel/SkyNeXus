@@ -1,0 +1,77 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Metasploit MS17-010 ETERNALCHAMPION. Non-Fragmented NT Trans Request with command NT Rename (CVE-2017-0146)",
+        "type":  "attempted-admin",
+        "sid":  "10001717",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2017-0146,MS17-010,EternalChampion,Metasploit,Exploit,Privilege escalation",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0146"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] NT Trans Response",
+        "type":  "attempted-admin",
+        "sid":  "10001718",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2017-0146,MS17-010,EternalChampion,Exploit,Privilege escalation",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0146"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Metasploit MS17-010 ETERNALCHAMPION Race Condition Exploit. NT Trans Secondary packet follows NT Trans Req (CVE-2017-0146)",
+        "type":  "attempted-admin",
+        "sid":  "10001719",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2017-0146,MS17-010,EternalChampion,Metasploit,Exploit,Privilege escalation",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0146"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Metasploit MS17-010 ETERNALCHAMPION Successful kernel data leak (CVE-2017-0146)",
+        "type":  "attempted-admin",
+        "sid":  "10001720",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2017-0146,MS17-010,EternalChampion,Metasploit,Exploit,Privilege escalation",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0146"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Metasploit MS17-010 ETERNALROMANCE exploitation (CVE-2017-0143)",
+        "type":  "attempted-admin",
+        "sid":  "10001723",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2017-0146,MS17-010,EternalRomance,Metasploit,Exploit,Privilege escalation",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0143"
+                }
+    }
+]

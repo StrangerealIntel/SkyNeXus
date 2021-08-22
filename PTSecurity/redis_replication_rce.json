@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] Redis Master-Slave replication RCE successful",
+    "type":  "attempted-admin",
+    "sid":  "10005212",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "Redis,Exploit,RCE",
+                     "rev":  "1"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "paper.seebug.org/977"
+            }
+}

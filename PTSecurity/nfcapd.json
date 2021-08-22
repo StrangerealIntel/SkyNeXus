@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Nfcapd buffer overflow via incorrect flowset_length field attempt",
+        "type":  "attempted-dos",
+        "sid":  "10000038",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Nfcapd,buffer overflow,DOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/39800"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Nfcapd buffer overflow with large scope_field_count field attempt",
+        "type":  "attempted-dos",
+        "sid":  "10000039",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Nfcapd,buffer overflow,DOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/39800"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Nfcapd DoS attempt caused inifinite loop",
+        "type":  "attempted-dos",
+        "sid":  "10000040",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Nfcapd,buffer overflow,DOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/39800"
+                }
+    }
+]

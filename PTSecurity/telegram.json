@@ -1,0 +1,77 @@
+[
+    {
+        "description":  "APP [PTsecurity] MTproto Telegram pkt chk#0",
+        "type":  "misc-activity",
+        "sid":  "11004534",
+        "metadata":  {
+                         "crtime":  "2019_02_19",
+                         "uptime":  "2021_03_20",
+                         "tags":  "MTproto,Telegram,CheckIN",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "APP [PTsecurity] MTproto Telegram pkt chk#1",
+        "type":  "misc-activity",
+        "sid":  "11004535",
+        "metadata":  {
+                         "crtime":  "2019_02_19",
+                         "uptime":  "2021_03_20",
+                         "tags":  "MTproto,Telegram,CheckIN",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "APP [PTsecurity] MTproto Telegram pkt chk#2",
+        "type":  "misc-activity",
+        "sid":  "11004536",
+        "metadata":  {
+                         "crtime":  "2019_02_19",
+                         "uptime":  "2021_03_20",
+                         "tags":  "MTproto,Telegram,CheckIN",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "APP [PTsecurity] MTproto Telegram pkt chk#3",
+        "type":  "misc-activity",
+        "sid":  "11004537",
+        "metadata":  {
+                         "crtime":  "2019_02_19",
+                         "uptime":  "2021_03_20",
+                         "tags":  "MTproto,Telegram,CheckIN",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "APP [PTsecurity] MTproto Telegram",
+        "type":  "misc-activity",
+        "sid":  "11004538",
+        "metadata":  {
+                         "crtime":  "2019_02_19",
+                         "uptime":  "2019_07_25",
+                         "tags":  "MTproto,Telegram,CheckIN",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

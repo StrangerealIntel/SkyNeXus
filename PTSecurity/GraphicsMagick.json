@@ -1,0 +1,32 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] GraphicsMagick popen shell vulnerability",
+        "type":  "web-application-attack",
+        "sid":  "10000044",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "GraphicsMagick,Exploit,shell",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "permalink.gmane.org/gmane.comp.security.oss.general/19669"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] GraphicsMagick popen shell vulnerability",
+        "type":  "web-application-attack",
+        "sid":  "10000045",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "GraphicsMagick,Exploit,shell",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "permalink.gmane.org/gmane.comp.security.oss.general/19669"
+                }
+    }
+]

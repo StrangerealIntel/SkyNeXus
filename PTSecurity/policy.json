@@ -1,0 +1,15 @@
+{
+    "description":  "POLICY [PTsecurity] LDAP Cleartext credentials exposure",
+    "type":  "successful-recon-limited",
+    "sid":  "10002317",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "LDAP,Credentials disclosure,recon",
+                     "rev":  "2"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "github.com/ptresearch/AttackDetection"
+            }
+}

@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] Mismatch URI and Host header. Possible Squid cache poisoning",
+    "type":  "attempted-recon",
+    "sid":  "10000035",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "Squid,cache poisoning",
+                     "rev":  "4"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "bugs.squid-cache.org/show_bug.cgi?id=4501"
+            }
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Raisecom GPON RCE via command injection (CVE-2019-7385)",
+        "type":  "attempted-admin",
+        "sid":  "10004526",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2019-7385,Raisecom,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2019-7385"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Raisecom GPON RCE via command injection (CVE-2019-7384)",
+        "type":  "attempted-admin",
+        "sid":  "10004527",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2019-7384,Raisecom,Exploit,RCE",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2019-7384"
+                }
+    }
+]

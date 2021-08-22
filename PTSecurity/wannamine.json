@@ -1,0 +1,77 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] Overpass the hash. Encryption downgrade activity to ARCFOUR-HMAC-MD5",
+        "type":  "attempted-user",
+        "sid":  "10002228",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "wannamine,Miner,SMB",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Flowbits for SMB NTTrans Request",
+        "type":  "attempted-admin",
+        "sid":  "10001724",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "wannamine,Miner,SMB",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Metasploit MS17-010 ETERNALBLUE Exploitation (CVE-2017-0144)",
+        "type":  "attempted-admin",
+        "sid":  "10001726",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "wannamine,Miner,SMB,Metasploit,MS17-010,cve-2017-0144",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0144"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Remote WMI Win32_Process create",
+        "type":  "attempted-admin",
+        "sid":  "10001999",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "WMI,Process creation",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] Suspicious Remote WMI Win32_Process create",
+        "type":  "attempted-admin",
+        "sid":  "10002000",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "WMI,Process creation,remote",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

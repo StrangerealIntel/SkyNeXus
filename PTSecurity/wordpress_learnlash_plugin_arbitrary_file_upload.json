@@ -1,0 +1,15 @@
+{
+    "description":  "ATTACK [PTsecurity] WordPress Plugin LearnDash LMS \u003c2.5.4 Arbitrary file upload",
+    "type":  "attempted-admin",
+    "sid":  "10002405",
+    "metadata":  {
+                     "crtime":  "-",
+                     "uptime":  "-",
+                     "tags":  "WordPress,Exp)loit,RFI",
+                     "rev":  "2"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "seclists.org/fulldisclosure/2018/Jan/37"
+            }
+}

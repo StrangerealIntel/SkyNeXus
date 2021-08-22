@@ -1,0 +1,32 @@
+[
+    {
+        "description":  "MALWARE [PTsecurity] PowerShell Empire Request HTTP Pattern",
+        "type":  "trojan-activity",
+        "sid":  "10002268",
+        "metadata":  {
+                         "crtime":  "2017_11_21; reference: url",
+                         "uptime":  "-",
+                         "tags":  "Empire,stager,PingC2",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "MALWARE [PTsecurity] PowerShell Empire stager receive over HTTP",
+        "type":  "trojan-activity",
+        "sid":  "10002269",
+        "metadata":  {
+                         "crtime":  "2017_11_22; reference: url",
+                         "uptime":  "-",
+                         "tags":  "Empire,stager,PingC2",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

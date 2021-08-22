@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "MALWARE [PTsecurity] Silent Trinity pkt checker #0",
+        "type":  "trojan-activity",
+        "sid":  "11004397",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Silent Trinity,RAT,PingC2",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "MALWARE [PTsecurity] Silent Trinity pkt checker #1",
+        "type":  "trojan-activity",
+        "sid":  "11004398",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Silent Trinity,RAT,PingC2",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    },
+    {
+        "description":  "MALWARE [PTsecurity] Silent Trinity RAT (post-exploitation agent)",
+        "type":  "trojan-activity",
+        "sid":  "11004399",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "Silent Trinity,RAT,PingC2",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/ptresearch/AttackDetection"
+                }
+    }
+]

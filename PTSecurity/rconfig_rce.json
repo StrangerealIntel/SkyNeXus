@@ -1,0 +1,32 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] rConfig ajaxServerSettingsChk.php unauth RCE (CVE-2019-16662)",
+        "type":  "attempted-admin",
+        "sid":  "10005501",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2019-16663,rConfig,Exploit,RCE",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "shells.systems/rconfig-v3-9-2-authenticated-and-unauthenticated-rce-cve-2019-16663-and-cve-2019-16662"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] rConfig search.crud.php unauth RCE (CVE-2019-16663)",
+        "type":  "attempted-admin",
+        "sid":  "10005502",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "cve-2019-16663,rConfig,Exploit,RCE",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "shells.systems/rconfig-v3-9-2-authenticated-and-unauthenticated-rce-cve-2019-16663-and-cve-2019-16662"
+                }
+    }
+]

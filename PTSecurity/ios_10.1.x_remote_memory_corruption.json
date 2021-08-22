@@ -1,0 +1,47 @@
+[
+    {
+        "description":  "ATTACK [PTsecurity] iOS 10.1.x Remote memory corruption through certificate file Attempt",
+        "type":  "attempted-dos",
+        "sid":  "10000757",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "IOS,certificate,DOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cxsecurity.com/issue/WLB-2016110046"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] iOS 10.1.x Remote memory corruption through certificate file Attempt",
+        "type":  "attempted-dos",
+        "sid":  "10000758",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "IOS,certificate,DOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cxsecurity.com/issue/WLB-2016110046"
+                }
+    },
+    {
+        "description":  "ATTACK [PTsecurity] iOS 10.1.x Remote memory corruption through certificate file Attempt",
+        "type":  "attempted-dos",
+        "sid":  "10000759",
+        "metadata":  {
+                         "crtime":  "-",
+                         "uptime":  "-",
+                         "tags":  "IOS,certificate,DOS",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cxsecurity.com/issue/WLB-2016110046"
+                }
+    }
+]
