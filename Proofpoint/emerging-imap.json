@@ -1,0 +1,257 @@
+[
+    {
+        "description":  "GPL IMAP rename overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101903",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1110"
+                }
+    },
+    {
+        "description":  "GPL IMAP find overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101904",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1110"
+                }
+    },
+    {
+        "description":  "GPL IMAP fetch overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103070",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP login buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2101842",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "16"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "13727"
+                }
+    },
+    {
+        "description":  "GPL IMAP authenticate overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101844",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "12995"
+                }
+    },
+    {
+        "description":  "GPL IMAP EXPLOIT partial body overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101780",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4713"
+                }
+    },
+    {
+        "description":  "GPL IMAP auth overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2102330",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8861"
+                }
+    },
+    {
+        "description":  "GPL IMAP unsubscribe overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103076",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP unsubscribe literal overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103075",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP subscribe overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103074",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP subscribe literal overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103073",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP status overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103072",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP examine overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103068",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP append overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103066",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11775"
+                }
+    },
+    {
+        "description":  "GPL IMAP copy literal overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103058",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1110"
+                }
+    },
+    {
+        "description":  "GPL IMAP delete overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2103007",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11675"
+                }
+    },
+    {
+        "description":  "GPL IMAP Overflow Attempt",
+        "type":  "attempted-admin",
+        "sid":  "2100293",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    }
+]

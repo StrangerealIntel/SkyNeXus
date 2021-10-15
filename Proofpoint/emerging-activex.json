@@ -1,0 +1,2822 @@
+[
+    {
+        "description":  "ET ACTIVEX EasyMail Object IMAP4 Component Buffer Overflow Function call Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2010658",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/24199/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SaschArt SasCam Webcam Server ActiveX Control Head Method Buffer Overflow Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2011207",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/14215/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SoftCab Sound Converter ActiveX SaveFormat File overwrite Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2010943",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/37967/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Visagesoft eXPert PDF Viewer ActiveX Control Arbitrary File Overwrite",
+        "type":  "web-application-attack",
+        "sid":  "2008791",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "31984"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Viscom Movie Player Pro SDK ActiveX DrawText method Buffer Overflow Function Call",
+        "type":  "attempted-user",
+        "sid":  "2010944",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.shinnai.net/exploits/X6hU4E0E7P5H3qH5yXrn.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible NOS Microsystems Adobe Reader/Acrobat getPlus Get_atlcomHelper ActiveX Control Multiple Stack Overflows Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010665",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securityfocus.com/bid/37759"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Snapshot Viewer for Microsoft Access ActiveX Control Arbitrary File Download (1)",
+        "type":  "web-application-attack",
+        "sid":  "2008407",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "30114"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Snapshot Viewer for Microsoft Access ActiveX Control Arbitrary File Download (2)",
+        "type":  "web-application-attack",
+        "sid":  "2008408",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "30114"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Snapshot Viewer for Microsoft Access ActiveX Control Arbitrary File Download (3)",
+        "type":  "web-application-attack",
+        "sid":  "2008409",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "30114"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Vulnerable Microsoft Video ActiveX CLSID access (41)",
+        "type":  "web-application-attack",
+        "sid":  "2009610",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "microsoft.com/technet/security/advisory/972890.mspx"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Vulnerable Microsoft Video ActiveX CLSID access (42)",
+        "type":  "web-application-attack",
+        "sid":  "2009611",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "microsoft.com/technet/security/advisory/972890.mspx"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Vulnerable Microsoft Video ActiveX CLSID access (44)",
+        "type":  "web-application-attack",
+        "sid":  "2009613",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "microsoft.com/technet/security/advisory/972890.mspx"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Vulnerable Microsoft Video ActiveX CLSID access (1)",
+        "type":  "web-application-attack",
+        "sid":  "2009614",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "microsoft.com/technet/security/advisory/972890.mspx"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Vulnerable Microsoft Video ActiveX CLSID access (2)",
+        "type":  "web-application-attack",
+        "sid":  "2009615",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "microsoft.com/technet/security/advisory/972890.mspx"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Vulnerable Microsoft Video ActiveX CLSID access (3)",
+        "type":  "web-application-attack",
+        "sid":  "2009616",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "microsoft.com/technet/security/advisory/972890.mspx"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 4XEM VatDecoder VatCtrl Class ActiveX Control Url Property Buffer Overflow Vulnerability",
+        "type":  "web-application-attack",
+        "sid":  "2007903",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "28010"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Microsoft WMI Administration Tools WEBSingleView.ocx ActiveX Buffer Overflow Attempt Function Call",
+        "type":  "attempted-user",
+        "sid":  "2012157",
+        "metadata":  {
+                         "crtime":  "2011_01_06",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xcon.xfocus.net/XCon2010_ChenXie_EN.pdf"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Novell iPrint ActiveX GetDriverSettings Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2012206",
+        "metadata":  {
+                         "crtime":  "2011_01_20",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.zerodayinitiative.com/advisories/ZDI-10-256/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Microsoft WMI Administration Tools WEBSingleView.ocx ActiveX Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2012158",
+        "metadata":  {
+                         "crtime":  "2011_01_06",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xcon.xfocus.net/XCon2010_ChenXie_EN.pdf"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Gesytec ElonFmt ActiveX Component GetItem1 member Buffer Overflow Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2012741",
+        "metadata":  {
+                         "crtime":  "2011_04_29",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17196"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Gesytec ElonFmt ActiveX Component Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2012742",
+        "metadata":  {
+                         "crtime":  "2011_04_29",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17196"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Microsoft Internet Explorer Tabular DataURL ActiveX Control Memory Corruption Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011007",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "securitytracker.com/alerts/2010/Mar/1023773.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Magneto ICMP ActiveX ICMPSendEchoRequest Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2012905",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/17328/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Cisco AnyConnect VPN Secure Mobility Client Cisco.AnyConnect.VPNWeb.1 Arbitrary Program Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2012930",
+        "metadata":  {
+                         "crtime":  "2011_06_03",
+                         "uptime":  "2011_06_03",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "labs.idefense.com/intelligence/vulnerabilities/display.php?id=909"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX LEADTOOLS Imaging LEADSmtp ActiveX SaveMessage Method Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2013163",
+        "metadata":  {
+                         "crtime":  "2011_07_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "48408"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Ubisoft CoGSManager ActiveX RunCore method Buffer Overflow Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2013162",
+        "metadata":  {
+                         "crtime":  "2011_07_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45044"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Ubisoft CoGSManager ActiveX Initialize method Buffer Overflow Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2013161",
+        "metadata":  {
+                         "crtime":  "2011_07_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45044"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX CygniCon CyViewer ActiveX Control SaveData Insecure Method Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2013160",
+        "metadata":  {
+                         "crtime":  "2011_07_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "48483"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Chilkat Crypt ActiveX Control SaveDecrypted Insecure Method Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2013233",
+        "metadata":  {
+                         "crtime":  "2011_07_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "48585"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX IDrive Online Backup ActiveX control SaveToFile Insecure Method",
+        "type":  "attempted-user",
+        "sid":  "2013232",
+        "metadata":  {
+                         "crtime":  "2011_07_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "htbridge.ch/advisory/idrive_online_backup_activex_control_insecure_method.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TeeChart Professional ActiveX Control integer overflow Vulnerability 5",
+        "type":  "attempted-user",
+        "sid":  "2013432",
+        "metadata":  {
+                         "crtime":  "2011_08_19",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/view/103964/teechart_pro.rb.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TeeChart Professional ActiveX Control integer overflow Vulnerability 4",
+        "type":  "attempted-user",
+        "sid":  "2013431",
+        "metadata":  {
+                         "crtime":  "2011_08_19",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/view/103964/teechart_pro.rb.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TeeChart Professional ActiveX Control integer overflow Vulnerability 3",
+        "type":  "attempted-user",
+        "sid":  "2013430",
+        "metadata":  {
+                         "crtime":  "2011_08_19",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/view/103964/teechart_pro.rb.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TeeChart Professional ActiveX Control integer overflow Vulnerability 2",
+        "type":  "attempted-user",
+        "sid":  "2013429",
+        "metadata":  {
+                         "crtime":  "2011_08_19",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/view/103964/teechart_pro.rb.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TeeChart Professional ActiveX Control integer overflow Vulnerability 1",
+        "type":  "attempted-user",
+        "sid":  "2013428",
+        "metadata":  {
+                         "crtime":  "2011_08_19",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/view/103964/teechart_pro.rb.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Tom Sawyer Possible Memory Corruption Attempt Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2013566",
+        "metadata":  {
+                         "crtime":  "2011_09_12",
+                         "uptime":  "2011_09_12",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle AutoVue Activex Insecure method (ExportEdaBom) Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2013814",
+        "metadata":  {
+                         "crtime":  "2011_10_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/106065/9sg_autovueiii.tgz"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle AutoVue Activex Insecure method (ExportEdaBom)",
+        "type":  "attempted-user",
+        "sid":  "2013813",
+        "metadata":  {
+                         "crtime":  "2011_10_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/106065/9sg_autovueiii.tgz"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle AutoVue Activex Insecure method (Export3DBom) Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2013812",
+        "metadata":  {
+                         "crtime":  "2011_10_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/106064/9sg_autovueii.tgz"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle AutoVue Activex Insecure method (Export3DBom)",
+        "type":  "attempted-user",
+        "sid":  "2013811",
+        "metadata":  {
+                         "crtime":  "2011_10_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/106064/9sg_autovueii.tgz"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle AutoVue Activex Insecure method (SaveViewStateToFile) Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2013810",
+        "metadata":  {
+                         "crtime":  "2011_10_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18016"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle AutoVue Activex Insecure method (SaveViewStateToFile)",
+        "type":  "attempted-user",
+        "sid":  "2013809",
+        "metadata":  {
+                         "crtime":  "2011_10_31",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18016"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX ASUS Net4Switch ActiveX CxDbgPrint Format String Function Call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014326",
+        "metadata":  {
+                         "crtime":  "2012_03_06",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/110296/ASUS-Net4Switch-ipswcom.dll-ActiveX-Stack-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX EdrawSoft Office Viewer Component ActiveX FtpUploadFile Stack Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014390",
+        "metadata":  {
+                         "crtime":  "2012_03_17",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/109298/EdrawSoft-Office-Viewer-Component-ActiveX-5.6-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX EdrawSoft Office Viewer Component ActiveX FtpUploadFile Format String Function Call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014391",
+        "metadata":  {
+                         "crtime":  "2012_03_17",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/109298/EdrawSoft-Office-Viewer-Component-ActiveX-5.6-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Cisco Linksys WVC200 Wireless-G PTZ Internet Video Camera PlayerPT ActiveX Control PlayerPT.ocx Access 2",
+        "type":  "attempted-user",
+        "sid":  "2014417",
+        "metadata":  {
+                         "crtime":  "2012_03_23",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "retrogod.altervista.org/9sg_linksys_playerpt.htm"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Cisco Linksys WVC200 Wireless-G PTZ Internet Video Camera PlayerPT ActiveX Control PlayerPT.ocx Access 1",
+        "type":  "attempted-user",
+        "sid":  "2014416",
+        "metadata":  {
+                         "crtime":  "2012_03_23",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "retrogod.altervista.org/9sg_linksys_playerpt.htm"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 2X Client for RDP ClientSystem Class ActiveX Control InstallClient Function Call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014423",
+        "metadata":  {
+                         "crtime":  "2012_03_26",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18624/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 2X ApplicationServer TuxSystem Class ActiveX Control ExportSettings Function Call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014421",
+        "metadata":  {
+                         "crtime":  "2012_03_26",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18625/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 2X ApplicationServer TuxSystem Class ActiveX Control ExportSettings Remote File Overwrite Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014420",
+        "metadata":  {
+                         "crtime":  "2012_03_26",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18625/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 2X ApplicationServer TuxSystem Class ActiveX Control ImportSettings Function Call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014419",
+        "metadata":  {
+                         "crtime":  "2012_03_26",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18625/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 2X ApplicationServer TuxSystem Class ActiveX Control ImportSettings Remote File Overwrite Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014418",
+        "metadata":  {
+                         "crtime":  "2012_03_26",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18625/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX 2X Client for RDP ClientSystem Class ActiveX Control InstallClient Download and Execute",
+        "type":  "attempted-user",
+        "sid":  "2014422",
+        "metadata":  {
+                         "crtime":  "2012_03_26",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18624/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX  Dell Webcam CrazyTalk ActiveX Control BackImage Access Potential Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014451",
+        "metadata":  {
+                         "crtime":  "2012_03_31",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/111077/Dell-Webcam-CrazyTalk-ActiveX-BackImage-Vulnerability.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Quest InTrust Annotation Objects ActiveX Control Add Access Potential Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2014453",
+        "metadata":  {
+                         "crtime":  "2012_04_01",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18674/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Quest InTrust Annotation Objects ActiveX Control Add Access Potential Remote Code Execution 2",
+        "type":  "attempted-user",
+        "sid":  "2014454",
+        "metadata":  {
+                         "crtime":  "2012_04_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18674/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TRENDnet TV-IP121WN UltraMJCam ActiveX Control OpenFileDlg Access Potential Remote Stack Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014455",
+        "metadata":  {
+                         "crtime":  "2012_04_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18675/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX TRENDnet TV-IP121WN UltraMJCam ActiveX Control OpenFileDlg Access Potential Remote Stack Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014456",
+        "metadata":  {
+                         "crtime":  "2012_04_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/18675/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Dell Webcam CrazyTalk ActiveX Control BackImage Access Potential  Buffer Overflow Attempt 2",
+        "type":  "attempted-user",
+        "sid":  "2014452",
+        "metadata":  {
+                         "crtime":  "2012_04_01",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/111077/Dell-Webcam-CrazyTalk-ActiveX-BackImage-Vulnerability.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible IBM Tivoli Provisioning Manager Express Isig.isigCtl.1 ActiveX RunAndUploadFile Method Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014550",
+        "metadata":  {
+                         "crtime":  "2012_04_13",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/111680/IBM-Tivoli-Provisioning-Manager-Express-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible IBM Tivoli Provisioning Manager Express Isig.isigCtl.1 ActiveX RunAndUploadFile Method Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014551",
+        "metadata":  {
+                         "crtime":  "2012_04_13",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/111680/IBM-Tivoli-Provisioning-Manager-Express-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Dell IT Assistant detectIESettingsForITA.ocx ActiveX Control readRegVal Remote Registry Dump Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2014552",
+        "metadata":  {
+                         "crtime":  "2012_04_13",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17557/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Dell IT Assistant detectIESettingsForITA.ocx ActiveX Control readRegVal Remote Registry Dump Vulnerability 2",
+        "type":  "attempted-user",
+        "sid":  "2014553",
+        "metadata":  {
+                         "crtime":  "2012_04_13",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17557/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Edraw Diagram Component 5 ActiveX LicenseName Access Potential buffer overflow DOS",
+        "type":  "attempted-user",
+        "sid":  "2014585",
+        "metadata":  {
+                         "crtime":  "2012_04_16",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18461/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Edraw Diagram Component 5 ActiveX LicenseName Access Potential buffer overflow DOS 2",
+        "type":  "attempted-user",
+        "sid":  "2014586",
+        "metadata":  {
+                         "crtime":  "2012_04_16",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18461/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Quest vWorkspace Broker Client ActiveX Control SaveMiniLaunchFile Remote File Creation/Overwrite",
+        "type":  "attempted-user",
+        "sid":  "2014587",
+        "metadata":  {
+                         "crtime":  "2012_04_16",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18704/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Quest vWorkspace Broker Client ActiveX Control SaveMiniLaunchFile Remote File Creation/Overwrite 2",
+        "type":  "attempted-user",
+        "sid":  "2014588",
+        "metadata":  {
+                         "crtime":  "2012_04_16",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18704/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Oracle Hyperion Financial Management TList6 ActiveX Control Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2014593",
+        "metadata":  {
+                         "crtime":  "2012_04_16",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "securityfocus.com/archive/1/520353"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Oracle Hyperion Financial Management TList6 ActiveX Control Remote Code Execution 2",
+        "type":  "attempted-user",
+        "sid":  "2014594",
+        "metadata":  {
+                         "crtime":  "2012_04_16",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "securityfocus.com/archive/1/520353"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Tracker Software pdfSaver ActiveX InitFromRegistry Method Access Potential Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014650",
+        "metadata":  {
+                         "crtime":  "2012_04_27",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18427/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Tracker Software pdfSaver ActiveX StoreInRegistry Method Access Potential Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014648",
+        "metadata":  {
+                         "crtime":  "2012_04_27",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18427/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Tracker Software pdfSaver ActiveX StoreInRegistry Method Access Potential Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014649",
+        "metadata":  {
+                         "crtime":  "2012_04_27",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18427/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Quest Explain Plan Display ActiveX Control SaveToFile Insecure Method Access",
+        "type":  "attempted-user",
+        "sid":  "2014652",
+        "metadata":  {
+                         "crtime":  "2012_04_28",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48681/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Quest Explain Plan Display ActiveX Control SaveToFile Insecure Method Access 2",
+        "type":  "attempted-user",
+        "sid":  "2014653",
+        "metadata":  {
+                         "crtime":  "2012_04_28",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48681/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible McAfee Virtual Technician MVT.MVTControl.6300 ActiveX Control GetObject method Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2014708",
+        "metadata":  {
+                         "crtime":  "2012_05_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18805/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible McAfee Virtual Technician MVT.MVTControl.6300 ActiveX Control GetObject method Remote Code Execution 2",
+        "type":  "attempted-user",
+        "sid":  "2014709",
+        "metadata":  {
+                         "crtime":  "2012_05_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18805/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible WebEx UCF atucfobj.dll ActiveX NewObject Method Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014713",
+        "metadata":  {
+                         "crtime":  "2012_05_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/16604/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible WebEx UCF atucfobj.dll ActiveX NewObject Method Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014714",
+        "metadata":  {
+                         "crtime":  "2012_05_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/16604/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Camera Stream Client Possible ActiveX Control SetDirectory Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014903",
+        "metadata":  {
+                         "crtime":  "2012_06_15",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48602/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Camera Stream Client Possible ActiveX Control SetDirectory Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014902",
+        "metadata":  {
+                         "crtime":  "2012_06_15",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48602/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible IBM Lotus iNotes Upload Module possible ActiveX Control Attachment_Times Method Access Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014896",
+        "metadata":  {
+                         "crtime":  "2012_06_15",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/49443/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Autodesk MapGuide Viewer ActiveX LayersViewWidth Method Access Denial of Service",
+        "type":  "attempted-user",
+        "sid":  "2014942",
+        "metadata":  {
+                         "crtime":  "2012_06_22",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/13938"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Autodesk MapGuide Viewer ActiveX LayersViewWidth Method Access Denial of Service 2",
+        "type":  "attempted-user",
+        "sid":  "2014943",
+        "metadata":  {
+                         "crtime":  "2012_06_22",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/13938"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible IBM Rational ClearQuest Activex Control RegisterSchemaRepoFromFileByDbSet Insecure Method Access",
+        "type":  "attempted-user",
+        "sid":  "2015032",
+        "metadata":  {
+                         "crtime":  "2012_07_06",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "11337day.com/exploits/18917"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Crystal Reports Viewer Activex Control ServerResourceVersion Insecure Method Access",
+        "type":  "attempted-user",
+        "sid":  "2015036",
+        "metadata":  {
+                         "crtime":  "2012_07_06",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/15098"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Crystal Reports Viewer Activex Control ServerResourceVersion Insecure Method Access 2",
+        "type":  "attempted-user",
+        "sid":  "2015037",
+        "metadata":  {
+                         "crtime":  "2012_07_06",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/15098"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible AdminStudio Activex Control LaunchProcess Method Access Arbitrary Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2015464",
+        "metadata":  {
+                         "crtime":  "2012_07_13",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/114564/AdminStudio-LaunchHelp.dll-ActiveX-Arbitrary-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible beSTORM ActiveX (WinGraphviz.dll) Remote Heap Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015490",
+        "metadata":  {
+                         "crtime":  "2012_07_20",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/19861/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible CA BrightStor ARCserve Backup ActiveX AddColumn Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015491",
+        "metadata":  {
+                         "crtime":  "2012_07_20",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/82950/CA-BrightStor-ARCserve-Backup-AddColumn-ActiveX-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible CommuniCrypt Mail SMTP ActiveX AddAttachments Method Access Stack Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015493",
+        "metadata":  {
+                         "crtime":  "2012_07_20",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/89856/CommuniCrypt-Mail-1.16-SMTP-ActiveX-Stack-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible CA BrightStor ARCserve Backup ActiveX AddColumn Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2015492",
+        "metadata":  {
+                         "crtime":  "2012_07_20",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/82950/CA-BrightStor-ARCserve-Backup-AddColumn-ActiveX-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Oracle AutoVue ActiveX SetMarkupMode Method Access Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2015465",
+        "metadata":  {
+                         "crtime":  "2012_07_13",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/114364/Oracle-AutoVue-ActiveX-SetMarkupMode-Remote-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Symantec AppStream LaunchObj ActiveX Control Arbitrary File Download and Execute",
+        "type":  "attempted-user",
+        "sid":  "2015537",
+        "metadata":  {
+                         "crtime":  "2012_07_27",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/82969/Symantec-AppStream-LaunchObj-ActiveX-Control-Arbitrary-File-Download-and-Execute..html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible WinZip FileView ActiveX CreateNewFolderFromName Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015538",
+        "metadata":  {
+                         "crtime":  "2012_07_27",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/83024/WinZip-FileView-WZFILEVIEW.FileViewCtrl.61-ActiveX-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible WinZip FileView (WZFILEVIEW.FileViewCtrl.61) ActiveX Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2015539",
+        "metadata":  {
+                         "crtime":  "2012_07_27",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/83024/WinZip-FileView-WZFILEVIEW.FileViewCtrl.61-ActiveX-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible BarCodeWiz (BARCODEWIZLib.BarCodeWiz) ActiveX Control Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015564",
+        "metadata":  {
+                         "crtime":  "2012_08_03",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "securityfocus.com/bid/54701"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible AOL ICQ ActiveX Control DownloadAgent Method Access Arbitrary File Download and Execute",
+        "type":  "attempted-user",
+        "sid":  "2015566",
+        "metadata":  {
+                         "crtime":  "2012_08_03",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/83020/America-Online-ICQ-ActiveX-Control-Arbitrary-File-Download-and-Execute..html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible AOL ICQ ActiveX Control DownloadAgent Method Access Arbitrary File Download and Execute 2",
+        "type":  "attempted-user",
+        "sid":  "2015567",
+        "metadata":  {
+                         "crtime":  "2012_08_03",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/83020/America-Online-ICQ-ActiveX-Control-Arbitrary-File-Download-and-Execute..html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible BarCodeWiz BarcodeWiz.dll ActiveX Control Barcode Method Remote Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2015563",
+        "metadata":  {
+                         "crtime":  "2012_08_03",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "securityfocus.com/bid/54701"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible HP Easy Printer Care XMLCacheMgr Class ActiveX Control Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2015606",
+        "metadata":  {
+                         "crtime":  "2012_08_10",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/17395"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible HP Easy Printer Care XMLCacheMgr Class ActiveX Control Remote Code Execution 2",
+        "type":  "attempted-user",
+        "sid":  "2015607",
+        "metadata":  {
+                         "crtime":  "2012_08_10",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/17395"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Kazaa Altnet Download Manager ActiveX Control Install Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015608",
+        "metadata":  {
+                         "crtime":  "2012_08_10",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/83086/Kazaa-Altnet-Download-Manager-ActiveX-Control-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible CA eTrust PestPatrol ActiveX Control Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015636",
+        "metadata":  {
+                         "crtime":  "2012_08_17",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/16630/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Electronic Arts SnoopyCtrl ActiveX Control Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2015643",
+        "metadata":  {
+                         "crtime":  "2012_08_17",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/16609/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Electronic Arts SnoopyCtrl ActiveX Control Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2015644",
+        "metadata":  {
+                         "crtime":  "2012_08_17",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/16609/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Advanced File Vault Activex Heap Spray Attempt",
+        "type":  "attempted-user",
+        "sid":  "2012147",
+        "metadata":  {
+                         "crtime":  "2011_01_05",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/14580/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX dBpowerAMP Audio Player 2 FileExists Method ActiveX Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2012148",
+        "metadata":  {
+                         "crtime":  "2011_01_05",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/14586/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX FathFTP 1.8 EnumFiles Method ActiveX Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2012133",
+        "metadata":  {
+                         "crtime":  "2011_01_05",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/14552/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible NVIDIA Install Application ActiveX Control AddPackages Unicode Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2016041",
+        "metadata":  {
+                         "crtime":  "2012_12_14",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/118648/NVIDIA-Install-Application-2.1002.85.551-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible HP ALM XGO.ocx ActiveX Control SetShapeNodeType method Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2016084",
+        "metadata":  {
+                         "crtime":  "2012_12_21",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/116848/HP-ALM-Remote-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Cyme ChartFX client server ActiveX Control ShowPropertiesDialog arbitrary code execution",
+        "type":  "attempted-user",
+        "sid":  "2016085",
+        "metadata":  {
+                         "crtime":  "2012_12_21",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/117137/Cyme-ChartFX-Client-Server-Array-Indexing.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Advantech Studio ISSymbol ActiveX Control Multiple Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2016118",
+        "metadata":  {
+                         "crtime":  "2012_12_28",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "securityfocus.com/bid/47596"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Sony PC Companion Load method Stack-based Unicode Buffer Overload SEH",
+        "type":  "attempted-user",
+        "sid":  "2016160",
+        "metadata":  {
+                         "crtime":  "2013_01_04",
+                         "uptime":  "2013_01_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/119022/Sony-PC-Companion-2.1-Load-Unicode-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Sony PC Companion CheckCompatibility method Stack-based Unicode Buffer Overload",
+        "type":  "attempted-user",
+        "sid":  "2016161",
+        "metadata":  {
+                         "crtime":  "2013_01_04",
+                         "uptime":  "2013_01_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/119023/Sony-PC-Companion-2.1-CheckCompatibility-Unicode-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Sony PC Companion Admin_RemoveDirectory Stack-based Unicode Buffer Overload SEH",
+        "type":  "attempted-user",
+        "sid":  "2016162",
+        "metadata":  {
+                         "crtime":  "2013_01_04",
+                         "uptime":  "2013_01_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/119024/Sony-PC-Companion-2.1-Admin_RemoveDirectory-Unicode-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Honeywell Tema Remote Installer ActiveX DownloadFromURL method Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2016197",
+        "metadata":  {
+                         "crtime":  "2013_01_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/119427/Honeywell-Tema-Remote-Installer-ActiveX-Remote-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible KeyHelp ActiveX LaunchTriPane Remote Code Execution Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2016236",
+        "metadata":  {
+                         "crtime":  "2013_01_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/117293/KeyHelp-ActiveX-LaunchTriPane-Remote-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Samsung Kies ActiveX PrepareSync method Buffer overflow",
+        "type":  "attempted-user",
+        "sid":  "2016237",
+        "metadata":  {
+                         "crtime":  "2013_01_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/119423/Samsung-Kies-2.5.0.12114_1-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible KeyHelp ActiveX LaunchTriPane Remote Code Execution Vulnerability 2",
+        "type":  "attempted-user",
+        "sid":  "2016235",
+        "metadata":  {
+                         "crtime":  "2013_01_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.com/files/117293/KeyHelp-ActiveX-LaunchTriPane-Remote-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Aloaha PDF Crypter activex SaveToFile method arbitrary file overwrite",
+        "type":  "attempted-user",
+        "sid":  "2016286",
+        "metadata":  {
+                         "crtime":  "2013_01_25",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/24319/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Ecava IntegraXor save method Remote ActiveX Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2016382",
+        "metadata":  {
+                         "crtime":  "2013_02_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.org/exploit/15398"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdSave Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014737",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdExport Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014739",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdSave Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014738",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdExport Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014740",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdImport Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014741",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdImport Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014742",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdOpen Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014743",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Potential ThreeDify Designer ActiveX Control cmdOpen Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014744",
+        "metadata":  {
+                         "crtime":  "2012_05_11",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/45511"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Chilkat Software FTP2 ActiveX Component GetFile Access Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2014763",
+        "metadata":  {
+                         "crtime":  "2012_05_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/97160/Chilkat-Software-FTP2-ActiveX-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible NET-i viewer ActiveX Control ConnectDDNS Method Access Code Execution Vulnerability 2",
+        "type":  "attempted-user",
+        "sid":  "2014877",
+        "metadata":  {
+                         "crtime":  "2012_06_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48965/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Chilkat Software FTP2 ActiveX Component GetFile Access Remote Code Execution 2",
+        "type":  "attempted-user",
+        "sid":  "2014764",
+        "metadata":  {
+                         "crtime":  "2012_05_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/97160/Chilkat-Software-FTP2-ActiveX-Code-Execution.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible NET-i viewer ActiveX Control ConnectDDNS Method Access Code Execution Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2014876",
+        "metadata":  {
+                         "crtime":  "2012_06_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48965/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Windows Live Writer ActiveX BlogThisLink Method Access Denail of Service Attack",
+        "type":  "attempted-user",
+        "sid":  "2014765",
+        "metadata":  {
+                         "crtime":  "2012_05_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/17583"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible NET-i viewer ActiveX Control BackupToAvi Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014875",
+        "metadata":  {
+                         "crtime":  "2012_06_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48966/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible NET-i viewer ActiveX Control BackupToAvi Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014874",
+        "metadata":  {
+                         "crtime":  "2012_06_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/48966/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Windows Live Writer ActiveX BlogThisLink Method Access Denail of Service Attack 2",
+        "type":  "attempted-user",
+        "sid":  "2014766",
+        "metadata":  {
+                         "crtime":  "2012_05_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "1337day.com/exploits/17583"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible SonicWALL SSL-VPN End-Point Interrogator/Installer ActiveX Control Install3rdPartyComponent Method Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014835",
+        "metadata":  {
+                         "crtime":  "2012_06_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/95286/SonicWALL-SSL-VPN-End-Point-Interrogator-Installer-ActiveX-Control.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible LEADTOOLS ActiveX Raster Twain AppName Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014834",
+        "metadata":  {
+                         "crtime":  "2012_06_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/93252/LEADTOOLS-ActiveX-Raster-Twain-16.5-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible SkinCrafter ActiveX Control InitLicenKeys Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014806",
+        "metadata":  {
+                         "crtime":  "2012_05_25",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18892/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible LEADTOOLS ActiveX Raster Twain AppName Method Access Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014833",
+        "metadata":  {
+                         "crtime":  "2012_06_01",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/93252/LEADTOOLS-ActiveX-Raster-Twain-16.5-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible SkinCrafter ActiveX Control InitLicenKeys Method Access Buffer Overflow 2",
+        "type":  "attempted-user",
+        "sid":  "2014807",
+        "metadata":  {
+                         "crtime":  "2012_05_25",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/18892/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible IBM Lotus Quickr for Domino ActiveX control Import_Times Method Access buffer overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014809",
+        "metadata":  {
+                         "crtime":  "2012_05_25",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/49285/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible IBM Lotus Quickr for Domino ActiveX control Attachment_Times Method Access buffer overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014808",
+        "metadata":  {
+                         "crtime":  "2012_05_25",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/49285/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SoftArtisans XFile FileManager ActiveX Buildpath method stack overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010746",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.kb.cert.org/vuls/id/914785"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SoftArtisans XFile FileManager ActiveX stack overfow Function call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010745",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.kb.cert.org/vuls/id/914785"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SoftArtisans XFile FileManager ActiveX GetDriveName method stack overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010747",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.kb.cert.org/vuls/id/914785"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SoftArtisans XFile FileManager ActiveX DriveExists method stack overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010748",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.kb.cert.org/vuls/id/914785"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX SoftArtisans XFile FileManager ActiveX DeleteFile method stack overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010749",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.kb.cert.org/vuls/id/914785"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX HP Easy Printer Care Software XMLCacheMgr ActiveX Control Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2014132",
+        "metadata":  {
+                         "crtime":  "2012_01_18",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bid",
+                    "ref":  "51396"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX J-Integra ActiveX SetIdentity Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2012098",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/15655"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX WMITools ActiveX Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2012097",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/15809/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX winhlp32 ActiveX control attack - phase 1",
+        "type":  "web-application-attack",
+        "sid":  "2001622",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_08",
+                         "tags":  "ActiveX",
+                         "rev":  "16"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2001622"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX winhlp32 ActiveX control attack - phase 2",
+        "type":  "web-application-attack",
+        "sid":  "2001623",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_08",
+                         "tags":  "ActiveX",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2001623"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX winhlp32 ActiveX control attack - phase 3",
+        "type":  "web-application-attack",
+        "sid":  "2001624",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_08",
+                         "tags":  "ActiveX",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2001624"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX SendCommand Method Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011200",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX Login Method Buffer Oveflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011201",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX _DownloadPBOpen Method Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011203",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX _DownloadPBClose Method Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011204",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX Snapshot Method Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011202",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX _DownloadPBControl Method Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011205",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AVTECH Software ActiveX Buffer Overflow Function Call",
+        "type":  "attempted-user",
+        "sid":  "2011206",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "zeroscience.mk/en/vulnerabilities/ZSL-2010-4934.php"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Adobe browser document ActiveX DoS Function call Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010705",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.packetstormsecurity.nl/0911-exploits/acropdf-dos.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Adobe browser document ActiveX DoS Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010726",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.packetstormsecurity.nl/0911-exploits/acropdf-dos.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Ask.com Toolbar askBar.dll ActiveX ShortFormat Buffer Overflow Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2010921",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.packetstormsecurity.nl/0911-exploits/ask_shortformat.rb.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Multiple Altiris Products AeXNSConsoleUtilities.dll ActiveX Control BrowseAndSaveFile Method Buffer Overflow Attempt Function Call",
+        "type":  "attempted-user",
+        "sid":  "2010245",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/business/security_response/securityupdates/detail.jsp?fid=security_advisory\u0026pvid=security_advisory\u0026year=2009\u0026suid=20091102_00"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible AOL SuperBuddy ActiveX Control Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010039",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securityfocus.com/bid/36580/info"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Awingsoft Web3D Player Remote Buffer Overflow",
+        "type":  "web-application-attack",
+        "sid":  "2009857",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/35764/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX ChilkatHttp ActiveX 2.3 Arbitrary Files Overwrite",
+        "type":  "web-application-attack",
+        "sid":  "2008099",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "28546"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Dart Communications PowerTCP FTP for ActiveX DartFtp.dll Control Buffer Overflow",
+        "type":  "web-application-attack",
+        "sid":  "2008683",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "31814"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Avaya CallPilot Unified Messaging ActiveX InstallFrom Method Access Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011692",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/40184/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Avaya CallPilot Unified Messaging ActiveX Function Call",
+        "type":  "attempted-user",
+        "sid":  "2011681",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/40184/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Axis Media Controller ActiveX SetImage Method Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011722",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "41078"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX DjVu DjVu_ActiveX_MSOffice.dll ActiveX Component Heap Buffer Overflow",
+        "type":  "web-application-attack",
+        "sid":  "2008790",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "31987"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX EasyMail Object SMTP Component Buffer Overflow Function call Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2010657",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "secunia.com/advisories/24199/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX AoA Audio Extractor ActiveX Control Buffer Overflow Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2011801",
+        "metadata":  {
+                         "crtime":  "2010_10_12",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/14599/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Microsoft DirectX 9 ActiveX Control Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2011590",
+        "metadata":  {
+                         "crtime":  "2010_10_01",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstorm.linuxsecurity.com/1009-exploits/msvidctl-activex.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Softek Barcode Reader Toolkit ActiveX Control Format String Function Call",
+        "type":  "attempted-user",
+        "sid":  "2011870",
+        "metadata":  {
+                         "crtime":  "2010_10_29",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/15071/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Softek Barcode Reader Toolkit ActiveX Control Buffer Overflow Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2011869",
+        "metadata":  {
+                         "crtime":  "2010_10_29",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/15071"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Trend Micro Internet Security Pro 2010 ActiveX extSetOwner Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2011867",
+        "metadata":  {
+                         "crtime":  "2010_10_29",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/trend-micro-internet-security-pro-2010-activex-extsetowner-remote-code-execution/"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX DB Software Laboratory VImpX.ocx ActiveX Control Multiple Insecure Methods",
+        "type":  "web-application-attack",
+        "sid":  "2008789",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_19",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "31907"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Microsoft DirectX 9 msvidctl.dll ActiveX Control Code Execution Attempt",
+        "type":  "web-application-attack",
+        "sid":  "2011589",
+        "metadata":  {
+                         "crtime":  "2010_10_01",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstorm.linuxsecurity.com/1009-exploits/msvidctl-activex.txt"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Oracle Document Capture File Overwrite or Buffer Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2012234",
+        "metadata":  {
+                         "crtime":  "2011_01_27",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2010-3599"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX ASUS Net4Switch ipswcom.dll ActiveX Stack Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2014325",
+        "metadata":  {
+                         "crtime":  "2012_03_06",
+                         "uptime":  "2019_09_27",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/110296/ASUS-Net4Switch-ipswcom.dll-ActiveX-Stack-Buffer-Overflow.html"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Easewe FTP OCX ActiveX Control EaseWeFtp.ocx Remote Code Execution Attempt",
+        "type":  "attempted-user",
+        "sid":  "2013119",
+        "metadata":  {
+                         "crtime":  "2011_06_24",
+                         "uptime":  "2019_10_07",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bid",
+                    "ref":  "48393"
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Suspicious TLS SNI Request for Root",
+        "type":  "bad-unknown",
+        "sid":  "2029191",
+        "metadata":  {
+                         "crtime":  "2019_12_23",
+                         "uptime":  "2020_10_26",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Successful Generic Phish (set) 2021-03-08",
+        "type":  "attempted-admin",
+        "sid":  "2031875",
+        "metadata":  {
+                         "crtime":  "2021_03_08",
+                         "uptime":  "2021_03_08, mitre_tactic_id TA0001, mitre_tactic_name Initial_Access, mitre_technique_id T1566, mitre_technique_name Phishing",
+                         "tags":  "Phishing",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET ACTIVEX Possible Sparkasse Phishing Domain 2021-04-05",
+        "type":  "attempted-admin",
+        "sid":  "2032469",
+        "metadata":  {
+                         "crtime":  "2021_04_05",
+                         "uptime":  "2021_04_05",
+                         "tags":  "Phishing",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    }
+]

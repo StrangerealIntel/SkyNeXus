@@ -1,0 +1,632 @@
+[
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 1",
+        "type":  "misc-attack",
+        "sid":  "2400000",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 2",
+        "type":  "misc-attack",
+        "sid":  "2400001",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 3",
+        "type":  "misc-attack",
+        "sid":  "2400002",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 4",
+        "type":  "misc-attack",
+        "sid":  "2400003",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 5",
+        "type":  "misc-attack",
+        "sid":  "2400004",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 6",
+        "type":  "misc-attack",
+        "sid":  "2400005",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 7",
+        "type":  "misc-attack",
+        "sid":  "2400006",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 8",
+        "type":  "misc-attack",
+        "sid":  "2400007",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 9",
+        "type":  "misc-attack",
+        "sid":  "2400008",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 10",
+        "type":  "misc-attack",
+        "sid":  "2400009",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 11",
+        "type":  "misc-attack",
+        "sid":  "2400010",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 12",
+        "type":  "misc-attack",
+        "sid":  "2400011",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 13",
+        "type":  "misc-attack",
+        "sid":  "2400012",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 14",
+        "type":  "misc-attack",
+        "sid":  "2400013",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 15",
+        "type":  "misc-attack",
+        "sid":  "2400014",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 16",
+        "type":  "misc-attack",
+        "sid":  "2400015",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 17",
+        "type":  "misc-attack",
+        "sid":  "2400016",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 18",
+        "type":  "misc-attack",
+        "sid":  "2400017",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 19",
+        "type":  "misc-attack",
+        "sid":  "2400018",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 20",
+        "type":  "misc-attack",
+        "sid":  "2400019",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 21",
+        "type":  "misc-attack",
+        "sid":  "2400020",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 22",
+        "type":  "misc-attack",
+        "sid":  "2400021",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 23",
+        "type":  "misc-attack",
+        "sid":  "2400022",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 24",
+        "type":  "misc-attack",
+        "sid":  "2400023",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 25",
+        "type":  "misc-attack",
+        "sid":  "2400024",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 26",
+        "type":  "misc-attack",
+        "sid":  "2400025",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 27",
+        "type":  "misc-attack",
+        "sid":  "2400026",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 28",
+        "type":  "misc-attack",
+        "sid":  "2400027",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 29",
+        "type":  "misc-attack",
+        "sid":  "2400028",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 30",
+        "type":  "misc-attack",
+        "sid":  "2400029",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 31",
+        "type":  "misc-attack",
+        "sid":  "2400030",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 32",
+        "type":  "misc-attack",
+        "sid":  "2400031",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 33",
+        "type":  "misc-attack",
+        "sid":  "2400032",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 34",
+        "type":  "misc-attack",
+        "sid":  "2400033",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 35",
+        "type":  "misc-attack",
+        "sid":  "2400034",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 36",
+        "type":  "misc-attack",
+        "sid":  "2400035",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 37",
+        "type":  "misc-attack",
+        "sid":  "2400036",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 38",
+        "type":  "misc-attack",
+        "sid":  "2400037",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 39",
+        "type":  "misc-attack",
+        "sid":  "2400038",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 40",
+        "type":  "misc-attack",
+        "sid":  "2400039",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 41",
+        "type":  "misc-attack",
+        "sid":  "2400040",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    },
+    {
+        "description":  "ET DROP Spamhaus DROP Listed Traffic Inbound group 42",
+        "type":  "misc-attack",
+        "sid":  "2400041",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Dshield",
+                         "rev":  "2987"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.spamhaus.org/drop/drop.lasso"
+                }
+    }
+]

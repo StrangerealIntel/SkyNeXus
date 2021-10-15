@@ -1,0 +1,1052 @@
+[
+    {
+        "description":  "ET CHAT Facebook Chat using XMPP",
+        "type":  "policy-violation",
+        "sid":  "2010819",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.facebook.com/sitetour/chat.php"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Client Login Packet",
+        "type":  "policy-violation",
+        "sid":  "2008298",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Server Login Failed Packet",
+        "type":  "policy-violation",
+        "sid":  "2008300",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Server Available Status Packet",
+        "type":  "policy-violation",
+        "sid":  "2008301",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Send Message",
+        "type":  "policy-violation",
+        "sid":  "2008302",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Receive Message",
+        "type":  "policy-violation",
+        "sid":  "2008303",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Keepalive PING",
+        "type":  "policy-violation",
+        "sid":  "2008304",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Keepalive PONG",
+        "type":  "policy-violation",
+        "sid":  "2008305",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat File Send Request",
+        "type":  "policy-violation",
+        "sid":  "2008306",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat File Send Details",
+        "type":  "policy-violation",
+        "sid":  "2008307",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat File Send Accept",
+        "type":  "policy-violation",
+        "sid":  "2008308",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat File Send Begin",
+        "type":  "policy-violation",
+        "sid":  "2008309",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT ICQ Status Invisible",
+        "type":  "policy-violation",
+        "sid":  "2001801",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001801"
+                }
+    },
+    {
+        "description":  "ET CHAT ICQ Status Change (1)",
+        "type":  "policy-violation",
+        "sid":  "2001802",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001802"
+                }
+    },
+    {
+        "description":  "ET CHAT ICQ Status Change (2)",
+        "type":  "policy-violation",
+        "sid":  "2001803",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001803"
+                }
+    },
+    {
+        "description":  "ET CHAT ICQ Login",
+        "type":  "policy-violation",
+        "sid":  "2001804",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001804"
+                }
+    },
+    {
+        "description":  "ET CHAT ICQ Message",
+        "type":  "policy-violation",
+        "sid":  "2001805",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001805"
+                }
+    },
+    {
+        "description":  "ET CHAT Google Talk (Jabber) Client Login",
+        "type":  "policy-violation",
+        "sid":  "2002327",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "talk.google.com"
+                }
+    },
+    {
+        "description":  "ET CHAT MSN status change",
+        "type":  "policy-violation",
+        "sid":  "2002192",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002192"
+                }
+    },
+    {
+        "description":  "ET CHAT Yahoo IM voicechat",
+        "type":  "policy-violation",
+        "sid":  "2001254",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001254"
+                }
+    },
+    {
+        "description":  "ET CHAT Yahoo IM Unavailable Status",
+        "type":  "policy-violation",
+        "sid":  "2001427",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001427"
+                }
+    },
+    {
+        "description":  "ET CHAT IRC authorization message",
+        "type":  "misc-activity",
+        "sid":  "2000355",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2000355"
+                }
+    },
+    {
+        "description":  "ET CHAT Google IM traffic Jabber client sign-on",
+        "type":  "policy-violation",
+        "sid":  "2002334",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.google.com/talk"
+                }
+    },
+    {
+        "description":  "GPL CHAT MSN user search",
+        "type":  "policy-violation",
+        "sid":  "2101990",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT MSN login attempt",
+        "type":  "policy-violation",
+        "sid":  "2101991",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT MSN outbound file transfer request",
+        "type":  "policy-violation",
+        "sid":  "2101986",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT MSN outbound file transfer accept",
+        "type":  "policy-violation",
+        "sid":  "2101988",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT MSN outbound file transfer rejected",
+        "type":  "policy-violation",
+        "sid":  "2101989",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT AIM receive message",
+        "type":  "policy-violation",
+        "sid":  "2101633",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT AIM login",
+        "type":  "policy-violation",
+        "sid":  "2101631",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT IRC DCC chat request",
+        "type":  "policy-violation",
+        "sid":  "2101640",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT IRC DCC file transfer request",
+        "type":  "policy-violation",
+        "sid":  "2101639",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET CHAT IRC NICK command",
+        "type":  "misc-activity",
+        "sid":  "2002024",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "19"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002024"
+                }
+    },
+    {
+        "description":  "ET CHAT IRC JOIN command",
+        "type":  "misc-activity",
+        "sid":  "2002025",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "19"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002025"
+                }
+    },
+    {
+        "description":  "ET CHAT IRC USER command",
+        "type":  "misc-activity",
+        "sid":  "2002023",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "16"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002023"
+                }
+    },
+    {
+        "description":  "ET CHAT IRC PRIVMSG command",
+        "type":  "misc-activity",
+        "sid":  "2002026",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "21"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002026"
+                }
+    },
+    {
+        "description":  "ET CHAT IRC PING command",
+        "type":  "misc-activity",
+        "sid":  "2002027",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "16"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002027"
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM successful chat join",
+        "type":  "policy-violation",
+        "sid":  "2102458",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM conference request",
+        "type":  "policy-violation",
+        "sid":  "2102460",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM ping",
+        "type":  "policy-violation",
+        "sid":  "2102452",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM conference offer invitation",
+        "type":  "policy-violation",
+        "sid":  "2102459",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM conference message",
+        "type":  "policy-violation",
+        "sid":  "2102455",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM conference watch",
+        "type":  "policy-violation",
+        "sid":  "2102461",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo Messenger File Transfer Receive Request",
+        "type":  "policy-violation",
+        "sid":  "2102456",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM voicechat",
+        "type":  "policy-violation",
+        "sid":  "2102451",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM conference logon success",
+        "type":  "policy-violation",
+        "sid":  "2102454",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Yahoo IM conference invitation",
+        "type":  "policy-violation",
+        "sid":  "2102453",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET CHAT Skype User-Agent detected",
+        "type":  "policy-violation",
+        "sid":  "2002157",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002157"
+                }
+    },
+    {
+        "description":  "ET CHAT Facebook Chat (buddy list)",
+        "type":  "policy-violation",
+        "sid":  "2010785",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010785"
+                }
+    },
+    {
+        "description":  "ET CHAT IRC USER Likely bot with 0 0 colon checkin",
+        "type":  "misc-activity",
+        "sid":  "2025066",
+        "metadata":  {
+                         "crtime":  "2013_07_12",
+                         "uptime":  "2017_11_28",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET CHAT IRC USER Off-port Likely bot with 0 0 colon checkin",
+        "type":  "misc-activity",
+        "sid":  "2025067",
+        "metadata":  {
+                         "crtime":  "2013_07_12",
+                         "uptime":  "2017_11_28",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET CHAT IRC PONG response",
+        "type":  "misc-activity",
+        "sid":  "2002028",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "19"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002028"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Server Login OK Packet",
+        "type":  "policy-violation",
+        "sid":  "2008299",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT Yahoo IM file transfer request",
+        "type":  "policy-violation",
+        "sid":  "2001259",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001259"
+                }
+    },
+    {
+        "description":  "GPL CHAT Jabber/Google Talk Outoing Message",
+        "type":  "policy-violation",
+        "sid":  "2100233",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.google.com/talk/"
+                }
+    },
+    {
+        "description":  "GPL CHAT Jabber/Google Talk Outgoing Traffic",
+        "type":  "not-suspicious",
+        "sid":  "2100230",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.google.com/talk/"
+                }
+    },
+    {
+        "description":  "GPL CHAT Google Talk Startup",
+        "type":  "policy-violation",
+        "sid":  "2100877",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Google Talk Logon",
+        "type":  "policy-violation",
+        "sid":  "2100232",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.google.com/talk/"
+                }
+    },
+    {
+        "description":  "GPL CHAT Google Talk Version Check",
+        "type":  "policy-violation",
+        "sid":  "2100876",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_05_13",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL CHAT Jabber/Google Talk Logon Success",
+        "type":  "policy-violation",
+        "sid":  "2100235",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.google.com/talk/"
+                }
+    },
+    {
+        "description":  "GPL CHAT Jabber/Google Talk Incoming Message",
+        "type":  "policy-violation",
+        "sid":  "2100236",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.google.com/talk/"
+                }
+    },
+    {
+        "description":  "ET CHAT Gadu-Gadu IM Login Server Request",
+        "type":  "policy-violation",
+        "sid":  "2008295",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_20",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT Gadu-Gadu Chat Client Checkin via HTTP",
+        "type":  "trojan-activity",
+        "sid":  "2007866",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_20",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2007866"
+                }
+    },
+    {
+        "description":  "ET CHAT GaduGadu Chat Server Welcome Packet",
+        "type":  "policy-violation",
+        "sid":  "2008297",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_12_11",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "piotr.trzcionkowski.pl/default.asp?load=/programy/pppgg_protokol.html"
+                }
+    },
+    {
+        "description":  "ET CHAT Skype VOIP Checking Version (Startup)",
+        "type":  "policy-violation",
+        "sid":  "2001595",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_02",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www1.cs.columbia.edu/~library/TR-repository/reports/reports-2004/cucs-039-04.pdf"
+                }
+    },
+    {
+        "description":  "ET CHAT Facebook Chat (send message)",
+        "type":  "policy-violation",
+        "sid":  "2010784",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_11",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010784"
+                }
+    },
+    {
+        "description":  "ET CHAT Yahoo IM Client Install",
+        "type":  "policy-violation",
+        "sid":  "2002659",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002659"
+                }
+    },
+    {
+        "description":  "GPL CHAT ICQ access",
+        "type":  "policy-violation",
+        "sid":  "2100541",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET CHAT General MSN Chat Activity",
+        "type":  "policy-violation",
+        "sid":  "2009375",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_12_03",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.hypothetic.org/docs/msn/general/http_examples.php"
+                }
+    },
+    {
+        "description":  "GPL CHAT IRC Channel join",
+        "type":  "policy-violation",
+        "sid":  "2101729",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2021_07_07",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 1",
+        "type":  "misc-attack",
+        "sid":  "2525000",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 2",
+        "type":  "misc-attack",
+        "sid":  "2525001",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 3",
+        "type":  "misc-attack",
+        "sid":  "2525002",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 4",
+        "type":  "misc-attack",
+        "sid":  "2525003",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 5",
+        "type":  "misc-attack",
+        "sid":  "2525004",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 6",
+        "type":  "misc-attack",
+        "sid":  "2525005",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 7",
+        "type":  "misc-attack",
+        "sid":  "2525006",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 8",
+        "type":  "misc-attack",
+        "sid":  "2525007",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 9",
+        "type":  "misc-attack",
+        "sid":  "2525008",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 10",
+        "type":  "misc-attack",
+        "sid":  "2525009",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 11",
+        "type":  "misc-attack",
+        "sid":  "2525010",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 12",
+        "type":  "misc-attack",
+        "sid":  "2525011",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 13",
+        "type":  "misc-attack",
+        "sid":  "2525012",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 14",
+        "type":  "misc-attack",
+        "sid":  "2525013",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 15",
+        "type":  "misc-attack",
+        "sid":  "2525014",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 16",
+        "type":  "misc-attack",
+        "sid":  "2525015",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 17",
+        "type":  "misc-attack",
+        "sid":  "2525016",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 18",
+        "type":  "misc-attack",
+        "sid":  "2525017",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 19",
+        "type":  "misc-attack",
+        "sid":  "2525018",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    },
+    {
+        "description":  "ET 3CORESec Poor Reputation IP group 20",
+        "type":  "misc-attack",
+        "sid":  "2525019",
+        "metadata":  {
+                         "crtime":  "2020_07_20",
+                         "uptime":  "2021_08_20",
+                         "tags":  "3CORESec",
+                         "rev":  "285"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blacklist.3coresec.net/lists/et-open.txt"
+                }
+    }
+]

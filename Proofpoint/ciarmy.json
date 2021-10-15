@@ -1,0 +1,1502 @@
+[
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 1",
+        "type":  "misc-attack",
+        "sid":  "2403300",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 2",
+        "type":  "misc-attack",
+        "sid":  "2403301",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 3",
+        "type":  "misc-attack",
+        "sid":  "2403302",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 4",
+        "type":  "misc-attack",
+        "sid":  "2403303",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 5",
+        "type":  "misc-attack",
+        "sid":  "2403304",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 6",
+        "type":  "misc-attack",
+        "sid":  "2403305",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 7",
+        "type":  "misc-attack",
+        "sid":  "2403306",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 8",
+        "type":  "misc-attack",
+        "sid":  "2403307",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 9",
+        "type":  "misc-attack",
+        "sid":  "2403308",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 10",
+        "type":  "misc-attack",
+        "sid":  "2403309",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 11",
+        "type":  "misc-attack",
+        "sid":  "2403310",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 12",
+        "type":  "misc-attack",
+        "sid":  "2403311",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 13",
+        "type":  "misc-attack",
+        "sid":  "2403312",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 14",
+        "type":  "misc-attack",
+        "sid":  "2403313",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 15",
+        "type":  "misc-attack",
+        "sid":  "2403314",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 16",
+        "type":  "misc-attack",
+        "sid":  "2403315",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 17",
+        "type":  "misc-attack",
+        "sid":  "2403316",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 18",
+        "type":  "misc-attack",
+        "sid":  "2403317",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 19",
+        "type":  "misc-attack",
+        "sid":  "2403318",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 20",
+        "type":  "misc-attack",
+        "sid":  "2403319",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 21",
+        "type":  "misc-attack",
+        "sid":  "2403320",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 22",
+        "type":  "misc-attack",
+        "sid":  "2403321",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 23",
+        "type":  "misc-attack",
+        "sid":  "2403322",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 24",
+        "type":  "misc-attack",
+        "sid":  "2403323",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 25",
+        "type":  "misc-attack",
+        "sid":  "2403324",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 26",
+        "type":  "misc-attack",
+        "sid":  "2403325",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 27",
+        "type":  "misc-attack",
+        "sid":  "2403326",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 28",
+        "type":  "misc-attack",
+        "sid":  "2403327",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 29",
+        "type":  "misc-attack",
+        "sid":  "2403328",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 30",
+        "type":  "misc-attack",
+        "sid":  "2403329",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 31",
+        "type":  "misc-attack",
+        "sid":  "2403330",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 32",
+        "type":  "misc-attack",
+        "sid":  "2403331",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 33",
+        "type":  "misc-attack",
+        "sid":  "2403332",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 34",
+        "type":  "misc-attack",
+        "sid":  "2403333",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 35",
+        "type":  "misc-attack",
+        "sid":  "2403334",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 36",
+        "type":  "misc-attack",
+        "sid":  "2403335",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 37",
+        "type":  "misc-attack",
+        "sid":  "2403336",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 38",
+        "type":  "misc-attack",
+        "sid":  "2403337",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 39",
+        "type":  "misc-attack",
+        "sid":  "2403338",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 40",
+        "type":  "misc-attack",
+        "sid":  "2403339",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 41",
+        "type":  "misc-attack",
+        "sid":  "2403340",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 42",
+        "type":  "misc-attack",
+        "sid":  "2403341",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 43",
+        "type":  "misc-attack",
+        "sid":  "2403342",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 44",
+        "type":  "misc-attack",
+        "sid":  "2403343",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 45",
+        "type":  "misc-attack",
+        "sid":  "2403344",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 46",
+        "type":  "misc-attack",
+        "sid":  "2403345",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 47",
+        "type":  "misc-attack",
+        "sid":  "2403346",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 48",
+        "type":  "misc-attack",
+        "sid":  "2403347",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 49",
+        "type":  "misc-attack",
+        "sid":  "2403348",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 50",
+        "type":  "misc-attack",
+        "sid":  "2403349",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 51",
+        "type":  "misc-attack",
+        "sid":  "2403350",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 52",
+        "type":  "misc-attack",
+        "sid":  "2403351",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 53",
+        "type":  "misc-attack",
+        "sid":  "2403352",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 54",
+        "type":  "misc-attack",
+        "sid":  "2403353",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 55",
+        "type":  "misc-attack",
+        "sid":  "2403354",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 56",
+        "type":  "misc-attack",
+        "sid":  "2403355",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 57",
+        "type":  "misc-attack",
+        "sid":  "2403356",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 58",
+        "type":  "misc-attack",
+        "sid":  "2403357",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 59",
+        "type":  "misc-attack",
+        "sid":  "2403358",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 60",
+        "type":  "misc-attack",
+        "sid":  "2403359",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 61",
+        "type":  "misc-attack",
+        "sid":  "2403360",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 62",
+        "type":  "misc-attack",
+        "sid":  "2403361",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 63",
+        "type":  "misc-attack",
+        "sid":  "2403362",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 64",
+        "type":  "misc-attack",
+        "sid":  "2403363",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 65",
+        "type":  "misc-attack",
+        "sid":  "2403364",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 66",
+        "type":  "misc-attack",
+        "sid":  "2403365",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 67",
+        "type":  "misc-attack",
+        "sid":  "2403366",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 68",
+        "type":  "misc-attack",
+        "sid":  "2403367",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 69",
+        "type":  "misc-attack",
+        "sid":  "2403368",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 70",
+        "type":  "misc-attack",
+        "sid":  "2403369",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 71",
+        "type":  "misc-attack",
+        "sid":  "2403370",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 72",
+        "type":  "misc-attack",
+        "sid":  "2403371",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 73",
+        "type":  "misc-attack",
+        "sid":  "2403372",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 74",
+        "type":  "misc-attack",
+        "sid":  "2403373",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 75",
+        "type":  "misc-attack",
+        "sid":  "2403374",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 76",
+        "type":  "misc-attack",
+        "sid":  "2403375",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 77",
+        "type":  "misc-attack",
+        "sid":  "2403376",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 78",
+        "type":  "misc-attack",
+        "sid":  "2403377",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 79",
+        "type":  "misc-attack",
+        "sid":  "2403378",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 80",
+        "type":  "misc-attack",
+        "sid":  "2403379",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 81",
+        "type":  "misc-attack",
+        "sid":  "2403380",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 82",
+        "type":  "misc-attack",
+        "sid":  "2403381",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 83",
+        "type":  "misc-attack",
+        "sid":  "2403382",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 84",
+        "type":  "misc-attack",
+        "sid":  "2403383",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 85",
+        "type":  "misc-attack",
+        "sid":  "2403384",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 86",
+        "type":  "misc-attack",
+        "sid":  "2403385",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 87",
+        "type":  "misc-attack",
+        "sid":  "2403386",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 88",
+        "type":  "misc-attack",
+        "sid":  "2403387",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 89",
+        "type":  "misc-attack",
+        "sid":  "2403388",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 90",
+        "type":  "misc-attack",
+        "sid":  "2403389",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 91",
+        "type":  "misc-attack",
+        "sid":  "2403390",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 92",
+        "type":  "misc-attack",
+        "sid":  "2403391",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 93",
+        "type":  "misc-attack",
+        "sid":  "2403392",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 94",
+        "type":  "misc-attack",
+        "sid":  "2403393",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 95",
+        "type":  "misc-attack",
+        "sid":  "2403394",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 96",
+        "type":  "misc-attack",
+        "sid":  "2403395",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 97",
+        "type":  "misc-attack",
+        "sid":  "2403396",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 98",
+        "type":  "misc-attack",
+        "sid":  "2403397",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 99",
+        "type":  "misc-attack",
+        "sid":  "2403398",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    },
+    {
+        "description":  "ET CINS Active Threat Intelligence Poor Reputation IP group 100",
+        "type":  "misc-attack",
+        "sid":  "2403399",
+        "metadata":  {
+                         "crtime":  "2013_10_08",
+                         "uptime":  "2021_08_20",
+                         "tags":  "CINS",
+                         "rev":  "68187"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cinsscore.com"
+                }
+    }
+]

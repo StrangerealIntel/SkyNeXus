@@ -1,0 +1,992 @@
+[
+    {
+        "description":  "ET DOS Microsoft Remote Desktop (RDP) Syn/Ack Outbound Flowbit Set",
+        "type":  "not-suspicious",
+        "sid":  "2014385",
+        "metadata":  {
+                         "crtime":  "2012_03_15",
+                         "uptime":  "2012_03_15",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2012-0152"
+                }
+    },
+    {
+        "description":  "ET DOS LibuPnP CVE-2012-5963 ST UDN Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2016323",
+        "metadata":  {
+                         "crtime":  "2013_01_31",
+                         "uptime":  "2013_01_31",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "CVE-2012-5963"
+                }
+    },
+    {
+        "description":  "ET DOS CVE-2013-0230 Miniupnpd SoapAction MethodName Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2016364",
+        "metadata":  {
+                         "crtime":  "2013_02_06",
+                         "uptime":  "2013_02_06",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/infosec/blog/2013/01/29/security-flaws-in-universal-plug-and-play-unplug-dont-play"
+                }
+    },
+    {
+        "description":  "ET DOS Miniupnpd M-SEARCH Buffer Overflow CVE-2013-0229",
+        "type":  "attempted-dos",
+        "sid":  "2016363",
+        "metadata":  {
+                         "crtime":  "2013_02_06",
+                         "uptime":  "2013_02_06",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/infosec/blog/2013/01/29/security-flaws-in-universal-plug-and-play-unplug-dont-play"
+                }
+    },
+    {
+        "description":  "ET DOS Trojan.BlackRev V1.Botnet HTTP Login POST Flood Traffic Inbound",
+        "type":  "attempted-dos",
+        "sid":  "2017722",
+        "metadata":  {
+                         "crtime":  "2013_11_14",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.btpro.net/blog/2013/05/black-revolution-botnet-trojan/"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed MON_LIST Requests IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2017918",
+        "metadata":  {
+                         "crtime":  "2014_01_02",
+                         "uptime":  "2014_01_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/hackers-spend-christmas-break-launching-large-scale-ntp-reflection-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed MON_LIST Requests IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2017919",
+        "metadata":  {
+                         "crtime":  "2014_01_02",
+                         "uptime":  "2014_01_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/hackers-spend-christmas-break-launching-large-scale-ntp-reflection-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Multiple MON_LIST Seq 0 Response Spanning Multiple Packets IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2017920",
+        "metadata":  {
+                         "crtime":  "2014_01_02",
+                         "uptime":  "2014_01_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/hackers-spend-christmas-break-launching-large-scale-ntp-reflection-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Multiple MON_LIST Seq 0 Response Spanning Multiple Packets IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2017921",
+        "metadata":  {
+                         "crtime":  "2014_01_02",
+                         "uptime":  "2014_01_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/hackers-spend-christmas-break-launching-large-scale-ntp-reflection-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress MON_LIST Response to Non-Ephemeral Port IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2017965",
+        "metadata":  {
+                         "crtime":  "2014_01_13",
+                         "uptime":  "2014_01_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/hackers-spend-christmas-break-launching-large-scale-ntp-reflection-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Inbound GoldenEye DoS attack",
+        "type":  "denial-of-service",
+        "sid":  "2018208",
+        "metadata":  {
+                         "crtime":  "2014_03_04",
+                         "uptime":  "2020_04_28",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/jseidl/GoldenEye"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress PEER_LIST Response to Non-Ephemeral Port IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2019010",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress PEER_LIST Response to Non-Ephemeral Port IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2019011",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress PEER_LIST_SUM Response to Non-Ephemeral Port IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2019012",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress PEER_LIST_SUM Response to Non-Ephemeral Port IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2019013",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible SSDP Amplification Scan in Progress",
+        "type":  "attempted-dos",
+        "sid":  "2019102",
+        "metadata":  {
+                         "crtime":  "2014_09_02",
+                         "uptime":  "2014_09_02",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/29/weekly-metasploit-update"
+                }
+    },
+    {
+        "description":  "ET DOS LOIC Javascript DDoS Outbound",
+        "type":  "attempted-dos",
+        "sid":  "2014141",
+        "metadata":  {
+                         "crtime":  "2012_01_23",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.org/diary/Javascript+DDoS+Tool+Analysis/12442"
+                }
+    },
+    {
+        "description":  "ET DOS LOIC POST",
+        "type":  "web-application-attack",
+        "sid":  "2016030",
+        "metadata":  {
+                         "crtime":  "2012_12_13",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS LOIC GET",
+        "type":  "web-application-attack",
+        "sid":  "2016031",
+        "metadata":  {
+                         "crtime":  "2012_12_13",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS User-Agent used in known DDoS Attacks Detected outbound",
+        "type":  "denial-of-service",
+        "sid":  "2011821",
+        "metadata":  {
+                         "crtime":  "2010_10_18",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.linuxquestions.org/questions/linux-security-4/massive-ddos-need-advice-help-795298/"
+                }
+    },
+    {
+        "description":  "ET DOS User-Agent used in known DDoS Attacks Detected inbound",
+        "type":  "denial-of-service",
+        "sid":  "2011822",
+        "metadata":  {
+                         "crtime":  "2010_10_18",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.linuxquestions.org/questions/linux-security-4/massive-ddos-need-advice-help-795298/"
+                }
+    },
+    {
+        "description":  "ET DOS User-Agent used in known DDoS Attacks Detected outbound 2",
+        "type":  "denial-of-service",
+        "sid":  "2011823",
+        "metadata":  {
+                         "crtime":  "2010_10_18",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.linuxquestions.org/questions/linux-security-4/massive-ddos-need-advice-help-795298/"
+                }
+    },
+    {
+        "description":  "ET DOS User-Agent used in known DDoS Attacks Detected inbound 2",
+        "type":  "denial-of-service",
+        "sid":  "2011824",
+        "metadata":  {
+                         "crtime":  "2010_10_18",
+                         "uptime":  "2020_05_06",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.linuxquestions.org/questions/linux-security-4/massive-ddos-need-advice-help-795298/"
+                }
+    },
+    {
+        "description":  "ET DOS DNS Amplification Attack Inbound",
+        "type":  "bad-unknown",
+        "sid":  "2016016",
+        "metadata":  {
+                         "crtime":  "2012_12_11",
+                         "uptime":  "2012_12_11",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress MON_LIST Response to Non-Ephemeral Port IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2017966",
+        "metadata":  {
+                         "crtime":  "2014_01_13",
+                         "uptime":  "2014_01_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/hackers-spend-christmas-break-launching-large-scale-ntp-reflection-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Terse HTTP GET Likely GoodBye 5.2 DDoS tool",
+        "type":  "attempted-dos",
+        "sid":  "2019350",
+        "metadata":  {
+                         "crtime":  "2014_10_03",
+                         "uptime":  "2014_10_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Terse HTTP GET Likely LOIC",
+        "type":  "attempted-dos",
+        "sid":  "2019346",
+        "metadata":  {
+                         "crtime":  "2014_10_03",
+                         "uptime":  "2014_10_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS HTTP GET AAAAAAAA Likely FireFlood",
+        "type":  "attempted-dos",
+        "sid":  "2019347",
+        "metadata":  {
+                         "crtime":  "2014_10_03",
+                         "uptime":  "2014_10_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Terse HTTP GET Likely AnonMafiaIC DDoS tool",
+        "type":  "attempted-dos",
+        "sid":  "2019348",
+        "metadata":  {
+                         "crtime":  "2014_10_03",
+                         "uptime":  "2014_10_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Terse HTTP GET Likely AnonGhost DDoS tool",
+        "type":  "attempted-dos",
+        "sid":  "2019349",
+        "metadata":  {
+                         "crtime":  "2014_10_03",
+                         "uptime":  "2014_10_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress GET_RESTRICT Response to Non-Ephemeral Port IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2019014",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress GET_RESTRICT Response to Non-Ephemeral Port IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2019015",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed PEER_LIST Requests IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2019016",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed PEER_LIST Requests IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2019017",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed PEER_LIST_SUM Requests IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2019018",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed PEER_LIST_SUM Requests IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2019019",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed GET_RESTRICT Requests IMPL 0x02",
+        "type":  "attempted-dos",
+        "sid":  "2019021",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible NTP DDoS Inbound Frequent Un-Authed GET_RESTRICT Requests IMPL 0x03",
+        "type":  "attempted-dos",
+        "sid":  "2019020",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Likely NTP DDoS In Progress Multiple UNSETTRAP Mode 6 Responses",
+        "type":  "attempted-dos",
+        "sid":  "2019022",
+        "metadata":  {
+                         "crtime":  "2014_08_25",
+                         "uptime":  "2014_08_25",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rapid7.com/community/metasploit/blog/2014/08/25/r7-2014-12-more-amplification-vulnerabilities-in-ntp-allow-even-more-drdos-attacks"
+                }
+    },
+    {
+        "description":  "ET DOS Possible WordPress Pingback DDoS in Progress (Inbound)",
+        "type":  "attempted-dos",
+        "sid":  "2018277",
+        "metadata":  {
+                         "crtime":  "2014_03_14",
+                         "uptime":  "2020_05_14",
+                         "tags":  "Wordpress",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS MC-SQLR Response Outbound Possible DDoS Participation",
+        "type":  "attempted-dos",
+        "sid":  "2020305",
+        "metadata":  {
+                         "crtime":  "2015_01_23",
+                         "uptime":  "2015_01_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "kurtaubuchon.blogspot.com.es/2015/01/mc-sqlr-amplification-ms-sql-server.html"
+                }
+    },
+    {
+        "description":  "ET DOS MC-SQLR Response Inbound Possible DDoS Target",
+        "type":  "attempted-dos",
+        "sid":  "2020306",
+        "metadata":  {
+                         "crtime":  "2015_01_23",
+                         "uptime":  "2015_01_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "kurtaubuchon.blogspot.com.es/2015/01/mc-sqlr-amplification-ms-sql-server.html"
+                }
+    },
+    {
+        "description":  "ET DOS Possible Sentinal LM  Application attack in progress Outbound (Response)",
+        "type":  "attempted-dos",
+        "sid":  "2021170",
+        "metadata":  {
+                         "crtime":  "2015_05_29",
+                         "uptime":  "2015_05_29",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Possible Sentinal LM Amplification attack (Response) Inbound",
+        "type":  "attempted-dos",
+        "sid":  "2021171",
+        "metadata":  {
+                         "crtime":  "2015_05_29",
+                         "uptime":  "2015_05_29",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Possible Sentinal LM Amplification attack (Request) Inbound",
+        "type":  "attempted-dos",
+        "sid":  "2021172",
+        "metadata":  {
+                         "crtime":  "2015_05_29",
+                         "uptime":  "2015_05_29",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DOS Linux/Tsunami DOS User-Agent (x00_-gawa.sa.pilipinas.2015) INBOUND",
+        "type":  "attempted-dos",
+        "sid":  "2022760",
+        "metadata":  {
+                         "crtime":  "2016_04_26",
+                         "uptime":  "2020_07_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "vms.drweb.com/virus/?i=4656268"
+                }
+    },
+    {
+        "description":  "ET DOS DNS Amplification Attack Possible Outbound Windows Non-Recursive Root Hint Reserved Port",
+        "type":  "bad-unknown",
+        "sid":  "2023054",
+        "metadata":  {
+                         "crtime":  "2016_08_12",
+                         "uptime":  "2016_08_12",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "twitter.com/sempersecurus/status/763749835421941760"
+                }
+    },
+    {
+        "description":  "ET DOS DNS Amplification Attack Possible Inbound Windows Non-Recursive Root Hint Reserved Port",
+        "type":  "bad-unknown",
+        "sid":  "2023053",
+        "metadata":  {
+                         "crtime":  "2016_08_12",
+                         "uptime":  "2016_08_12",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "twitter.com/sempersecurus/status/763749835421941760"
+                }
+    },
+    {
+        "description":  "ET DOS Excessive Large Tree Connect Response",
+        "type":  "attempted-dos",
+        "sid":  "2023831",
+        "metadata":  {
+                         "crtime":  "2017_02_03",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/forums/diary/Windows+SMBv3+Denial+of+Service+Proof+of+Concept+0+Day+Exploit/22029/"
+                }
+    },
+    {
+        "description":  "ET DOS SMB Tree_Connect Stack Overflow Attempt (CVE-2017-0016)",
+        "type":  "attempted-dos",
+        "sid":  "2023832",
+        "metadata":  {
+                         "crtime":  "2017_02_03",
+                         "uptime":  "2017_02_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2017-0016"
+                }
+    },
+    {
+        "description":  "ET DOS Microsoft Windows LSASS Remote Memory Corruption (CVE-2017-0004)",
+        "type":  "attempted-dos",
+        "sid":  "2023497",
+        "metadata":  {
+                         "crtime":  "2016_11_11",
+                         "uptime":  "2017_01_12",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/lgandx/PoC/tree/master/LSASS"
+                }
+    },
+    {
+        "description":  "ET DOS SMBLoris NBSS Length Mem Exhaustion Attempt (PoC Based)",
+        "type":  "trojan-activity",
+        "sid":  "2024511",
+        "metadata":  {
+                         "crtime":  "2017_08_02",
+                         "uptime":  "2017_08_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/forums/diary/SMBLoris+the+new+SMB+flaw/22662/"
+                }
+    },
+    {
+        "description":  "ET DOS CLDAP Amplification Reflection (PoC based)",
+        "type":  "attempted-dos",
+        "sid":  "2024584",
+        "metadata":  {
+                         "crtime":  "2017_08_16",
+                         "uptime":  "2017_08_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.akamai.com/us/en/multimedia/documents/state-of-the-internet/cldap-threat-advisory.pdf"
+                }
+    },
+    {
+        "description":  "ET DOS Potential CLDAP Amplification Reflection",
+        "type":  "attempted-dos",
+        "sid":  "2024585",
+        "metadata":  {
+                         "crtime":  "2017_08_16",
+                         "uptime":  "2017_08_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.akamai.com/us/en/multimedia/documents/state-of-the-internet/cldap-threat-advisory.pdf"
+                }
+    },
+    {
+        "description":  "ET DOS Possible Memcached DDoS Amplification Query (set)",
+        "type":  "attempted-dos",
+        "sid":  "2025401",
+        "metadata":  {
+                         "crtime":  "2018_03_01",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/"
+                }
+    },
+    {
+        "description":  "ET DOS Possible Memcached DDoS Amplification Response Outbound",
+        "type":  "attempted-dos",
+        "sid":  "2025402",
+        "metadata":  {
+                         "crtime":  "2018_03_01",
+                         "uptime":  "2018_03_01",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/"
+                }
+    },
+    {
+        "description":  "ET DOS Possible Memcached DDoS Amplification Inbound",
+        "type":  "attempted-dos",
+        "sid":  "2025403",
+        "metadata":  {
+                         "crtime":  "2018_03_01",
+                         "uptime":  "2018_03_01",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.cloudflare.com/memcrashed-major-amplification-attacks-from-port-11211/"
+                }
+    },
+    {
+        "description":  "ET DOS LibuPnP CVE-2012-5958 ST DeviceType Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2016322",
+        "metadata":  {
+                         "crtime":  "2013_01_31",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "CVE_2012-5958"
+                }
+    },
+    {
+        "description":  "ET DOS LibuPnP CVE-2012-5964 ST URN ServiceType Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2016324",
+        "metadata":  {
+                         "crtime":  "2013_01_31",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "CVE-2012-5964"
+                }
+    },
+    {
+        "description":  "ET DOS LibuPnP CVE-2012-5965 ST URN DeviceType Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2016325",
+        "metadata":  {
+                         "crtime":  "2013_01_31",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "CVE-2012-5965"
+                }
+    },
+    {
+        "description":  "ET DOS LibuPnP CVE-2012-5961 ST UDN Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2016326",
+        "metadata":  {
+                         "crtime":  "2013_01_31",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "CVE-2012-5961"
+                }
+    },
+    {
+        "description":  "ET DOS Bittorrent User-Agent inbound - possible DDOS",
+        "type":  "attempted-dos",
+        "sid":  "2020702",
+        "metadata":  {
+                         "crtime":  "2015_03_18",
+                         "uptime":  "2020_10_14",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "torrentfreak.com/zombie-pirate-bay-tracker-fuels-chinese-ddos-attacks-150124/"
+                }
+    },
+    {
+        "description":  "ET DOS HOIC with booster outbound",
+        "type":  "trojan-activity",
+        "sid":  "2018977",
+        "metadata":  {
+                         "crtime":  "2014_08_21",
+                         "uptime":  "2020_10_28",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "23fc64a5cac4406d7143ea26e8c4c7ab"
+                }
+    },
+    {
+        "description":  "ET DOS HOIC with booster inbound",
+        "type":  "trojan-activity",
+        "sid":  "2018978",
+        "metadata":  {
+                         "crtime":  "2014_08_21",
+                         "uptime":  "2020_10_28",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "23fc64a5cac4406d7143ea26e8c4c7ab"
+                }
+    },
+    {
+        "description":  "ET DOS High Orbit Ion Cannon (HOIC) Attack Inbound Generic Detection Double Spaced UA",
+        "type":  "attempted-dos",
+        "sid":  "2014153",
+        "metadata":  {
+                         "crtime":  "2012_01_27",
+                         "uptime":  "2020_11_06",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.spiderlabs.com/2012/01/hoic-ddos-analysis-and-detection.html"
+                }
+    },
+    {
+        "description":  "ET DOS CallStranger - Attempted UPnP Reflected Amplified TCP with Multiple Callbacks (CVE-2020-12695)",
+        "type":  "attempted-dos",
+        "sid":  "2030339",
+        "metadata":  {
+                         "crtime":  "2020_06_15",
+                         "uptime":  "2020_12_11",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/yunuscadirci/CallStranger"
+                }
+    }
+]

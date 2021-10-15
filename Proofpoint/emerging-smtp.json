@@ -1,0 +1,302 @@
+[
+    {
+        "description":  "ET SMTP Robtex.com Block Message",
+        "type":  "not-suspicious",
+        "sid":  "2012986",
+        "metadata":  {
+                         "crtime":  "2011_06_10",
+                         "uptime":  "2011_06_10",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SMTP AUTH LOGON brute force attempt",
+        "type":  "suspicious-login",
+        "sid":  "2102275",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SMTP expn decode",
+        "type":  "attempted-recon",
+        "sid":  "2100659",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "32"
+                }
+    },
+    {
+        "description":  "GPL SMTP expn root",
+        "type":  "attempted-recon",
+        "sid":  "2100660",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "31"
+                }
+    },
+    {
+        "description":  "GPL SMTP vrfy decode",
+        "type":  "attempted-recon",
+        "sid":  "2100672",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "373"
+                }
+    },
+    {
+        "description":  "GPL SMTP vrfy root",
+        "type":  "attempted-recon",
+        "sid":  "2101446",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SMTP RCPT TO overflow",
+        "type":  "attempted-admin",
+        "sid":  "2100654",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "17"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2283"
+                }
+    },
+    {
+        "description":  "GPL SMTP EXPN overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102259",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "6991"
+                }
+    },
+    {
+        "description":  "ET SMTP EXE - ZIP file with .pif filename inside",
+        "type":  "bad-unknown",
+        "sid":  "2018144",
+        "metadata":  {
+                         "crtime":  "2014_02_14",
+                         "uptime":  "2014_02_14",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP SUSPICIOUS SMTP Attachment Inbound PPT attachment with Embedded OLE Object M2",
+        "type":  "misc-activity",
+        "sid":  "2019407",
+        "metadata":  {
+                         "crtime":  "2014_10_15",
+                         "uptime":  "2014_10_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP SUSPICIOUS SMTP Attachment Inbound PPT attachment with Embedded OLE Object M3",
+        "type":  "misc-activity",
+        "sid":  "2019408",
+        "metadata":  {
+                         "crtime":  "2014_10_15",
+                         "uptime":  "2014_10_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP SUSPICIOUS SMTP Attachment Inbound PPT attachment with Embedded OLE Object M4",
+        "type":  "misc-activity",
+        "sid":  "2019409",
+        "metadata":  {
+                         "crtime":  "2014_10_15",
+                         "uptime":  "2014_10_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP SUSPICIOUS SMTP Attachment Inbound PPT attachment with Embedded OLE Object M5",
+        "type":  "misc-activity",
+        "sid":  "2019410",
+        "metadata":  {
+                         "crtime":  "2014_10_15",
+                         "uptime":  "2014_10_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP SUSPICIOUS SMTP Attachment Inbound PPT attachment with Embedded OLE Object M6",
+        "type":  "misc-activity",
+        "sid":  "2019411",
+        "metadata":  {
+                         "crtime":  "2014_10_15",
+                         "uptime":  "2014_10_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP SUSPICIOUS SMTP Attachment Inbound PPT attachment with Embedded OLE Object M1",
+        "type":  "misc-activity",
+        "sid":  "2019406",
+        "metadata":  {
+                         "crtime":  "2014_10_15",
+                         "uptime":  "2014_10_15",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP Sorbs.net Block Message",
+        "type":  "not-suspicious",
+        "sid":  "2012985",
+        "metadata":  {
+                         "crtime":  "2011_06_10",
+                         "uptime":  "2011_06_10",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP Incoming SMTP Message with Possibly Malicious MIME Epilogue 2016-05-13 (BadEpilogue)",
+        "type":  "bad-unknown",
+        "sid":  "2023255",
+        "metadata":  {
+                         "crtime":  "2016_09_22",
+                         "uptime":  "2016_09_22",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.certego.local/en/news/badepilogue-the-perfect-evasion/"
+                }
+    },
+    {
+        "description":  "ET SMTP Abuseat.org Block Message",
+        "type":  "not-suspicious",
+        "sid":  "2012982",
+        "metadata":  {
+                         "crtime":  "2011_06_10",
+                         "uptime":  "2011_06_10",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP Spamcop.net Block Message",
+        "type":  "not-suspicious",
+        "sid":  "2012983",
+        "metadata":  {
+                         "crtime":  "2011_06_10",
+                         "uptime":  "2011_06_10",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SMTP Possible ComputerCop Log Transmitted via SMTP",
+        "type":  "trojan-activity",
+        "sid":  "2019340",
+        "metadata":  {
+                         "crtime":  "2014_10_02",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.eff.org/deeplinks/2014/09/computercop-dangerous-internet-safety-software-hundreds-police-agencies"
+                }
+    }
+]

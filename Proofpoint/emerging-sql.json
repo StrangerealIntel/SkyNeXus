@@ -1,0 +1,2867 @@
+[
+    {
+        "description":  "GPL SQL Slammer Worm propagation attempt",
+        "type":  "misc-attack",
+        "sid":  "2102003",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "5310"
+                }
+    },
+    {
+        "description":  "GPL SQL MYSQL root login attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2101775",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL MYSQL show databases attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2101776",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL connect_data remote version detection attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2101674",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sa brute force failed login attempt",
+        "type":  "unsuccessful-user",
+        "sid":  "2103152",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4797"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.generate_replication_support buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102576",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck93.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sp_password password change",
+        "type":  "attempted-user",
+        "sid":  "2100677",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sp_delete_alert log file deletion",
+        "type":  "attempted-user",
+        "sid":  "2100678",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sa login failed",
+        "type":  "attempted-user",
+        "sid":  "2100680",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4797"
+                }
+    },
+    {
+        "description":  "GPL SQL sp_password - password change",
+        "type":  "attempted-user",
+        "sid":  "2100683",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sp_delete_alert log file deletion",
+        "type":  "attempted-user",
+        "sid":  "2100684",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sp_adduser - database user creation",
+        "type":  "attempted-user",
+        "sid":  "2100685",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sa login failed",
+        "type":  "unsuccessful-user",
+        "sid":  "2100688",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4797"
+                }
+    },
+    {
+        "description":  "GPL SQL xp_printstatements possible buffer overflow",
+        "type":  "attempted-user",
+        "sid":  "2100690",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2041"
+                }
+    },
+    {
+        "description":  "GPL SQL shellcode attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2100692",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL MSSQL shellcode attempt 2",
+        "type":  "shellcode-detect",
+        "sid":  "2100693",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL shellcode attempt",
+        "type":  "attempted-user",
+        "sid":  "2100694",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sa brute force failed login unicode attempt",
+        "type":  "unsuccessful-user",
+        "sid":  "2103273",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4797"
+                }
+    },
+    {
+        "description":  "GPL SQL TO_CHAR buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102699",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL create file buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102698",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL mdsys.md2.sdo_code_size buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102683",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL mdsys.md2.validate_geom buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102682",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL mdsys.sdo_admin.sdo_code_size buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102681",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL numtoyminterval buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102700",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL service_name buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102649",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck52.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sys.dbms_repcat_fla_mas.publish_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102822",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL time_zone buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102614",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9587"
+                }
+    },
+    {
+        "description":  "GPL SQL user name buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102650",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck62.html"
+                }
+    },
+    {
+        "description":  "GPL SQL xp_cmdshell program execution",
+        "type":  "attempted-user",
+        "sid":  "2100681",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL sp_start_job - program execution",
+        "type":  "attempted-user",
+        "sid":  "2100673",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL add_grouped_column ordered sname/oname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102600",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck633.html"
+                }
+    },
+    {
+        "description":  "GPL SQL drop_master_repgroup ordered gname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102602",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck87.html"
+                }
+    },
+    {
+        "description":  "GPL SQL create_mview_repgroup ordered fname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102604",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck633.html"
+                }
+    },
+    {
+        "description":  "GPL SQL comment_on_repobject ordered type buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102607",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck634.html"
+                }
+    },
+    {
+        "description":  "GPL SQL cancel_statistics ordered sname/oname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102610",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck633.html"
+                }
+    },
+    {
+        "description":  "GPL SQL grant_surrogate_repcat ordered userid buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102616",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck97.html"
+                }
+    },
+    {
+        "description":  "GPL SQL alter_mview_propagation ordered gname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102618",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck632.html"
+                }
+    },
+    {
+        "description":  "GPL SQL unregister_user_repgroup ordered privilege_type buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102625",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck94.html"
+                }
+    },
+    {
+        "description":  "GPL SQL repcat_import_check ordered gowner/gname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102628",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck90.html"
+                }
+    },
+    {
+        "description":  "GPL SQL register_user_repgroup ordered privilege_type buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102630",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck94.html"
+                }
+    },
+    {
+        "description":  "GPL SQL refresh_mview_repgroup ordered gowner buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102632",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck90.html"
+                }
+    },
+    {
+        "description":  "GPL SQL rectifier_diff ordered sname1 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102634",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck97.html"
+                }
+    },
+    {
+        "description":  "GPL SQL snapshot.end_load ordered gname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102636",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck632.html"
+                }
+    },
+    {
+        "description":  "GPL SQL drop_master_repobject ordered type buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102638",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck634.html"
+                }
+    },
+    {
+        "description":  "GPL SQL drop_mview_repgroup ordered gowner/gname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102640",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck90.html"
+                }
+    },
+    {
+        "description":  "GPL SQL drop_site_instantiate ordered refresh_template_name buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102642",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck629.html"
+                }
+    },
+    {
+        "description":  "GPL SQL from_tz buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102644",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.nextgenss.com/advisories/ora_from_tz.txt"
+                }
+    },
+    {
+        "description":  "GPL SQL instantiate_offline ordered refresh_template_name buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102646",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck630.html"
+                }
+    },
+    {
+        "description":  "GPL SQL instantiate_online ordered refresh_template_name buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102648",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck631.html"
+                }
+    },
+    {
+        "description":  "GPL SQL og.begin_load ordered gname buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102653",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck632.html"
+                }
+    },
+    {
+        "description":  "ET SQL MySQL mysql.user Dump (Used in Metasploit Auth-Bypass Module)",
+        "type":  "bad-unknown",
+        "sid":  "2014910",
+        "metadata":  {
+                         "crtime":  "2012_06_15",
+                         "uptime":  "2016_07_01",
+                         "tags":  "Metasploit",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_grouped_column buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102599",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL Oracle iSQLPlus login.uix username overflow attempt",
+        "type":  "web-application-attack",
+        "sid":  "2102703",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "10871"
+                }
+    },
+    {
+        "description":  "GPL SQL ctx_output.start_log buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102678",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL alter file buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102697",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.begin_flavor_change buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102708",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.begin_instantiation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102709",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.begin_load buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102652",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck632.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.end_flavor_change buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102711",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.end_instantiation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102712",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.end_load buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102713",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_og.resume_subset_of_masters buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102714",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_snapshot.begin_load buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102715",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_offline_snapshot.end_load buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102635",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck632.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_rectifier_diff.differences buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102717",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_rectifier_diff.rectify buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102718",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.abort_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102719",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_column_group_to_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102720",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_columns_to_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102721",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_delete_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102674",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_object_to_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102722",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_priority_char buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102723",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_priority_date buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102724",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_priority_nchar buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102725",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_priority_nvarchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102727",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_priority_raw buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102728",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_priority_varchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102729",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_site_priority_site buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102730",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_unique_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102731",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.add_update_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102732",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_master_propagation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102733",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_master_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102619",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck634.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_mview_propagation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102734",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102741",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_char buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102735",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_date buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102736",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_nchar buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102737",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_number buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102738",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_nvarchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102739",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_raw buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102740",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_priority_varchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102742",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_site_priority buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102744",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_site_priority_site buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102743",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.alter_snapshot_propagation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102745",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.begin_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102747",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.cancel_statistics buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102609",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_column_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102748",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_delete_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102749",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_mview_repsites buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102750",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_priority_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102751",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102752",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102606",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck634.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_repsites buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102753",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_site_priority buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102754",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_unique_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102755",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.comment_on_update_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102756",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.compare_old_values buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102605",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck91.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.create_master_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102757",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.create_master_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102758",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.create_mview_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102603",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck633.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.create_mview_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102850",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.create_snapshot_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102759",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.create_snapshot_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102851",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.define_column_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102760",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.define_priority_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102761",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.define_site_priority buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102762",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.do_deferred_repcat_admin buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102763",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_column_group_from_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102764",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_column_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102765",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_columns_from_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102766",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_delete_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102767",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_master_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102601",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_master_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102637",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck634.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_mview_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102639",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck90.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_mview_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102769",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_object_from_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102770",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102777",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_char buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102771",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_site_priority_site buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102779",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_date buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102772",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_nchar buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102773",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_number buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102774",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_nvarchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102775",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_raw buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102776",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_priority_varchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102778",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_site_priority buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102780",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_snapshot_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102781",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_snapshot_repobject buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102782",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_unique_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102783",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.drop_update_resolution buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102784",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.execute_ddl buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102785",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.generate_mview_support buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102852",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.generate_replication_package buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102786",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.generate_replication_trigger buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102853",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.generate_snapshot_support buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102854",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.make_column_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102788",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.obsolete_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102789",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.publish_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102790",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.purge_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102791",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.purge_master_log buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102792",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.purge_statistics buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102793",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.refresh_mview_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102631",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck90.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.refresh_snapshot_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102795",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.register_mview_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102796",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.register_snapshot_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102797",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.register_statistics buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102798",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.relocate_masterdef buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102799",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.remove_master_databases buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102855",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.rename_shadow_column_group buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102800",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.repcat_import_check buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102627",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck90.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.resume_master_activity buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102801",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.send_and_compare_old_values buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102804",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.send_old_values buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102626",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck91.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.set_columns buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102805",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.set_local_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102806",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.specify_new_masters buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102807",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.suspend_master_activity buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102808",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.switch_mview_master buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102856",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.switch_snapshot_master buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102857",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.unregister_mview_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102809",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.unregister_snapshot_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102810",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.validate_flavor_definition buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102811",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat.validate_for_local_flavor buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102812",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_admin.register_user_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102629",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck94.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_admin.unregister_user_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102624",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck94.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_auth.revoke_surrogate_repcat buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102746",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_instantiate.drop_site_instantiation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102641",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_instantiate.instantiate_offline buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102645",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_instantiate.instantiate_online buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102647",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_rgt.check_ddl_text buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102802",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_rgt.drop_site_instantiation buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102676",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_rgt.instantiate_offline buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102675",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_rgt.instantiate_online buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102677",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_sna_utl.create_snapshot_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102623",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck97.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_sna_utl.register_flavor_change buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102621",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck97.html"
+                }
+    },
+    {
+        "description":  "GPL SQL dbms_repcat_utl.drop_an_object buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102622",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/Policy/PolicyCheck97.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sys.dbms_repcat_conf.add_priority_char buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102859",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sys.dbms_repcat_conf.alter_site_priority_site buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102877",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sys.dbms_repcat_conf.drop_priority_raw buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102893",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sys.dbms_repcat_conf.drop_priority_varchar2 buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102895",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    },
+    {
+        "description":  "GPL SQL sys.dbms_repcat_mas.create_master_repgroup buffer overflow attempt",
+        "type":  "attempted-user",
+        "sid":  "2102830",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.appsecinc.com/resources/alerts/oracle/2004-0001/25.html"
+                }
+    }
+]

@@ -1,0 +1,1232 @@
+[
+    {
+        "description":  "GPL RPC portmap kcms_server request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102005",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "6665"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap kcms_server request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102006",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "6665"
+                }
+    },
+    {
+        "description":  "GPL RPC kcms_server directory traversal attempt",
+        "type":  "misc-attack",
+        "sid":  "2102007",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "6665"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap UNSET attempt TCP 111",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102014",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1892"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap UNSET attempt UDP 111",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102015",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1892"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap status request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102016",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "15"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap espd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102017",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2714"
+                }
+    },
+    {
+        "description":  "GPL RPC yppasswd username overflow attempt UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102025",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2763"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap SET attempt UDP 111",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101950",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap NFS request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101959",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap NFS request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101960",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap RQUOTA request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101961",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap RQUOTA request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101962",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC RQUOTA getquota overflow attempt UDP",
+        "type":  "misc-attack",
+        "sid":  "2101963",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "864"
+                }
+    },
+    {
+        "description":  "GPL RPC tooltalk UDP overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101964",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "122"
+                }
+    },
+    {
+        "description":  "GPL RPC tooltalk TCP overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101965",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "122"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap SET attempt TCP 111",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101949",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap proxy attempt TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101922",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap proxy attempt UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101923",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC CMSD UDP CMSD_CREATE buffer overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101907",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "524"
+                }
+    },
+    {
+        "description":  "GPL RPC CMSD TCP CMSD_CREATE buffer overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101908",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "524"
+                }
+    },
+    {
+        "description":  "GPL RPC CMSD TCP CMSD_INSERT buffer overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101909",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "524"
+                }
+    },
+    {
+        "description":  "GPL RPC sadmind TCP NETMGT_PROC_SERVICE CLIENT_DOMAIN overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101912",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "0866"
+                }
+    },
+    {
+        "description":  "GPL RPC STATD UDP stat mon_name format string exploit attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101913",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1480"
+                }
+    },
+    {
+        "description":  "GPL RPC STATD TCP stat mon_name format string exploit attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101914",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1480"
+                }
+    },
+    {
+        "description":  "GPL RPC STATD UDP monitor mon_name format string exploit attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101915",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1480"
+                }
+    },
+    {
+        "description":  "GPL RPC STATD TCP monitor mon_name format string exploit attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101916",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1480"
+                }
+    },
+    {
+        "description":  "GPL RPC xdmcp info query",
+        "type":  "attempted-recon",
+        "sid":  "2101867",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "nessus",
+                    "ref":  "10891"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap cachefsd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101746",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4674"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap cachefsd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101747",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4674"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rwalld request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101732",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rwalld request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101733",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap ypupdated request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101277",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC sadmind query with root credentials attempt UDP",
+        "type":  "misc-attack",
+        "sid":  "2102256",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC sadmind query with root credentials attempt TCP",
+        "type":  "misc-attack",
+        "sid":  "2102255",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC mountd UDP mount path overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2102185",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8179"
+                }
+    },
+    {
+        "description":  "GPL RPC mountd TCP mount path overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2102184",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8179"
+                }
+    },
+    {
+        "description":  "GPL RPC rexec username too long response",
+        "type":  "unsuccessful-user",
+        "sid":  "2102104",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "7459"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap proxy integer overflow attempt TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102093",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "7123"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rpc.xfsmd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102082",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "5072"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap network-status-monitor request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102036",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap network-status-monitor request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2102035",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC portmap ttdbserv request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101274",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "19"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "24"
+                }
+    },
+    {
+        "description":  "GPL RPC snmpXdmi overflow attempt TCP",
+        "type":  "attempted-admin",
+        "sid":  "2100569",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2417"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap sadmind request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100585",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "20"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap yppasswd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100589",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "14"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap ypserv request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100590",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "12"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap ypupdated request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100591",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "125"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap snmpXdmi request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100593",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "19"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2417"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap espd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100595",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "17"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2714"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap listing TCP 111",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100598",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "428"
+                }
+    },
+    {
+        "description":  "GPL RPC rlogin LinuxNIS",
+        "type":  "bad-unknown",
+        "sid":  "2100601",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL RPC rlogin login failure",
+        "type":  "unsuccessful-user",
+        "sid":  "2100605",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "393"
+                }
+    },
+    {
+        "description":  "GPL RPC rlogin login failure",
+        "type":  "unsuccessful-user",
+        "sid":  "2100611",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "392"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap admind request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100575",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "18"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap amountd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100576",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "19"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap bootparam request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100577",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "16"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap cmsd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100578",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "17"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap listing UDP 111",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101280",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "428"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap mountd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100579",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "13"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap nisd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100580",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "21"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap pcnfsd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100581",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "22"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rexd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100582",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "23"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rstatd request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100583",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "10"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rusers request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100584",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "133"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap selection_svc request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100586",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "25"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap snmpXdmi request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101279",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2417"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap status request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100587",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "15"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap ttdbserv request UDP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2100588",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "18"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "24"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rusers request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101271",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "133"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap cmsd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101265",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "17"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rexd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101269",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "23"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap yppasswd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101275",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "14"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap admind request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101262",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "18"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap rstatd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101270",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "10"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap selection_svc request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101273",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "25"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap pcnfsd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101268",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "22"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap amountd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101263",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "19"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap nisd request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101267",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "21"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap sadmind request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101272",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "20"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap ypserv request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101276",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "12"
+                }
+    },
+    {
+        "description":  "GPL RPC portmap bootparam request TCP",
+        "type":  "rpc-portmap-decode",
+        "sid":  "2101264",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "16"
+                }
+    }
+]

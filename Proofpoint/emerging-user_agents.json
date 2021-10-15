@@ -1,0 +1,3377 @@
+[
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Fragment (WORKED)",
+        "type":  "trojan-activity",
+        "sid":  "2012909",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2020_04_20",
+                         "tags":  "User_Agent",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious Win32 User Agent",
+        "type":  "trojan-activity",
+        "sid":  "2012249",
+        "metadata":  {
+                         "crtime":  "2011_02_01",
+                         "uptime":  "2020_04_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-Agent (ChilkatUpload)",
+        "type":  "trojan-activity",
+        "sid":  "2016904",
+        "metadata":  {
+                         "crtime":  "2013_05_21",
+                         "uptime":  "2020_04_24",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "chilkatsoft.com"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS EmailSiphon Suspicious User-Agent Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2013033",
+        "metadata":  {
+                         "crtime":  "2011_06_14",
+                         "uptime":  "2020_04_24",
+                         "tags":  "User_Agent",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/useragentstring.php"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious user agent (Google page)",
+        "type":  "trojan-activity",
+        "sid":  "2017067",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2020_04_24",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS FOCA User-Agent",
+        "type":  "attempted-recon",
+        "sid":  "2017949",
+        "metadata":  {
+                         "crtime":  "2014_01_09",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.bannasties.com/2013/08/vulnerability-scans/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (DownloadMR)",
+        "type":  "trojan-activity",
+        "sid":  "2016903",
+        "metadata":  {
+                         "crtime":  "2013_05_21",
+                         "uptime":  "2020_04_29",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.virustotal.com/en/file/93236b781e147e3ac983be1374a5f807fabd27ee2b92e6d99e293a6eb070ac2b/analysis/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Microsoft Edge on Windows 10 SET",
+        "type":  "misc-activity",
+        "sid":  "2023197",
+        "metadata":  {
+                         "crtime":  "2016_09_13",
+                         "uptime":  "2020_08_05",
+                         "tags":  "User_Agent",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Go HTTP Client User-Agent",
+        "type":  "misc-activity",
+        "sid":  "2024897",
+        "metadata":  {
+                         "crtime":  "2017_10_23",
+                         "uptime":  "2020_08_13",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (chek)",
+        "type":  "trojan-activity",
+        "sid":  "2008253",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008253"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (AutoHotkey)",
+        "type":  "trojan-activity",
+        "sid":  "2008259",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008259"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (contains loader)",
+        "type":  "trojan-activity",
+        "sid":  "2008276",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008276"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (ErrCode)",
+        "type":  "trojan-activity",
+        "sid":  "2008378",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008378"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Loands) - Possible Trojan Downloader GET Request",
+        "type":  "trojan-activity",
+        "sid":  "2009537",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009537"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (ms_ie) - Crypt.ZPACK Gen Trojan Downloader GET Request",
+        "type":  "trojan-activity",
+        "sid":  "2009538",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009538"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Forthgoner) - Possible Trojan Downloader GET Request",
+        "type":  "trojan-activity",
+        "sid":  "2009547",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009547"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Si25f_302 User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2012310",
+        "metadata":  {
+                         "crtime":  "2011_02_14",
+                         "uptime":  "2020_08_13",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Im Luo",
+        "type":  "trojan-activity",
+        "sid":  "2012586",
+        "metadata":  {
+                         "crtime":  "2011_03_28",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS MacShield User-Agent Likely Malware",
+        "type":  "trojan-activity",
+        "sid":  "2012959",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2020_08_13",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.spiderlabs.com/2011/06/analysis-and-evolution-of-macdefender-os-x-fake-av-scareware.html"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (MadeByLc)",
+        "type":  "trojan-activity",
+        "sid":  "2013512",
+        "metadata":  {
+                         "crtime":  "2011_08_31",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS W32/OnlineGames User-Agent (LockXLS)",
+        "type":  "trojan-activity",
+        "sid":  "2013724",
+        "metadata":  {
+                         "crtime":  "2011_09_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (FULLSTUFF)",
+        "type":  "trojan-activity",
+        "sid":  "2013880",
+        "metadata":  {
+                         "crtime":  "2011_11_08",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "threatexpert.com/reports.aspx?find=mrb.mail.ru"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HardCore Software For)",
+        "type":  "trojan-activity",
+        "sid":  "2018608",
+        "metadata":  {
+                         "crtime":  "2011_07_06",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (App4)",
+        "type":  "trojan-activity",
+        "sid":  "2008073",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_17",
+                         "tags":  "User_Agent",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008073"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Presto)",
+        "type":  "trojan-activity",
+        "sid":  "2012491",
+        "metadata":  {
+                         "crtime":  "2011_03_11",
+                         "uptime":  "2020_08_17",
+                         "tags":  "User_Agent",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS WildTangent User-Agent (WT Games App)",
+        "type":  "policy-violation",
+        "sid":  "2021384",
+        "metadata":  {
+                         "crtime":  "2015_07_06",
+                         "uptime":  "2020_08_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Session) - Possible Trojan-Clicker",
+        "type":  "trojan-activity",
+        "sid":  "2009512",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009512"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Our_Agent)",
+        "type":  "trojan-activity",
+        "sid":  "2012278",
+        "metadata":  {
+                         "crtime":  "2011_02_03",
+                         "uptime":  "2020_08_17",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Installer)",
+        "type":  "trojan-activity",
+        "sid":  "2008184",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008184"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Long Fake wget 3.0 User-Agent Detected",
+        "type":  "trojan-activity",
+        "sid":  "2013178",
+        "metadata":  {
+                         "crtime":  "2011_07_04",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Ufasoft bitcoin Related User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2013391",
+        "metadata":  {
+                         "crtime":  "2011_08_10",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (MSIE)",
+        "type":  "trojan-activity",
+        "sid":  "2003657",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_18",
+                         "tags":  "User_Agent",
+                         "rev":  "18"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2003657"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Mozilla/3.0",
+        "type":  "trojan-activity",
+        "sid":  "2012619",
+        "metadata":  {
+                         "crtime":  "2011_04_01",
+                         "uptime":  "2020_09_15",
+                         "tags":  "User_Agent",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Detected (RLMultySocket)",
+        "type":  "trojan-activity",
+        "sid":  "2008603",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_15",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008603"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Downloader User-Agent HTTPGET",
+        "type":  "trojan-activity",
+        "sid":  "2013508",
+        "metadata":  {
+                         "crtime":  "2011_08_31",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (=Mozilla)",
+        "type":  "trojan-activity",
+        "sid":  "2025456",
+        "metadata":  {
+                         "crtime":  "2018_03_27",
+                         "uptime":  "2020_08_25",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (InfoBot)",
+        "type":  "trojan-activity",
+        "sid":  "2011276",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_25",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2011276"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS VPNFilter Related UA (Gemini/2.0)",
+        "type":  "trojan-activity",
+        "sid":  "2025889",
+        "metadata":  {
+                         "crtime":  "2018_07_25",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "twitter.com/m0rb/status/1021626709307805696"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS VPNFilter Related UA (Hakai/2.0)",
+        "type":  "trojan-activity",
+        "sid":  "2025890",
+        "metadata":  {
+                         "crtime":  "2018_07_25",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "twitter.com/m0rb/status/1021626709307805696"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HTTP_CONNECT_)",
+        "type":  "bad-unknown",
+        "sid":  "2007821",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_25",
+                         "tags":  "Spyware_User_Agent",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007821"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS MSIL/Peppy User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2026101",
+        "metadata":  {
+                         "crtime":  "2018_09_07",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "ebffb046d0e12b46ba5f27c0176b01c5"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS VPNFilter Related UA (curl53)",
+        "type":  "trojan-activity",
+        "sid":  "2026428",
+        "metadata":  {
+                         "crtime":  "2018_10_01",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.talosintelligence.com/2018/09/vpnfilter-part-3.html"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Windows XP)",
+        "type":  "bad-unknown",
+        "sid":  "2026519",
+        "metadata":  {
+                         "crtime":  "2018_10_18",
+                         "uptime":  "2020_08_26",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Windows 8)",
+        "type":  "bad-unknown",
+        "sid":  "2026520",
+        "metadata":  {
+                         "crtime":  "2018_10_18",
+                         "uptime":  "2020_08_26",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Windows 7)",
+        "type":  "bad-unknown",
+        "sid":  "2026522",
+        "metadata":  {
+                         "crtime":  "2018_10_18",
+                         "uptime":  "2020_08_26",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Windows 10)",
+        "type":  "bad-unknown",
+        "sid":  "2026521",
+        "metadata":  {
+                         "crtime":  "2018_10_18",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious UA Observed (IEhook)",
+        "type":  "trojan-activity",
+        "sid":  "2026558",
+        "metadata":  {
+                         "crtime":  "2018_10_26",
+                         "uptime":  "2020_09_16",
+                         "tags":  "User_Agent",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "f0483493bcb352bd2f474b52f3b2f273"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS WinRM User Agent Detected - Possible Lateral Movement",
+        "type":  "bad-unknown",
+        "sid":  "2026850",
+        "metadata":  {
+                         "crtime":  "2019_01_23",
+                         "uptime":  "2020_09_16",
+                         "tags":  "WinRM",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "attack.mitre.org/techniques/T1028/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Peppy/KeeOIL Google User-Agent (google/dance)",
+        "type":  "trojan-activity",
+        "sid":  "2026883",
+        "metadata":  {
+                         "crtime":  "2019_02_05",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.malcrawler.com/team-simbaa-targets-indian-government-using-united-nations-military-observers-themed-malware-nicked-named-keeoil/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Peppy/KeeOIL User-Agent (ekeoil)",
+        "type":  "trojan-activity",
+        "sid":  "2026885",
+        "metadata":  {
+                         "crtime":  "2019_02_05",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.malcrawler.com/team-simbaa-targets-indian-government-using-united-nations-military-observers-themed-malware-nicked-named-keeoil/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (SomeTimes)",
+        "type":  "trojan-activity",
+        "sid":  "2026898",
+        "metadata":  {
+                         "crtime":  "2019_02_11",
+                         "uptime":  "2020_09_16",
+                         "tags":  "User_Agent",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "a86d4e17389a37bfc291f4a8da51a9b8"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS SFML User-Agent (libsfml-network) ",
+        "type":  "trojan-activity",
+        "sid":  "2026914",
+        "metadata":  {
+                         "crtime":  "2019_02_14",
+                         "uptime":  "2020_08_27",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/SFML"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Clever Internet Suite)",
+        "type":  "trojan-activity",
+        "sid":  "2027045",
+        "metadata":  {
+                         "crtime":  "2019_03_05",
+                         "uptime":  "2020_08_28",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Mozilla 6.0)",
+        "type":  "bad-unknown",
+        "sid":  "2027142",
+        "metadata":  {
+                         "crtime":  "2019_04_01",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS ESET Installer",
+        "type":  "policy-violation",
+        "sid":  "2027219",
+        "metadata":  {
+                         "crtime":  "2019_04_17",
+                         "uptime":  "2020_11_19",
+                         "tags":  "PUA",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Aria2 User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2027286",
+        "metadata":  {
+                         "crtime":  "2019_04_25",
+                         "uptime":  "2020_08_28",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/aria2/aria2"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Microsoft Device Metadata Retrieval Client User-Agent",
+        "type":  "unknown",
+        "sid":  "2027390",
+        "metadata":  {
+                         "crtime":  "2019_05_28",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Node XMLHTTP User-Agent",
+        "type":  "unknown",
+        "sid":  "2027388",
+        "metadata":  {
+                         "crtime":  "2019_05_28",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious UA Observed (YourUserAgent)",
+        "type":  "bad-unknown",
+        "sid":  "2027484",
+        "metadata":  {
+                         "crtime":  "2019_06_17",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "c1ca718e7304bf28b5c96559cbf69a06"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Hello, World)",
+        "type":  "bad-unknown",
+        "sid":  "2027503",
+        "metadata":  {
+                         "crtime":  "2019_06_21",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Hello-World)",
+        "type":  "bad-unknown",
+        "sid":  "2027504",
+        "metadata":  {
+                         "crtime":  "2019_06_21",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Fake Mozilla User-Agent String Observed (M0zilla)",
+        "type":  "trojan-activity",
+        "sid":  "2027565",
+        "metadata":  {
+                         "crtime":  "2019_06_26",
+                         "uptime":  "2020_08_31",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "c6c1292bf7dd1573b269afb203134b1d"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious UA Observed (Ave, Caesar!)",
+        "type":  "bad-unknown",
+        "sid":  "2027648",
+        "metadata":  {
+                         "crtime":  "2019_06_28",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (zwt)",
+        "type":  "bad-unknown",
+        "sid":  "2027649",
+        "metadata":  {
+                         "crtime":  "2019_07_01",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (My Agent)",
+        "type":  "bad-unknown",
+        "sid":  "2027650",
+        "metadata":  {
+                         "crtime":  "2019_07_01",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious Custom Firefox UA Observed (Firefox...)",
+        "type":  "bad-unknown",
+        "sid":  "2027686",
+        "metadata":  {
+                         "crtime":  "2019_07_04",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-Agent (single dash)",
+        "type":  "trojan-activity",
+        "sid":  "2007880",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007880"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious UA Observed (Quick Macros)",
+        "type":  "trojan-activity",
+        "sid":  "2027755",
+        "metadata":  {
+                         "crtime":  "2019_07_24",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "aa682f5d4a17307539a2bc7048be0745"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (agent)",
+        "type":  "trojan-activity",
+        "sid":  "2001891",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "22"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2001891"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (NSIS_Inetc (Mozilla))",
+        "type":  "bad-unknown",
+        "sid":  "2011227",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_31",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2011227"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious Generic Style UA Observed (My_App)",
+        "type":  "trojan-activity",
+        "sid":  "2027833",
+        "metadata":  {
+                         "crtime":  "2019_08_09",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "2978dbadd8fda7d842298fbd476b47b2"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (Microsoft Internet Explorer)",
+        "type":  "trojan-activity",
+        "sid":  "2002400",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_31",
+                         "tags":  "-",
+                         "rev":  "36"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2002400"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-Agent (_TEST_)",
+        "type":  "unknown",
+        "sid":  "2009545",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_31",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009545"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Chrome)",
+        "type":  "bad-unknown",
+        "sid":  "2027916",
+        "metadata":  {
+                         "crtime":  "2019_08_26",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Absent)",
+        "type":  "bad-unknown",
+        "sid":  "2028571",
+        "metadata":  {
+                         "crtime":  "2019_09_12",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS SideStep User-Agent",
+        "type":  "misc-activity",
+        "sid":  "2002078",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_08",
+                         "tags":  "User_Agent",
+                         "rev":  "31"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002078"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Moxilla",
+        "type":  "trojan-activity",
+        "sid":  "2012313",
+        "metadata":  {
+                         "crtime":  "2011_02_14",
+                         "uptime":  "2020_10_13",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (VMozilla)",
+        "type":  "trojan-activity",
+        "sid":  "2012555",
+        "metadata":  {
+                         "crtime":  "2011_03_25",
+                         "uptime":  "2020_10_13",
+                         "tags":  "User_Agent",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?Name=Worm%3aWin32%2fNeeris.BF"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS suspicious User Agent (Lotto)",
+        "type":  "trojan-activity",
+        "sid":  "2012695",
+        "metadata":  {
+                         "crtime":  "2011_04_20",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious user agent (mdms)",
+        "type":  "trojan-activity",
+        "sid":  "2012761",
+        "metadata":  {
+                         "crtime":  "2011_05_03",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious user agent (asd)",
+        "type":  "trojan-activity",
+        "sid":  "2012762",
+        "metadata":  {
+                         "crtime":  "2011_05_03",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS EmailSiphon Suspicious User-Agent Inbound",
+        "type":  "attempted-recon",
+        "sid":  "2013032",
+        "metadata":  {
+                         "crtime":  "2011_06_14",
+                         "uptime":  "2020_10_13",
+                         "tags":  "User_Agent",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/useragentstring.php"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Binget PHP Library User Agent Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2013050",
+        "metadata":  {
+                         "crtime":  "2011_06_17",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.bin-co.com/php/scripts/load/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS pxyscand/ Suspicious User Agent Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2013052",
+        "metadata":  {
+                         "crtime":  "2011_06_17",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/useragentstring.php"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS PyCurl Suspicious User Agent Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2013054",
+        "metadata":  {
+                         "crtime":  "2011_06_17",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/useragentstring.php"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent String (AskPartnerCobranding)",
+        "type":  "trojan-activity",
+        "sid":  "2012734",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2020_10_13",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (BlackSun)",
+        "type":  "trojan-activity",
+        "sid":  "2008983",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.bitdefender.com/VIRUS-1000328-en--Trojan.Pws.Wow.NCY.html"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-Agent (Unknown)",
+        "type":  "trojan-activity",
+        "sid":  "2007991",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007991"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Metafisher/Goldun User-Agent (z)",
+        "type":  "trojan-activity",
+        "sid":  "2002874",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "16"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002874"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent outbound (bot)",
+        "type":  "trojan-activity",
+        "sid":  "2003622",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2003622"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HTTPTEST) - Seen used by downloaders",
+        "type":  "trojan-activity",
+        "sid":  "2003927",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2003927"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Dialer-967 User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2006364",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2006364"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (MYURL)",
+        "type":  "trojan-activity",
+        "sid":  "2006365",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2006365"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Downloader User-Agent Detected (Windows Updates Manager|3.12|...)",
+        "type":  "trojan-activity",
+        "sid":  "2006387",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2006387"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Downloader User-Agent Detected (ld)",
+        "type":  "trojan-activity",
+        "sid":  "2006394",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2006394"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Win32/Feebs.kw Worm User-Agent Detected",
+        "type":  "trojan-activity",
+        "sid":  "2007767",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2007767"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Tear Application User-Agent Detected",
+        "type":  "trojan-activity",
+        "sid":  "2007770",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2007770"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent - Possible Trojan Downloader (https)",
+        "type":  "trojan-activity",
+        "sid":  "2008019",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008019"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (c \\windows)",
+        "type":  "trojan-activity",
+        "sid":  "2008043",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008043"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Version 1.23)",
+        "type":  "trojan-activity",
+        "sid":  "2008048",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008048"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (INSTALLER)",
+        "type":  "trojan-activity",
+        "sid":  "2008096",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008096"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (IEMGR)",
+        "type":  "trojan-activity",
+        "sid":  "2008097",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008097"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (GOOGLE)",
+        "type":  "trojan-activity",
+        "sid":  "2008098",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008098"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (RBR)",
+        "type":  "trojan-activity",
+        "sid":  "2008147",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008147"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Otwycal User-Agent (Downing)",
+        "type":  "trojan-activity",
+        "sid":  "2008159",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008159"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (MS Internet Explorer)",
+        "type":  "trojan-activity",
+        "sid":  "2008181",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008181"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (QQ)",
+        "type":  "trojan-activity",
+        "sid":  "2008199",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "19"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008199"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (SERVER2_03)",
+        "type":  "trojan-activity",
+        "sid":  "2008209",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008209"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (WinProxy)",
+        "type":  "trojan-activity",
+        "sid":  "2008211",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008211"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (sickness29a/0.1)",
+        "type":  "trojan-activity",
+        "sid":  "2008214",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008214"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (up2dash updater)",
+        "type":  "trojan-activity",
+        "sid":  "2008215",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008215"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (IE)",
+        "type":  "trojan-activity",
+        "sid":  "2008255",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008255"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (WebForm 1)",
+        "type":  "trojan-activity",
+        "sid":  "2008262",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008262"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (opera)",
+        "type":  "trojan-activity",
+        "sid":  "2008264",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008264"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (123)",
+        "type":  "trojan-activity",
+        "sid":  "2008343",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008343"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (angel)",
+        "type":  "trojan-activity",
+        "sid":  "2008355",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008355"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Accessing)",
+        "type":  "trojan-activity",
+        "sid":  "2008361",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008361"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (ISMYIE)",
+        "type":  "trojan-activity",
+        "sid":  "2008363",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008363"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (svchost)",
+        "type":  "trojan-activity",
+        "sid":  "2008391",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008391"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (ReadFileURL)",
+        "type":  "trojan-activity",
+        "sid":  "2008400",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008400"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Inet_read)",
+        "type":  "trojan-activity",
+        "sid":  "2008422",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008422"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (CFS Agent)",
+        "type":  "trojan-activity",
+        "sid":  "2008423",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008423"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (CFS_DOWNLOAD)",
+        "type":  "trojan-activity",
+        "sid":  "2008424",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008424"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HTTP Downloader)",
+        "type":  "trojan-activity",
+        "sid":  "2008428",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008428"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HttpDownload)",
+        "type":  "trojan-activity",
+        "sid":  "2008429",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008429"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Download App)",
+        "type":  "trojan-activity",
+        "sid":  "2008440",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008440"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Downloader User-Agent (AutoDL\\/1.0)",
+        "type":  "trojan-activity",
+        "sid":  "2008458",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008458"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (hacker)",
+        "type":  "trojan-activity",
+        "sid":  "2008460",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_16",
+                         "tags":  "User_Agent",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008460"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (NULL)",
+        "type":  "trojan-activity",
+        "sid":  "2008488",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008488"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (SUiCiDE/1.5)",
+        "type":  "trojan-activity",
+        "sid":  "2008504",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008504"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (C slash)",
+        "type":  "trojan-activity",
+        "sid":  "2008512",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "18"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (msIE 7.0)",
+        "type":  "trojan-activity",
+        "sid":  "2008513",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008513"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (AVP2006IE)",
+        "type":  "trojan-activity",
+        "sid":  "2008514",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008514"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (winlogon)",
+        "type":  "trojan-activity",
+        "sid":  "2008544",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008544"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Internet HTTP Request)",
+        "type":  "trojan-activity",
+        "sid":  "2008564",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008564"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Detected (Downloader1.2)",
+        "type":  "trojan-activity",
+        "sid":  "2008643",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008643"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Detected (Compatible)",
+        "type":  "trojan-activity",
+        "sid":  "2008657",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008657"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Detected (GetUrlSize)",
+        "type":  "trojan-activity",
+        "sid":  "2008658",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008658"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Detected (WINS_HTTP_SEND Program/1.0)",
+        "type":  "trojan-activity",
+        "sid":  "2008734",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008734"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (checkonline)",
+        "type":  "trojan-activity",
+        "sid":  "2008749",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008749"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Kvadrlson 1.0)",
+        "type":  "trojan-activity",
+        "sid":  "2008756",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008756"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (miip)",
+        "type":  "trojan-activity",
+        "sid":  "2008797",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008797"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Mozil1a)",
+        "type":  "trojan-activity",
+        "sid":  "2008847",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008847"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Errordigger.com related)",
+        "type":  "trojan-activity",
+        "sid":  "2008912",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008912"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Trojan.Hijack.IrcBot.457 related)",
+        "type":  "trojan-activity",
+        "sid":  "2008913",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008913"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (xr - Worm.Win32.VB.cj related)",
+        "type":  "trojan-activity",
+        "sid":  "2008914",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008914"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HELLO)",
+        "type":  "trojan-activity",
+        "sid":  "2008941",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008941"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (IE/1.0)",
+        "type":  "trojan-activity",
+        "sid":  "2008956",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008956"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (runUpdater.html)",
+        "type":  "trojan-activity",
+        "sid":  "2009355",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009355"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (runPatch.html)",
+        "type":  "trojan-activity",
+        "sid":  "2009356",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009356"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (INet)",
+        "type":  "trojan-activity",
+        "sid":  "2009703",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009703"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-Agent (STEROID Download)",
+        "type":  "trojan-activity",
+        "sid":  "2009994",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "anubis.iseclab.org/?action=result\u0026task_id=17b118a86edba30f4f588db66eaf55d10"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Win32.OnLineGames User-Agent (BigFoot)",
+        "type":  "trojan-activity",
+        "sid":  "2010678",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010678"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (NateFinder)",
+        "type":  "trojan-activity",
+        "sid":  "2013881",
+        "metadata":  {
+                         "crtime":  "2011_11_08",
+                         "uptime":  "2020_10_17",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (_)",
+        "type":  "trojan-activity",
+        "sid":  "2007942",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007942"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Eldorado.BHO User-Agent Detected (MSIE 5.5)",
+        "type":  "trojan-activity",
+        "sid":  "2007833",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2007833"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (ScrapeBox)",
+        "type":  "trojan-activity",
+        "sid":  "2011282",
+        "metadata":  {
+                         "crtime":  "2010_09_28",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS suspicious user-agent (REKOM)",
+        "type":  "trojan-activity",
+        "sid":  "2012295",
+        "metadata":  {
+                         "crtime":  "2011_02_06",
+                         "uptime":  "2020_10_19",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent VCTestClient",
+        "type":  "trojan-activity",
+        "sid":  "2012386",
+        "metadata":  {
+                         "crtime":  "2011_02_27",
+                         "uptime":  "2020_10_19",
+                         "tags":  "User_Agent",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Sample",
+        "type":  "trojan-activity",
+        "sid":  "2012611",
+        "metadata":  {
+                         "crtime":  "2011_03_31",
+                         "uptime":  "2020_04_19",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS suspicious user agent string (changhuatong)",
+        "type":  "trojan-activity",
+        "sid":  "2012751",
+        "metadata":  {
+                         "crtime":  "2011_04_29",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS suspicious user agent string (CholTBAgent)",
+        "type":  "trojan-activity",
+        "sid":  "2012757",
+        "metadata":  {
+                         "crtime":  "2011_04_29",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Win32/OnLineGames User-Agent (Revolution Win32)",
+        "type":  "trojan-activity",
+        "sid":  "2013542",
+        "metadata":  {
+                         "crtime":  "2011_09_06",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "threatexpert.com/report.aspx?md5=1431f4ab4bbe3ad1087eb14cf4d7dff9"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Atomic_Email_Hunter User-Agent Inbound",
+        "type":  "attempted-recon",
+        "sid":  "2013173",
+        "metadata":  {
+                         "crtime":  "2011_07_04",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/useragentstring.php"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Atomic_Email_Hunter User-Agent Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2013174",
+        "metadata":  {
+                         "crtime":  "2011_07_04",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/useragentstring.php"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent SimpleClient 1.0",
+        "type":  "bad-unknown",
+        "sid":  "2012860",
+        "metadata":  {
+                         "crtime":  "2011_05_25",
+                         "uptime":  "2020_04_22",
+                         "tags":  "User_Agent",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.fortiguard.com/encyclopedia/virus/symbos_sagasi.a!tr.html"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (adlib)",
+        "type":  "trojan-activity",
+        "sid":  "2013967",
+        "metadata":  {
+                         "crtime":  "2011_11_23",
+                         "uptime":  "2020_04_22",
+                         "tags":  "User_Agent",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.trendmicro.com/connections-between-droiddreamlight-and-droidkungfu/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Steam HTTP Client User-Agent",
+        "type":  "policy-violation",
+        "sid":  "2028651",
+        "metadata":  {
+                         "crtime":  "2019_10_07",
+                         "uptime":  "2019_10_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Microsoft Dr Watson User-Agent (MSDW)",
+        "type":  "unknown",
+        "sid":  "2027389",
+        "metadata":  {
+                         "crtime":  "2019_05_28",
+                         "uptime":  "2019_10_16",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (IExplorer 34)",
+        "type":  "bad-unknown",
+        "sid":  "2028834",
+        "metadata":  {
+                         "crtime":  "2019_10_16",
+                         "uptime":  "2019_10_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (reqwest/)",
+        "type":  "bad-unknown",
+        "sid":  "2028842",
+        "metadata":  {
+                         "crtime":  "2019_10_16",
+                         "uptime":  "2019_10_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "be59ae5fab354d29e53f11a08d805db7"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS MSF Meterpreter Default User Agent",
+        "type":  "bad-unknown",
+        "sid":  "2021060",
+        "metadata":  {
+                         "crtime":  "2015_05_05",
+                         "uptime":  "2020_05_21",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Steam HTTP Client User-Agent",
+        "type":  "policy-violation",
+        "sid":  "2028650",
+        "metadata":  {
+                         "crtime":  "2019_10_07",
+                         "uptime":  "2020_10_20",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS BLEXBot User-Agent",
+        "type":  "misc-activity",
+        "sid":  "2022775",
+        "metadata":  {
+                         "crtime":  "2016_05_02",
+                         "uptime":  "2020_07_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "webmeup.com/about.html"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-agent DownloadNetFile Win32.small.hsh downloader",
+        "type":  "trojan-activity",
+        "sid":  "2007778",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_13",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2007778"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent _updater_agent",
+        "type":  "trojan-activity",
+        "sid":  "2013395",
+        "metadata":  {
+                         "crtime":  "2011_08_10",
+                         "uptime":  "2020_08_13",
+                         "tags":  "User_Agent",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Client)",
+        "type":  "bad-unknown",
+        "sid":  "2028912",
+        "metadata":  {
+                         "crtime":  "2019_10_28",
+                         "uptime":  "2019_10_28",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Random String)",
+        "type":  "bad-unknown",
+        "sid":  "2028947",
+        "metadata":  {
+                         "crtime":  "2019_11_07",
+                         "uptime":  "2019_11_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "a1e56bd465d1c1b5fc19384a3a7ec461"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (system_file/2.0)",
+        "type":  "bad-unknown",
+        "sid":  "2028983",
+        "metadata":  {
+                         "crtime":  "2019_11_15",
+                         "uptime":  "2019_11_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (DxD)",
+        "type":  "bad-unknown",
+        "sid":  "2029232",
+        "metadata":  {
+                         "crtime":  "2020_01_06",
+                         "uptime":  "2020_01_06",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS ABBCCoin Activity Observed",
+        "type":  "misc-activity",
+        "sid":  "2029423",
+        "metadata":  {
+                         "crtime":  "2020_02_12",
+                         "uptime":  "2020_02_12",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "77ec579347955cfa32f219386337f5bb"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (VB OpenUrl)",
+        "type":  "bad-unknown",
+        "sid":  "2029544",
+        "metadata":  {
+                         "crtime":  "2020_02_27",
+                         "uptime":  "2020_02_27",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (\\xa4)",
+        "type":  "bad-unknown",
+        "sid":  "2029554",
+        "metadata":  {
+                         "crtime":  "2020_03_02",
+                         "uptime":  "2020_03_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (easyhttp client)",
+        "type":  "bad-unknown",
+        "sid":  "2029569",
+        "metadata":  {
+                         "crtime":  "2020_03_04",
+                         "uptime":  "2020_03_04",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (explorersvc)",
+        "type":  "bad-unknown",
+        "sid":  "2029749",
+        "metadata":  {
+                         "crtime":  "2020_03_27",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User Agent (KtulhuBrowser)",
+        "type":  "bad-unknown",
+        "sid":  "2029750",
+        "metadata":  {
+                         "crtime":  "2020_03_27",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (xPCAP)",
+        "type":  "bad-unknown",
+        "sid":  "2029748",
+        "metadata":  {
+                         "crtime":  "2020_03_27",
+                         "uptime":  "2020_03_27",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (Http-connect)",
+        "type":  "bad-unknown",
+        "sid":  "2029752",
+        "metadata":  {
+                         "crtime":  "2020_03_30",
+                         "uptime":  "2020_03_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Shadowcoin Cryptocurrency UA Observed",
+        "type":  "misc-activity",
+        "sid":  "2029771",
+        "metadata":  {
+                         "crtime":  "2020_03_31",
+                         "uptime":  "2020_03_31",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Willowcoin Cryptocurrency UA Observed",
+        "type":  "misc-activity",
+        "sid":  "2029772",
+        "metadata":  {
+                         "crtime":  "2020_03_31",
+                         "uptime":  "2020_03_31",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS AnyDesk Remote Desktop Software User-Agent",
+        "type":  "policy-violation",
+        "sid":  "2027762",
+        "metadata":  {
+                         "crtime":  "2019_07_26",
+                         "uptime":  "2020_11_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "1501639af59b0ff39d41577af30367cf"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Malicious CASPER/Mirai UA",
+        "type":  "misc-activity",
+        "sid":  "2029892",
+        "metadata":  {
+                         "crtime":  "2020_04_13",
+                         "uptime":  "2020_04_13",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.blackberry.com/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-bb-decade-of-the-rats.pdf"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (PhoneMonitor)",
+        "type":  "trojan-activity",
+        "sid":  "2029980",
+        "metadata":  {
+                         "crtime":  "2020_04_20",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "09aa3bb05a55b0df864d1e1709c29960"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS BeeMovie Related Activity",
+        "type":  "misc-activity",
+        "sid":  "2030050",
+        "metadata":  {
+                         "crtime":  "2020_04_29",
+                         "uptime":  "2020_04_29",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (h55u4u4u5uii5)",
+        "type":  "trojan-activity",
+        "sid":  "2030058",
+        "metadata":  {
+                         "crtime":  "2020_04_29",
+                         "uptime":  "2020_04_29",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.welivesecurity.com/2020/04/28/grandoreiro-how-engorged-can-exe-get/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Possible QBot User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2030149",
+        "metadata":  {
+                         "crtime":  "2020_05_11",
+                         "uptime":  "2020_05_11",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "d5129d51bf982b055ee00fe7ef4da3c0"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (MSIE)",
+        "type":  "trojan-activity",
+        "sid":  "2030170",
+        "metadata":  {
+                         "crtime":  "2020_05_15",
+                         "uptime":  "2020_08_10",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "documents.trendmicro.com/assets/Tech-Brief-Tropic-Trooper-s-Back-USBferry-Attack-Targets-Air-gapped-Environments.pdf"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (CODE)",
+        "type":  "bad-unknown",
+        "sid":  "2030439",
+        "metadata":  {
+                         "crtime":  "2020_07_01",
+                         "uptime":  "2020_07_01",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "f5ee4c578976587586202c15e98997ed"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (grab)",
+        "type":  "bad-unknown",
+        "sid":  "2030492",
+        "metadata":  {
+                         "crtime":  "2020_07_10",
+                         "uptime":  "2020_07_10",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS SAP CVE-2020-6287 PoC UA Observed",
+        "type":  "attempted-recon",
+        "sid":  "2030548",
+        "metadata":  {
+                         "crtime":  "2020_07_16",
+                         "uptime":  "2020_07_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/chipik/SAP_RECON/blob/master/RECON.py"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (justupdate)",
+        "type":  "bad-unknown",
+        "sid":  "2030556",
+        "metadata":  {
+                         "crtime":  "2020_07_17",
+                         "uptime":  "2020_07_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "7a814300b204e14467deff69c1159cbe"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (.NET Framework Client)",
+        "type":  "bad-unknown",
+        "sid":  "2030586",
+        "metadata":  {
+                         "crtime":  "2020_07_24",
+                         "uptime":  "2020_07_24",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious UA (cctv.mtv)",
+        "type":  "bad-unknown",
+        "sid":  "2030598",
+        "metadata":  {
+                         "crtime":  "2020_07_27",
+                         "uptime":  "2020_07_27",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "deffb804976c0531144d999ded0df8b9"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (cso)",
+        "type":  "trojan-activity",
+        "sid":  "2030600",
+        "metadata":  {
+                         "crtime":  "2020_07_27",
+                         "uptime":  "2020_07_27",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "5640851c35221c3ae7bbde053d1bb38e"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (firefox)",
+        "type":  "trojan-activity",
+        "sid":  "2030623",
+        "metadata":  {
+                         "crtime":  "2020_07_30",
+                         "uptime":  "2020_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (chrome)",
+        "type":  "trojan-activity",
+        "sid":  "2030624",
+        "metadata":  {
+                         "crtime":  "2020_07_30",
+                         "uptime":  "2020_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspected Mekotio User-Agent (MyCustomUser)",
+        "type":  "trojan-activity",
+        "sid":  "2030721",
+        "metadata":  {
+                         "crtime":  "2020_08_21",
+                         "uptime":  "2020_08_21",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.welivesecurity.com/2020/08/13/mekotio-these-arent-the-security-updates-youre-looking-for/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspected Mekotio User-Agent (4M5yC6u4stom5U8se3r)",
+        "type":  "trojan-activity",
+        "sid":  "2030722",
+        "metadata":  {
+                         "crtime":  "2020_08_21",
+                         "uptime":  "2020_08_21",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.welivesecurity.com/2020/08/13/mekotio-these-arent-the-security-updates-youre-looking-for/"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (boostsoftware-urlexists)",
+        "type":  "bad-unknown",
+        "sid":  "2030814",
+        "metadata":  {
+                         "crtime":  "2020_08_28",
+                         "uptime":  "2020_08_28",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Microsoft Windows Vista UA - Commonly Abused",
+        "type":  "misc-activity",
+        "sid":  "2030847",
+        "metadata":  {
+                         "crtime":  "2020_09_08",
+                         "uptime":  "2020_09_08",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Installed OK)",
+        "type":  "bad-unknown",
+        "sid":  "2030880",
+        "metadata":  {
+                         "crtime":  "2020_09_15",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "16035440878ec6e93d82c2aeea508630"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS User-Agent (Internet Explorer)",
+        "type":  "bad-unknown",
+        "sid":  "2008052",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_05",
+                         "tags":  "-",
+                         "rev":  "18"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008052"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Fire-Cloud)",
+        "type":  "trojan-activity",
+        "sid":  "2031065",
+        "metadata":  {
+                         "crtime":  "2020_10_20",
+                         "uptime":  "2020_10_20",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "804c8f7d3b10b421ab5c09d675644212"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious HttpSocket User-Agent Observed",
+        "type":  "misc-activity",
+        "sid":  "2031167",
+        "metadata":  {
+                         "crtime":  "2020_11_03",
+                         "uptime":  "2020_11_03",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent Simple Bot",
+        "type":  "bad-unknown",
+        "sid":  "2031471",
+        "metadata":  {
+                         "crtime":  "2020_12_31",
+                         "uptime":  "2020_12_31",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "3cf04350400299844abb17a0e1640975"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (aaaa)",
+        "type":  "bad-unknown",
+        "sid":  "2031613",
+        "metadata":  {
+                         "crtime":  "2021_02_11",
+                         "uptime":  "2021_02_11",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "61e213e717cc8e156cec79a7c1cd0c64"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (Collection Info)",
+        "type":  "bad-unknown",
+        "sid":  "2031684",
+        "metadata":  {
+                         "crtime":  "2021_03_01",
+                         "uptime":  "2021_03_01",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "864eace6e6f67b77163d7ed5da4498c8"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (HaxerMen)",
+        "type":  "bad-unknown",
+        "sid":  "2032081",
+        "metadata":  {
+                         "crtime":  "2021_03_16",
+                         "uptime":  "2021_03_16",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "19aa54bd0c5a4b78f47247bb432b689d"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Non-standard User-Agent (PATCHER)",
+        "type":  "policy-violation",
+        "sid":  "2032938",
+        "metadata":  {
+                         "crtime":  "2021_05_11",
+                         "uptime":  "2021_05_11",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Suspicious User-Agent (altera forma)",
+        "type":  "bad-unknown",
+        "sid":  "2032948",
+        "metadata":  {
+                         "crtime":  "2021_05_12",
+                         "uptime":  "2021_05_12",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "f019d3031c3aaf45dbd3630a33ab0991"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Suspicious User-Agent (MyAgent)",
+        "type":  "trojan-activity",
+        "sid":  "2005320",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2021_06_15",
+                         "tags":  "User_Agent",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2005320"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS WaterDropX PRISM UA Observed",
+        "type":  "trojan-activity",
+        "sid":  "2033269",
+        "metadata":  {
+                         "crtime":  "2021_07_07",
+                         "uptime":  "2021_07_07",
+                         "tags":  "WaterDropX",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Malicious User-Agent (Brute Force Attacks)",
+        "type":  "bad-unknown",
+        "sid":  "2033314",
+        "metadata":  {
+                         "crtime":  "2021_07_12",
+                         "uptime":  "2021_07_12",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS Observed Malicious User-Agent (Brute Force Attacks)",
+        "type":  "bad-unknown",
+        "sid":  "2033315",
+        "metadata":  {
+                         "crtime":  "2021_07_12",
+                         "uptime":  "2021_07_12",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF"
+                }
+    },
+    {
+        "description":  "ET USER_AGENTS sysWeb User-Agent",
+        "type":  "trojan-activity",
+        "sid":  "2033665",
+        "metadata":  {
+                         "crtime":  "2021_08_04",
+                         "uptime":  "2021_08_04",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "3f295401fa59a32ff7a11551551ec607"
+                }
+    }
+]

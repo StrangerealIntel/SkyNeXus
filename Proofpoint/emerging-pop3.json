@@ -1,0 +1,137 @@
+[
+    {
+        "description":  "GPL POP3 AUTH overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101936",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "830"
+                }
+    },
+    {
+        "description":  "GPL POP3 LIST overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101937",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "948"
+                }
+    },
+    {
+        "description":  "GPL POP3 XTND overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101938",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL POP3 APOP overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101635",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "1652"
+                }
+    },
+    {
+        "description":  "GPL POP3 POP3 PASS overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101634",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "791"
+                }
+    },
+    {
+        "description":  "GPL POP3 STAT overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102110",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL POP3 x86 Linux overflow",
+        "type":  "attempted-admin",
+        "sid":  "2100288",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL POP3 x86 SCO overflow",
+        "type":  "attempted-admin",
+        "sid":  "2100289",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "156"
+                }
+    },
+    {
+        "description":  "GPL POP3 APOP USER overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102409",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9794"
+                }
+    }
+]

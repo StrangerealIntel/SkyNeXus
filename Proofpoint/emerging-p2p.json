@@ -1,0 +1,1322 @@
+[
+    {
+        "description":  "ET P2P Ares Server Connection",
+        "type":  "policy-violation",
+        "sid":  "2008591",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "aresgalaxy.sourceforge.net"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent Announce",
+        "type":  "policy-violation",
+        "sid":  "2000369",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "bitconjurer.org/BitTorrent/protocol.html"
+                }
+    },
+    {
+        "description":  "ET P2P Edonkey Publicize File ACK",
+        "type":  "policy-violation",
+        "sid":  "2003311",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.giac.org/certified_professionals/practicals/gcih/0446.php"
+                }
+    },
+    {
+        "description":  "ET P2P Edonkey Connect Request",
+        "type":  "policy-violation",
+        "sid":  "2003312",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.giac.org/certified_professionals/practicals/gcih/0446.php"
+                }
+    },
+    {
+        "description":  "ET P2P GnucDNA UDP Ultrapeer Traffic",
+        "type":  "policy-violation",
+        "sid":  "2002760",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2002760"
+                }
+    },
+    {
+        "description":  "ET P2P Kazaa over UDP",
+        "type":  "policy-violation",
+        "sid":  "2001796",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.kazaa.com/us/index.htm"
+                }
+    },
+    {
+        "description":  "ET P2P Manolito Connection (1)",
+        "type":  "policy-violation",
+        "sid":  "2009097",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009097"
+                }
+    },
+    {
+        "description":  "ET P2P Manolito Ping",
+        "type":  "policy-violation",
+        "sid":  "2009098",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009098"
+                }
+    },
+    {
+        "description":  "ET P2P Octoshape UDP Session",
+        "type":  "trojan-activity",
+        "sid":  "2009986",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "msmvps.com/blogs/bradley/archive/2009/01/20/peer-to-peer-on-cnn.aspx"
+                }
+    },
+    {
+        "description":  "ET P2P Phatbot Control Connection",
+        "type":  "trojan-activity",
+        "sid":  "2000015",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.lurhq.com/phatbot.html"
+                }
+    },
+    {
+        "description":  "ET P2P Soulseek Filesearch Results",
+        "type":  "policy-violation",
+        "sid":  "2001187",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.slsknet.org"
+                }
+    },
+    {
+        "description":  "ET P2P TOR 1.0 Server Key Retrieval",
+        "type":  "policy-violation",
+        "sid":  "2002950",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tor.eff.org"
+                }
+    },
+    {
+        "description":  "ET P2P TOR 1.0 Status Update",
+        "type":  "policy-violation",
+        "sid":  "2002951",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tor.eff.org"
+                }
+    },
+    {
+        "description":  "ET P2P TOR 1.0 Inbound Circuit Traffic",
+        "type":  "policy-violation",
+        "sid":  "2002952",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tor.eff.org"
+                }
+    },
+    {
+        "description":  "ET P2P TOR 1.0 Outbound Circuit Traffic",
+        "type":  "policy-violation",
+        "sid":  "2002953",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tor.eff.org"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent DHT ping request",
+        "type":  "policy-violation",
+        "sid":  "2008581",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "wiki.theory.org/BitTorrentDraftDHTProtocol"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent DHT announce_peers request",
+        "type":  "policy-violation",
+        "sid":  "2008585",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "wiki.theory.org/BitTorrentDraftDHTProtocol"
+                }
+    },
+    {
+        "description":  "ET P2P LimeWire P2P Traffic",
+        "type":  "policy-violation",
+        "sid":  "2007800",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.limewire.com"
+                }
+    },
+    {
+        "description":  "ET P2P Octoshape P2P streaming media",
+        "type":  "policy-violation",
+        "sid":  "2010008",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010008"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent DHT nodes reply",
+        "type":  "policy-violation",
+        "sid":  "2008583",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "wiki.theory.org/BitTorrentDraftDHTProtocol"
+                }
+    },
+    {
+        "description":  "ET P2P Direct Connect Traffic (client-server)",
+        "type":  "policy-violation",
+        "sid":  "2002814",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/Direct_connect_file-sharing_application"
+                }
+    },
+    {
+        "description":  "ET P2P eDonkey Server Status Request",
+        "type":  "policy-violation",
+        "sid":  "2001298",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.edonkey.com"
+                }
+    },
+    {
+        "description":  "ET P2P Gnutella TCP Traffic",
+        "type":  "policy-violation",
+        "sid":  "2007801",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007801"
+                }
+    },
+    {
+        "description":  "ET P2P KuGoo P2P Connection",
+        "type":  "policy-violation",
+        "sid":  "2009966",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "koogoo.com"
+                }
+    },
+    {
+        "description":  "ET P2P SoulSeek P2P Login Response",
+        "type":  "policy-violation",
+        "sid":  "2008611",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.slsknet.org"
+                }
+    },
+    {
+        "description":  "ET P2P Vuze BT Connection",
+        "type":  "policy-violation",
+        "sid":  "2010139",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "vuze.com"
+                }
+    },
+    {
+        "description":  "ET P2P Vuze BT UDP Connection (2)",
+        "type":  "policy-violation",
+        "sid":  "2010141",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "vuze.com"
+                }
+    },
+    {
+        "description":  "ET P2P Vuze BT UDP Connection (3)",
+        "type":  "policy-violation",
+        "sid":  "2010142",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010142"
+                }
+    },
+    {
+        "description":  "ET P2P Vuze BT UDP Connection (4)",
+        "type":  "policy-violation",
+        "sid":  "2010143",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010143"
+                }
+    },
+    {
+        "description":  "ET P2P eMule KAD Network Connection Request(2)",
+        "type":  "policy-violation",
+        "sid":  "2009968",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "emule-project.net"
+                }
+    },
+    {
+        "description":  "ET P2P eMule KAD Network Firewalled Request",
+        "type":  "policy-violation",
+        "sid":  "2009969",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "emule-project.net"
+                }
+    },
+    {
+        "description":  "ET P2P eMule KAD Network Server Status Request",
+        "type":  "policy-violation",
+        "sid":  "2009972",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "emule-project.net"
+                }
+    },
+    {
+        "description":  "ET P2P Gnutella Connect",
+        "type":  "policy-violation",
+        "sid":  "2001664",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.gnutella.com"
+                }
+    },
+    {
+        "description":  "ET P2P Gnutella TCP Ultrapeer Traffic",
+        "type":  "policy-violation",
+        "sid":  "2002761",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2002761"
+                }
+    },
+    {
+        "description":  "ET P2P Limewire P2P UDP Traffic",
+        "type":  "policy-violation",
+        "sid":  "2001809",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.limewire.com"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent DHT get_peers request",
+        "type":  "policy-violation",
+        "sid":  "2008584",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "wiki.theory.org/BitTorrentDraftDHTProtocol"
+                }
+    },
+    {
+        "description":  "ET P2P ed2k request part",
+        "type":  "policy-violation",
+        "sid":  "2000332",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.giac.org/practical/GCIH/Ian_Gosling_GCIH.pdf"
+                }
+    },
+    {
+        "description":  "ET P2P ed2k file request answer",
+        "type":  "policy-violation",
+        "sid":  "2000333",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.giac.org/practical/GCIH/Ian_Gosling_GCIH.pdf"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent DHT find_node request",
+        "type":  "policy-violation",
+        "sid":  "2008582",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "wiki.theory.org/BitTorrentDraftDHTProtocol"
+                }
+    },
+    {
+        "description":  "ET P2P Ocelot BitTorrent Server in Use",
+        "type":  "policy-violation",
+        "sid":  "2012467",
+        "metadata":  {
+                         "crtime":  "2011_03_10",
+                         "uptime":  "2011_03_10",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL P2P BitTorrent transfer",
+        "type":  "policy-violation",
+        "sid":  "2102181",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL P2P BitTorrent announce request",
+        "type":  "policy-violation",
+        "sid":  "2102180",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL P2P eDonkey server response",
+        "type":  "policy-violation",
+        "sid":  "2102587",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.emule-project.net"
+                }
+    },
+    {
+        "description":  "ET P2P QVOD P2P Sharing Traffic detected (tcp)",
+        "type":  "policy-violation",
+        "sid":  "2014459",
+        "metadata":  {
+                         "crtime":  "2012_04_03",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL P2P GNUTella client request",
+        "type":  "policy-violation",
+        "sid":  "2100557",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL P2P GNUTella client request",
+        "type":  "policy-violation",
+        "sid":  "2101432",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET P2P BearShare P2P Gnutella Client HTTP Request ",
+        "type":  "trojan-activity",
+        "sid":  "2006379",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2006379"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (Enhanced CTorrent 3.x)",
+        "type":  "policy-violation",
+        "sid":  "2011703",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.rahul.net/dholmes/ctorrent"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (Opera/10.x)",
+        "type":  "policy-violation",
+        "sid":  "2011701",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.opera.com"
+                }
+    },
+    {
+        "description":  "ET P2P eMule KAD Network Connection Request",
+        "type":  "policy-violation",
+        "sid":  "2009967",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "emule-project.net"
+                }
+    },
+    {
+        "description":  "ET P2P Vagaa peer-to-peer (Transfer)",
+        "type":  "policy-violation",
+        "sid":  "2018012",
+        "metadata":  {
+                         "crtime":  "2014_01_27",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/Vagaa"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (uTorrent)",
+        "type":  "policy-violation",
+        "sid":  "2011706",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.utorrent.com"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent Traffic",
+        "type":  "policy-violation",
+        "sid":  "2000357",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "bitconjurer.org/BitTorrent/protocol.html"
+                }
+    },
+    {
+        "description":  "ET P2P Vuze BT UDP Connection (5)",
+        "type":  "policy-violation",
+        "sid":  "2010144",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "vuze.com"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent peer sync",
+        "type":  "policy-violation",
+        "sid":  "2000334",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "bitconjurer.org/BitTorrent/protocol.html"
+                }
+    },
+    {
+        "description":  "ET P2P MS WUDO Peer Sync",
+        "type":  "policy-violation",
+        "sid":  "2022371",
+        "metadata":  {
+                         "crtime":  "2016_01_14",
+                         "uptime":  "2016_01_14",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "bitconjurer.org/BitTorrent/protocol.html"
+                }
+    },
+    {
+        "description":  "ET P2P BitTorrent - Torrent File Downloaded",
+        "type":  "policy-violation",
+        "sid":  "2014734",
+        "metadata":  {
+                         "crtime":  "2012_05_10",
+                         "uptime":  "2012_05_10",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET P2P Vuze BT UDP Connection",
+        "type":  "policy-violation",
+        "sid":  "2010140",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_11_01",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "vuze.com"
+                }
+    },
+    {
+        "description":  "ET P2P possible torrent download",
+        "type":  "policy-violation",
+        "sid":  "2007727",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007727"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (Transmission/1.x)",
+        "type":  "policy-violation",
+        "sid":  "2011699",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.transmissionbt.com"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (Deluge 1.x.x)",
+        "type":  "policy-violation",
+        "sid":  "2011704",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "deluge-torrent.org"
+                }
+    },
+    {
+        "description":  "ET P2P Edonkey Search Request (search by name)",
+        "type":  "policy-violation",
+        "sid":  "2003319",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_01_18",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.giac.org/certified_professionals/practicals/gcih/0446.php"
+                }
+    },
+    {
+        "description":  "ET P2P ThunderNetwork UDP Traffic",
+        "type":  "policy-violation",
+        "sid":  "2009099",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_01_28",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xunlei.com"
+                }
+    },
+    {
+        "description":  "ET P2P Pando Client User-Agent Detected",
+        "type":  "policy-violation",
+        "sid":  "2008625",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_27",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008625"
+                }
+    },
+    {
+        "description":  "ET P2P Tor Get Server Request",
+        "type":  "policy-violation",
+        "sid":  "2008113",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_01",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tor.eff.org"
+                }
+    },
+    {
+        "description":  "ET P2P Tor Get Status Request",
+        "type":  "policy-violation",
+        "sid":  "2008115",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_02",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tor.eff.org"
+                }
+    },
+    {
+        "description":  "ET P2P Soulseek",
+        "type":  "policy-violation",
+        "sid":  "2001188",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.slsknet.org"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (FDM 3.x)",
+        "type":  "policy-violation",
+        "sid":  "2011712",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.freedownloadmanager.org"
+                }
+    },
+    {
+        "description":  "ET P2P BTWebClient UA uTorrent in use",
+        "type":  "policy-violation",
+        "sid":  "2012247",
+        "metadata":  {
+                         "crtime":  "2011_01_27",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (rTorrent)",
+        "type":  "policy-violation",
+        "sid":  "2011705",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "libtorrent.rakshasa.no"
+                }
+    },
+    {
+        "description":  "ET P2P Libtorrent User-Agent",
+        "type":  "policy-violation",
+        "sid":  "2012390",
+        "metadata":  {
+                         "crtime":  "2011_02_27",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client HTTP Request ",
+        "type":  "trojan-activity",
+        "sid":  "2006375",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2006375"
+                }
+    },
+    {
+        "description":  "ET P2P Morpheus Install",
+        "type":  "policy-violation",
+        "sid":  "2001035",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.morpheus.com"
+                }
+    },
+    {
+        "description":  "ET P2P Morpheus Install ini Download",
+        "type":  "policy-violation",
+        "sid":  "2001036",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.morpheus.com"
+                }
+    },
+    {
+        "description":  "ET P2P Morpheus Update Request",
+        "type":  "policy-violation",
+        "sid":  "2001037",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.morpheus.com"
+                }
+    },
+    {
+        "description":  "ET P2P zzima_loader",
+        "type":  "trojan-activity",
+        "sid":  "2018532",
+        "metadata":  {
+                         "crtime":  "2014_06_05",
+                         "uptime":  "2020_09_24",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "810b4464785d8d007ca0c86c046ac0ef"
+                }
+    },
+    {
+        "description":  "ET P2P p2p Related User-Agent (eChanblard)",
+        "type":  "trojan-activity",
+        "sid":  "2011232",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2011232"
+                }
+    },
+    {
+        "description":  "ET P2P Ares traffic",
+        "type":  "policy-violation",
+        "sid":  "2001059",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.aresgalaxy.org"
+                }
+    },
+    {
+        "description":  "ET P2P Azureus P2P Client User-Agent",
+        "type":  "policy-violation",
+        "sid":  "2007799",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2007799"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (BTSP)",
+        "type":  "policy-violation",
+        "sid":  "2011713",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2011713"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (BitComet)",
+        "type":  "policy-violation",
+        "sid":  "2011710",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.bitcomet.com"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (BitTornado)",
+        "type":  "policy-violation",
+        "sid":  "2011702",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.bittornado.com"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (Bittorrent/5.x.x)",
+        "type":  "trojan-activity",
+        "sid":  "2006372",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2006372"
+                }
+    },
+    {
+        "description":  "ET P2P Bittorrent P2P Client User-Agent (KTorrent/3.x.x)",
+        "type":  "policy-violation",
+        "sid":  "2011700",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "ktorrent.org"
+                }
+    },
+    {
+        "description":  "ET P2P Client User-Agent (Shareaza 2.x)",
+        "type":  "policy-violation",
+        "sid":  "2011707",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "shareaza.sourceforge.net"
+                }
+    },
+    {
+        "description":  "ET P2P BearShare P2P Gnutella Client User-Agent (BearShare 6.x.x.x)",
+        "type":  "trojan-activity",
+        "sid":  "2006371",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2006371"
+                }
+    },
+    {
+        "description":  "ET P2P LimeWire P2P Traffic",
+        "type":  "policy-violation",
+        "sid":  "2001808",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_10_15",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.limewire.com"
+                }
+    },
+    {
+        "description":  "ET P2P FFTorrent P2P Client User-Agent (FFTorrent/x.x.x)",
+        "type":  "policy-violation",
+        "sid":  "2028942",
+        "metadata":  {
+                         "crtime":  "2019_11_05",
+                         "uptime":  "2020_10_21",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    }
+]

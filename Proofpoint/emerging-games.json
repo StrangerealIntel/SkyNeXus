@@ -1,0 +1,197 @@
+[
+    {
+        "description":  "ET GAMES Guild Wars connection",
+        "type":  "policy-violation",
+        "sid":  "2002154",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2002154"
+                }
+    },
+    {
+        "description":  "ET GAMES STEAM Connection (v2)",
+        "type":  "policy-violation",
+        "sid":  "2003089",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2003089"
+                }
+    },
+    {
+        "description":  "ET GAMES Gold VIP Club Casino Client in Use",
+        "type":  "policy-violation",
+        "sid":  "2007746",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2007746"
+                }
+    },
+    {
+        "description":  "ET GAMES Second Life setup download",
+        "type":  "policy-violation",
+        "sid":  "2013910",
+        "metadata":  {
+                         "crtime":  "2011_11_10",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikifur.com/wiki/Second_Life"
+                }
+    },
+    {
+        "description":  "ET GAMES Nintendo Wii User-Agent",
+        "type":  "policy-violation",
+        "sid":  "2014718",
+        "metadata":  {
+                         "crtime":  "2012_05_07",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.useragentstring.com/pages/Opera/"
+                }
+    },
+    {
+        "description":  "ET GAMES Blizzard Downloader Client User-Agent (Blizzard Downloader 2.x)",
+        "type":  "policy-violation",
+        "sid":  "2011708",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.worldofwarcraft.com/info/faq/blizzarddownloader.html"
+                }
+    },
+    {
+        "description":  "ET GAMES MINECRAFT Server response inbound",
+        "type":  "policy-violation",
+        "sid":  "2021701",
+        "metadata":  {
+                         "crtime":  "2015_08_21",
+                         "uptime":  "2015_08_21",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET GAMES Blizzard Web Downloader Install Detected",
+        "type":  "policy-violation",
+        "sid":  "2012170",
+        "metadata":  {
+                         "crtime":  "2011_01_10",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET GAMES Wolfteam HileYapak Server Response",
+        "type":  "policy-violation",
+        "sid":  "2027417",
+        "metadata":  {
+                         "crtime":  "2019_05_31",
+                         "uptime":  "2020_10_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "85cf4df17fcf04286fcbbdf9fbe11077"
+                }
+    },
+    {
+        "description":  "ET GAMES Growtopia Hack - WrongGrow CnC Activity",
+        "type":  "bad-unknown",
+        "sid":  "2029784",
+        "metadata":  {
+                         "crtime":  "2020_04_01",
+                         "uptime":  "2020_04_01",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "b76a144f412b680e6a04ee4f4fbcf000"
+                }
+    },
+    {
+        "description":  "ET GAMES Dragon Raja Activity",
+        "type":  "misc-activity",
+        "sid":  "2030484",
+        "metadata":  {
+                         "crtime":  "2020_07_08",
+                         "uptime":  "2020_07_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "33200121c71932220c67b9f3ccc57d60"
+                }
+    },
+    {
+        "description":  "ET GAMES Playit Activity (playit .gg)",
+        "type":  "policy-violation",
+        "sid":  "2031619",
+        "metadata":  {
+                         "crtime":  "2021_02_12",
+                         "uptime":  "2021_02_12",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "adef7b6d9fcd8c2a0fabd94d73bc9789"
+                }
+    },
+    {
+        "description":  "ET GAMES GameHouse License Check",
+        "type":  "policy-violation",
+        "sid":  "2031878",
+        "metadata":  {
+                         "crtime":  "2021_03_08",
+                         "uptime":  "2021_03_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "0e29380dcc1f9a57f545fc26b4045c94"
+                }
+    }
+]

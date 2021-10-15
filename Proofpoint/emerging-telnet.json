@@ -1,0 +1,167 @@
+[
+    {
+        "description":  "GPL TELNET TELNET login failed",
+        "type":  "bad-unknown",
+        "sid":  "2100492",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET TELNET External Telnet Attempt To Cisco Device With No Telnet Password Set (Automatically Dissalowed Until Password Set)",
+        "type":  "attempted-admin",
+        "sid":  "2008860",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008860"
+                }
+    },
+    {
+        "description":  "ET TELNET SUSPICIOUS Path to BusyBox",
+        "type":  "suspicious-filename-detect",
+        "sid":  "2023016",
+        "metadata":  {
+                         "crtime":  "2016_08_08",
+                         "uptime":  "2016_08_08",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "lists.emergingthreats.net/pipermail/emerging-sigs/2016-August/027524.html"
+                }
+    },
+    {
+        "description":  "ET TELNET busybox MIRAI hackers - Possible Brute Force Attack",
+        "type":  "attempted-admin",
+        "sid":  "2023019",
+        "metadata":  {
+                         "crtime":  "2016_08_08",
+                         "uptime":  "2016_09_26",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "lists.emergingthreats.net/pipermail/emerging-sigs/2016-August/027524.html"
+                }
+    },
+    {
+        "description":  "ET TELNET busybox ECCHI hackers - Possible Brute Force Attack",
+        "type":  "attempted-admin",
+        "sid":  "2023304",
+        "metadata":  {
+                         "crtime":  "2016_09_27",
+                         "uptime":  "2016_09_27",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "lists.emergingthreats.net/pipermail/emerging-sigs/2016-August/027524.html"
+                }
+    },
+    {
+        "description":  "ET TELNET busybox MEMES Hackers - Possible Brute Force Attack",
+        "type":  "attempted-admin",
+        "sid":  "2023901",
+        "metadata":  {
+                         "crtime":  "2017_02_14",
+                         "uptime":  "2017_02_14",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "lists.emergingthreats.net/pipermail/emerging-sigs/2016-August/027524.html"
+                }
+    },
+    {
+        "description":  "GPL TELNET Telnet Root not on console",
+        "type":  "bad-unknown",
+        "sid":  "2100717",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "365"
+                }
+    },
+    {
+        "description":  "GPL TELNET root login",
+        "type":  "suspicious-login",
+        "sid":  "2100719",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL TELNET Bad Login",
+        "type":  "bad-unknown",
+        "sid":  "2101251",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET TELNET Lunar Builder CnC Activity",
+        "type":  "trojan-activity",
+        "sid":  "2032879",
+        "metadata":  {
+                         "crtime":  "2021_04_27",
+                         "uptime":  "2021_04_27",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "4a07860c39171b71ca0aa359b0185f33"
+                }
+    },
+    {
+        "description":  "ET TELNET Teslarvng Ransomware CnC Activity M2",
+        "type":  "trojan-activity",
+        "sid":  "2033017",
+        "metadata":  {
+                         "crtime":  "2021_05_24",
+                         "uptime":  "2021_05_24",
+                         "tags":  "Ransomware",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "d26e609c77e314fc3f242a736c323ab6"
+                }
+    }
+]

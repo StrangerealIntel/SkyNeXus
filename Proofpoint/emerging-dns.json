@@ -1,0 +1,962 @@
+[
+    {
+        "description":  "GPL DNS zone transfer UDP",
+        "type":  "attempted-recon",
+        "sid":  "2101948",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "1999-0532"
+                }
+    },
+    {
+        "description":  "GPL DNS named version attempt",
+        "type":  "attempted-recon",
+        "sid":  "2101616",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "nessus",
+                    "ref":  "10028"
+                }
+    },
+    {
+        "description":  "GPL DNS named iquery attempt",
+        "type":  "attempted-recon",
+        "sid":  "2100252",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "134"
+                }
+    },
+    {
+        "description":  "GPL DNS named authors attempt",
+        "type":  "attempted-recon",
+        "sid":  "2100256",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "nessus",
+                    "ref":  "10728"
+                }
+    },
+    {
+        "description":  "GPL DNS named version attempt",
+        "type":  "attempted-recon",
+        "sid":  "2100257",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "278"
+                }
+    },
+    {
+        "description":  "GPL DNS named authors attempt",
+        "type":  "attempted-recon",
+        "sid":  "2101435",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "480"
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - sinkhole.cert.pl 148.81.111.111",
+        "type":  "trojan-activity",
+        "sid":  "2016413",
+        "metadata":  {
+                         "crtime":  "2013_02_14",
+                         "uptime":  "2013_02_14",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - Georgia Tech (2)",
+        "type":  "trojan-activity",
+        "sid":  "2016423",
+        "metadata":  {
+                         "crtime":  "2013_02_16",
+                         "uptime":  "2013_02_16",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "virustracker.info"
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - Georgia Tech (1)",
+        "type":  "trojan-activity",
+        "sid":  "2016422",
+        "metadata":  {
+                         "crtime":  "2013_02_16",
+                         "uptime":  "2013_02_16",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "virustracker.info"
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - 1and1 Internet AG",
+        "type":  "trojan-activity",
+        "sid":  "2016421",
+        "metadata":  {
+                         "crtime":  "2013_02_16",
+                         "uptime":  "2013_02_16",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "virustracker.info"
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - German Company",
+        "type":  "trojan-activity",
+        "sid":  "2016420",
+        "metadata":  {
+                         "crtime":  "2013_02_16",
+                         "uptime":  "2013_02_16",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "virustracker.info"
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - Zinkhole.org",
+        "type":  "trojan-activity",
+        "sid":  "2016419",
+        "metadata":  {
+                         "crtime":  "2013_02_16",
+                         "uptime":  "2013_02_16",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - Dr. Web",
+        "type":  "trojan-activity",
+        "sid":  "2016418",
+        "metadata":  {
+                         "crtime":  "2013_02_16",
+                         "uptime":  "2013_02_16",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "virustracker.info"
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole FBI Zeus P2P 1 - 142.0.36.234",
+        "type":  "trojan-activity",
+        "sid":  "2018517",
+        "metadata":  {
+                         "crtime":  "2014_06_03",
+                         "uptime":  "2014_06_03",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Reply Sinkhole - 106.187.96.49 blacklistthisdomain.com",
+        "type":  "trojan-activity",
+        "sid":  "2016591",
+        "metadata":  {
+                         "crtime":  "2013_03_18",
+                         "uptime":  "2013_03_18",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Excessive DNS Responses with 1 or more RR\u0027s (100+ in 10 seconds) to google.com.br possible Cache Poisoning Attempt",
+        "type":  "bad-unknown",
+        "sid":  "2013894",
+        "metadata":  {
+                         "crtime":  "2011_11_10",
+                         "uptime":  "2011_11_10",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securelist.com/en/blog/208193214/Massive_DNS_poisoning_attacks_in_Brazil"
+                }
+    },
+    {
+        "description":  "ET DNS Query to a *.pw domain - Likely Hostile",
+        "type":  "bad-unknown",
+        "sid":  "2016778",
+        "metadata":  {
+                         "crtime":  "2013_04_19",
+                         "uptime":  "2020_11_19",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for .su TLD (Soviet Union) Often Malware Related",
+        "type":  "bad-unknown",
+        "sid":  "2014169",
+        "metadata":  {
+                         "crtime":  "2012_01_31",
+                         "uptime":  "2020_09_14",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.abuse.ch/?p=3581"
+                }
+    },
+    {
+        "description":  "ET DNS Query to a *.top domain - Likely Hostile",
+        "type":  "bad-unknown",
+        "sid":  "2023883",
+        "metadata":  {
+                         "crtime":  "2017_02_07",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/connect/blogs/shady-tld-research-gdn-and-our-2016-wrap"
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for Suspicious .cz.cc Domain",
+        "type":  "bad-unknown",
+        "sid":  "2011410",
+        "metadata":  {
+                         "crtime":  "2010_09_27",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sign.kaffenews.com/?p=104"
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for a Suspicious *.cu.cc domain",
+        "type":  "bad-unknown",
+        "sid":  "2013172",
+        "metadata":  {
+                         "crtime":  "2011_07_02",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for a Suspicious *.co.tv domain",
+        "type":  "bad-unknown",
+        "sid":  "2012956",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2020_09_15",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .gr.com Domain (gr .com in DNS Lookup)",
+        "type":  "bad-unknown",
+        "sid":  "2025146",
+        "metadata":  {
+                         "crtime":  "2017_12_12",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.domain.gr.com"
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious shell .now .sh Domain",
+        "type":  "misc-attack",
+        "sid":  "2027367",
+        "metadata":  {
+                         "crtime":  "2019_05_19",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.lacework.com/blog-attacks-exploiting-confluence"
+                }
+    },
+    {
+        "description":  "ET DNS Hiloti DNS CnC Channel Successful Install Message",
+        "type":  "bad-unknown",
+        "sid":  "2011911",
+        "metadata":  {
+                         "crtime":  "2010_11_09",
+                         "uptime":  "2019_08_29",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sign.kaffenews.com/?p=104"
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for a Suspicious Malware Related Numerical .in Domain",
+        "type":  "bad-unknown",
+        "sid":  "2012115",
+        "metadata":  {
+                         "crtime":  "2010_12_30",
+                         "uptime":  "2019_08_29",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sign.kaffenews.com/?p=104"
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for a Suspicious *.ae.am domain",
+        "type":  "bad-unknown",
+        "sid":  "2012900",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for a Suspicious *.qc.cx domain",
+        "type":  "bad-unknown",
+        "sid":  "2012903",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query to a .tk domain - Likely Hostile",
+        "type":  "bad-unknown",
+        "sid":  "2012811",
+        "metadata":  {
+                         "crtime":  "2011_05_15",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for .to TLD",
+        "type":  "bad-unknown",
+        "sid":  "2027757",
+        "metadata":  {
+                         "crtime":  "2019_07_26",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for .cc TLD",
+        "type":  "bad-unknown",
+        "sid":  "2027758",
+        "metadata":  {
+                         "crtime":  "2019_07_26",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Lookup for localhost.DOMAIN.TLD",
+        "type":  "bad-unknown",
+        "sid":  "2011802",
+        "metadata":  {
+                         "crtime":  "2010_10_12",
+                         "uptime":  "2019_09_03",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query to a Suspicious *.vv.cc domain",
+        "type":  "bad-unknown",
+        "sid":  "2012826",
+        "metadata":  {
+                         "crtime":  "2011_05_19",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for a Suspicious *.noc.su domain",
+        "type":  "bad-unknown",
+        "sid":  "2012901",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2020_09_01",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for Suspicious .co.be Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013124",
+        "metadata":  {
+                         "crtime":  "2011_06_28",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for Illegal Drug Sales Site (SilkRoad)",
+        "type":  "policy-violation",
+        "sid":  "2013016",
+        "metadata":  {
+                         "crtime":  "2011_06_13",
+                         "uptime":  "2020_09_01",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .net.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013847",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .eu.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013848",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .int.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013849",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .edu.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013850",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .us.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013851",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .ca.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013852",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .bg.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013853",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .ru.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013854",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .pl.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013855",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .cz.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013856",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .de.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013857",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .at.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013858",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .ch.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013859",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .sg.tf Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013860",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .nl.ai Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013861",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .xe.cx Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013862",
+        "metadata":  {
+                         "crtime":  "2011_11_07",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for Suspicious .noip.cn Domain",
+        "type":  "bad-unknown",
+        "sid":  "2013970",
+        "metadata":  {
+                         "crtime":  "2011_11_28",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for Suspicious .ch.vu Domain",
+        "type":  "bad-unknown",
+        "sid":  "2014285",
+        "metadata":  {
+                         "crtime":  "2012_02_27",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "google.com/safebrowsing/diagnostic?site=ch.vu"
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for a Suspicious *.be.ma domain",
+        "type":  "bad-unknown",
+        "sid":  "2012902",
+        "metadata":  {
+                         "crtime":  "2011_05_31",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS Query for a Suspicious *.upas.su domain",
+        "type":  "bad-unknown",
+        "sid":  "2015550",
+        "metadata":  {
+                         "crtime":  "2012_07_31",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for Suspicious .co.cc Domain",
+        "type":  "bad-unknown",
+        "sid":  "2011409",
+        "metadata":  {
+                         "crtime":  "2010_09_27",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sign.kaffenews.com/?p=104"
+                }
+    },
+    {
+        "description":  "ET DNS DNS Query for vpnoverdns - indicates DNS tunnelling",
+        "type":  "bad-unknown",
+        "sid":  "2018438",
+        "metadata":  {
+                         "crtime":  "2014_05_01",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "osint.bambenekconsulting.com/manual/vpnoverdns.txt"
+                }
+    },
+    {
+        "description":  "ET DNS APT_NGO_wuaclt C2 Domain micorsofts.net",
+        "type":  "bad-unknown",
+        "sid":  "2016569",
+        "metadata":  {
+                         "crtime":  "2013_03_13",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "labs.alienvault.com"
+                }
+    },
+    {
+        "description":  "ET DNS APT_NGO_wuaclt C2 Domain hotmal1.com",
+        "type":  "bad-unknown",
+        "sid":  "2016571",
+        "metadata":  {
+                         "crtime":  "2013_03_13",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "labs.alienvault.com"
+                }
+    },
+    {
+        "description":  "ET DNS APT_NGO_wuaclt C2 Domain micorsofts.com",
+        "type":  "bad-unknown",
+        "sid":  "2016570",
+        "metadata":  {
+                         "crtime":  "2013_03_13",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "labs.alienvault.com"
+                }
+    },
+    {
+        "description":  "ET DNS Non-DNS or Non-Compliant DNS traffic on DNS port Opcode 6 or 7 set",
+        "type":  "policy-violation",
+        "sid":  "2014701",
+        "metadata":  {
+                         "crtime":  "2012_05_03",
+                         "uptime":  "2020_10_06",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "a56ec0f9bd46f921f65e4f6e598e5ed0"
+                }
+    },
+    {
+        "description":  "ET DNS Non-DNS or Non-Compliant DNS traffic on DNS port Opcode 8 through 15 set",
+        "type":  "policy-violation",
+        "sid":  "2014702",
+        "metadata":  {
+                         "crtime":  "2012_05_03",
+                         "uptime":  "2020_10_06",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "a56ec0f9bd46f921f65e4f6e598e5ed0"
+                }
+    },
+    {
+        "description":  "ET DNS Non-DNS or Non-Compliant DNS traffic on DNS port Reserved Bit Set",
+        "type":  "policy-violation",
+        "sid":  "2014703",
+        "metadata":  {
+                         "crtime":  "2012_05_03",
+                         "uptime":  "2020_10_06",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "a56ec0f9bd46f921f65e4f6e598e5ed0"
+                }
+    }
+]

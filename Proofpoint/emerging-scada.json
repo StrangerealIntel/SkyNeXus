@@ -1,0 +1,272 @@
+[
+    {
+        "description":  "ET SCADA RealWin SCADA System Buffer Overflow",
+        "type":  "attempted-dos",
+        "sid":  "2011976",
+        "metadata":  {
+                         "crtime":  "2010_11_24",
+                         "uptime":  "2010_11_24",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.exploit-db.com/exploits/15337/"
+                }
+    },
+    {
+        "description":  "ET SCADA DATAC RealWin SCADA Server Buffer Overflow",
+        "type":  "attempted-user",
+        "sid":  "2012096",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securityfocus.com/bid/31418"
+                }
+    },
+    {
+        "description":  "ET SCADA ICONICS WebHMI ActiveX Stack Overflow",
+        "type":  "attempted-user",
+        "sid":  "2012787",
+        "metadata":  {
+                         "crtime":  "2011_05_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.security-assessment.com/files/documents/advisory/ICONICS_WebHMI.pdf"
+                }
+    },
+    {
+        "description":  "ET SCADA Siemens FactoryLink 8 CSService Logging  Buffer Overflow Vulnerability",
+        "type":  "denial-of-service",
+        "sid":  "2013120",
+        "metadata":  {
+                         "crtime":  "2011_06_27",
+                         "uptime":  "2011_06_27",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/view/102579/factorylink_csservice.rb.txt"
+                }
+    },
+    {
+        "description":  "ET SCADA Sunway ForceControl Activex Control Vulnerability",
+        "type":  "attempted-user",
+        "sid":  "2013735",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "49747"
+                }
+    },
+    {
+        "description":  "ET SCADA PcVue Activex Control Insecure method (GetExtendedColor)",
+        "type":  "attempted-user",
+        "sid":  "2013734",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17896"
+                }
+    },
+    {
+        "description":  "ET SCADA PcVue Activex Control Insecure method (LoadObject)",
+        "type":  "attempted-user",
+        "sid":  "2013733",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17896"
+                }
+    },
+    {
+        "description":  "ET SCADA PcVue Activex Control Insecure method (SaveObject)",
+        "type":  "attempted-user",
+        "sid":  "2013732",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17896"
+                }
+    },
+    {
+        "description":  "ET SCADA PROMOTIC ActiveX Control Insecure method (SaveCfg)",
+        "type":  "attempted-user",
+        "sid":  "2013878",
+        "metadata":  {
+                         "crtime":  "2011_11_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "aluigi.altervista.org/adv/promotic_1-adv.txt"
+                }
+    },
+    {
+        "description":  "ET SCADA PROMOTIC ActiveX Control Insecure method (AddTrend)",
+        "type":  "attempted-user",
+        "sid":  "2013879",
+        "metadata":  {
+                         "crtime":  "2011_11_08",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "aluigi.altervista.org/adv/promotic_1-adv.txt"
+                }
+    },
+    {
+        "description":  "ET SCADA Sunway ForceControl Activex Control Remote Code Execution Vulnerability 2",
+        "type":  "attempted-user",
+        "sid":  "2013736",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "49747"
+                }
+    },
+    {
+        "description":  "ET SCADA PcVue Activex Control Insecure method (AddPage)",
+        "type":  "attempted-user",
+        "sid":  "2013730",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17896"
+                }
+    },
+    {
+        "description":  "ET SCADA PcVue Activex Control Insecure method (DeletePage)",
+        "type":  "attempted-user",
+        "sid":  "2013731",
+        "metadata":  {
+                         "crtime":  "2011_10_04",
+                         "uptime":  "2016_07_01",
+                         "tags":  "ActiveX",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17896"
+                }
+    },
+    {
+        "description":  "ET SCADA DATAC RealWin SCADA Server 2 On_FC_CONNECT_FCS_a_FILE Buffer Overflow Vulnerability",
+        "type":  "denial-of-service",
+        "sid":  "2013074",
+        "metadata":  {
+                         "crtime":  "2011_06_21",
+                         "uptime":  "2011_06_21",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/17417/"
+                }
+    },
+    {
+        "description":  "ET SCADA Golden FTP Server PASS Command Remote Buffer Overflow Attempt",
+        "type":  "denial-of-service",
+        "sid":  "2013235",
+        "metadata":  {
+                         "crtime":  "2011_07_08",
+                         "uptime":  "2011_07_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "45957"
+                }
+    },
+    {
+        "description":  "ET SCADA CitectSCADA ODBC Overflow Attempt",
+        "type":  "attempted-user",
+        "sid":  "2008542",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_06_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2008-2639"
+                }
+    },
+    {
+        "description":  "ET SCADA SEIG SYSTEM 9 - Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2026003",
+        "metadata":  {
+                         "crtime":  "2018_08_21",
+                         "uptime":  "2018_08_21",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/45218/"
+                }
+    },
+    {
+        "description":  "ET SCADA SEIG Modbus 3.4 - Remote Code Execution",
+        "type":  "attempted-user",
+        "sid":  "2026005",
+        "metadata":  {
+                         "crtime":  "2018_08_21",
+                         "uptime":  "2018_08_21",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/45220/"
+                }
+    }
+]

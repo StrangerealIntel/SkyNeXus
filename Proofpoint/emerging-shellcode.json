@@ -1,0 +1,932 @@
+[
+    {
+        "description":  "ET SHELLCODE Bindshell2 Decoder Shellcode (UDP)",
+        "type":  "shellcode-detect",
+        "sid":  "2009285",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009285"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Rothenburg Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2009247",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009247"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Unescape Variable Unicode Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2012535",
+        "metadata":  {
+                         "crtime":  "2011_03_22",
+                         "uptime":  "2011_03_22",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/avcenter/reference/evolving.shell.code.pdf"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE AIX NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100640",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Javascript Split String Unicode Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012925",
+        "metadata":  {
+                         "crtime":  "2011_06_02",
+                         "uptime":  "2011_06_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible 0x0b0b0b0b Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012963",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Vertical Slash Unicode Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012969",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Backslash Unicode Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012970",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible 0x0a0a0a0a Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012962",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible 0x0c0c0c0c Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012964",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible 0x0d0d0d0d Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012965",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible %0d%0d%0d%0d Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012966",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible %u0d%u0d%u0d%u0d UTF-8 Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012967",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible %u0d0d%u0d0d UTF-16 Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2012968",
+        "metadata":  {
+                         "crtime":  "2011_06_08",
+                         "uptime":  "2011_06_08",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Unescape Hex Obfuscated Content",
+        "type":  "shellcode-detect",
+        "sid":  "2013272",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2011_07_14",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE x86 0x71FB7BAB NOOP unicode",
+        "type":  "shellcode-detect",
+        "sid":  "2102313",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE x86 0x71FB7BAB NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2102312",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE SGI NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100639",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "357"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE Digital UNIX NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100641",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "352"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE HP-UX NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100642",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "358"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE HP-UX NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100643",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "359"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE sparc NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100644",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "345"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE sparc NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100645",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "353"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE sparc NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2100646",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "355"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE sparc setuid 0",
+        "type":  "system-call-detect",
+        "sid":  "2100647",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "282"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE Linux shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2100652",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "343"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Hex Obfuscated JavaScript Heap Spray 0b0b0b0b",
+        "type":  "shellcode-detect",
+        "sid":  "2013268",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2011_07_14",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Backslash Escaped UTF-8 0c0c Heap Spray",
+        "type":  "bad-unknown",
+        "sid":  "2016714",
+        "metadata":  {
+                         "crtime":  "2013_04_03",
+                         "uptime":  "2013_04_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible UTF-16 u9090 NOP SLED",
+        "type":  "shellcode-detect",
+        "sid":  "2017345",
+        "metadata":  {
+                         "crtime":  "2013_08_19",
+                         "uptime":  "2013_08_19",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cansecwest.com/slides07/csw07-nazario.pdf"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Execve(/bin/sh) Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2025695",
+        "metadata":  {
+                         "crtime":  "2018_07_13",
+                         "uptime":  "2018_07_13",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Call with No Offset UDP Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2012091",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2010_12_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rsa.com/community/products/netwitness/blog/2012/08/22/network-detection-of-x86-buffer-overflow-shellcode"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Call with No Offset UDP Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2012093",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2010_12_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rsa.com/community/products/netwitness/blog/2012/08/22/network-detection-of-x86-buffer-overflow-shellcode"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Call with No Offset TCP Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2012092",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2010_12_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rsa.com/community/products/netwitness/blog/2012/08/22/network-detection-of-x86-buffer-overflow-shellcode"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Call with No Offset TCP Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2012090",
+        "metadata":  {
+                         "crtime":  "2010_12_23",
+                         "uptime":  "2010_12_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "community.rsa.com/community/products/netwitness/blog/2012/08/22/network-detection-of-x86-buffer-overflow-shellcode"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Unescape Encoded Content With Split String Obfuscation",
+        "type":  "shellcode-detect",
+        "sid":  "2012196",
+        "metadata":  {
+                         "crtime":  "2011_01_17",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cansecwest.com/slides07/csw07-nazario.pdf"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Unescape Encoded Content With Split String Obfuscation 2",
+        "type":  "shellcode-detect",
+        "sid":  "2012197",
+        "metadata":  {
+                         "crtime":  "2011_01_17",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cansecwest.com/slides07/csw07-nazario.pdf"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible Encoded %90 NOP SLED",
+        "type":  "shellcode-detect",
+        "sid":  "2012112",
+        "metadata":  {
+                         "crtime":  "2010_12_28",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cansecwest.com/slides07/csw07-nazario.pdf"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible UTF-8 %u90 NOP SLED",
+        "type":  "shellcode-detect",
+        "sid":  "2012110",
+        "metadata":  {
+                         "crtime":  "2010_12_28",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cansecwest.com/slides07/csw07-nazario.pdf"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Common %u0a0a%u0a0a UTF-16 Heap Spray String",
+        "type":  "shellcode-detect",
+        "sid":  "2012254",
+        "metadata":  {
+                         "crtime":  "2011_02_02",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Common %u0a%u0a%u0a%u0a UTF-8 Heap Spray String",
+        "type":  "shellcode-detect",
+        "sid":  "2012255",
+        "metadata":  {
+                         "crtime":  "2011_02_02",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Common %0c%0c%0c%0c Heap Spray String",
+        "type":  "shellcode-detect",
+        "sid":  "2012257",
+        "metadata":  {
+                         "crtime":  "2011_02_02",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Common %u0c0c%u0c0c UTF-16 Heap Spray String",
+        "type":  "shellcode-detect",
+        "sid":  "2012258",
+        "metadata":  {
+                         "crtime":  "2011_02_02",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Common %u0c%u0c%u0c%u0c UTF-8 Heap Spray String",
+        "type":  "shellcode-detect",
+        "sid":  "2012259",
+        "metadata":  {
+                         "crtime":  "2011_02_02",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible UTF-16 %u9090 NOP SLED",
+        "type":  "shellcode-detect",
+        "sid":  "2012111",
+        "metadata":  {
+                         "crtime":  "2010_12_28",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cansecwest.com/slides07/csw07-nazario.pdf"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Common 0a0a0a0a Heap Spray String",
+        "type":  "shellcode-detect",
+        "sid":  "2012252",
+        "metadata":  {
+                         "crtime":  "2011_02_02",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/vulnerabilities---threats/heap-spraying-attackers-latest-weapon-of-choice/d/d-id/1132487"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible %41%41%41%41 Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2013145",
+        "metadata":  {
+                         "crtime":  "2011_06_30",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible %u41%u41%u41%u41 UTF-8 Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2013146",
+        "metadata":  {
+                         "crtime":  "2011_06_30",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Possible %u4141%u4141 UTF-16 Heap Spray Attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2013147",
+        "metadata":  {
+                         "crtime":  "2011_06_30",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Double BackSlash Hex Obfuscated JavaScript Heap Spray 41414141",
+        "type":  "shellcode-detect",
+        "sid":  "2013279",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Double BackSlash Hex Obfuscated JavaScript NOP SLED",
+        "type":  "shellcode-detect",
+        "sid":  "2013278",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Double BackSlash Hex Obfuscated JavaScript Heap Spray 0d0d0d0d",
+        "type":  "shellcode-detect",
+        "sid":  "2013277",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Double BackSlash Hex Obfuscated JavaScript Heap Spray 0c0c0c0c",
+        "type":  "shellcode-detect",
+        "sid":  "2013276",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Double BackSlash Hex Obfuscated JavaScript Heap Spray 0b0b0b0b",
+        "type":  "shellcode-detect",
+        "sid":  "2013275",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Double BackSlash Hex Obfuscated JavaScript Heap Spray 0a0a0a0a",
+        "type":  "shellcode-detect",
+        "sid":  "2013274",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Hex Obfuscated JavaScript NOP SLED",
+        "type":  "shellcode-detect",
+        "sid":  "2013271",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Hex Obfuscated JavaScript Heap Spray 0d0d0d0d",
+        "type":  "shellcode-detect",
+        "sid":  "2013270",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Hex Obfuscated JavaScript Heap Spray 0c0c0c0c",
+        "type":  "shellcode-detect",
+        "sid":  "2013269",
+        "metadata":  {
+                         "crtime":  "2011_07_14",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darkreading.com/security/vulnerabilities/221901428/index.html"
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE MSSQL shellcode attempt",
+        "type":  "shellcode-detect",
+        "sid":  "2100691",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SHELLCODE x86 0xEB0C NOOP",
+        "type":  "shellcode-detect",
+        "sid":  "2101424",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Linux/x86-64 - Polymorphic Flush IPTables Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2024057",
+        "metadata":  {
+                         "crtime":  "2017_03_15",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "a41l4.blogspot.ca/2017/03/polyflushiptables1434.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Linux/x86-64 - Polymorphic Setuid(0) \u0026 Execve(/bin/sh) Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2024058",
+        "metadata":  {
+                         "crtime":  "2017_03_15",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "a41l4.blogspot.ca/2017/03/polysetuidexecve1434.html"
+                }
+    },
+    {
+        "description":  "ET SHELLCODE Linux/x86-64 - Reverse Shell Shellcode",
+        "type":  "shellcode-detect",
+        "sid":  "2024065",
+        "metadata":  {
+                         "crtime":  "2017_03_16",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/41477/"
+                }
+    }
+]

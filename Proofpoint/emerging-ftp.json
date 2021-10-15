@@ -1,0 +1,887 @@
+[
+    {
+        "description":  "ET FTP Possible FTP Daemon Username SELECT FROM SQL Injection Attempt",
+        "type":  "attempted-user",
+        "sid":  "2009981",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/SQL_injection"
+                }
+    },
+    {
+        "description":  "ET FTP Possible FTP Daemon Username DELETE FROM SQL Injection Attempt",
+        "type":  "attempted-user",
+        "sid":  "2009982",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/SQL_injection"
+                }
+    },
+    {
+        "description":  "ET FTP Possible FTP Daemon Username INSERT INTO SQL Injection Attempt",
+        "type":  "attempted-user",
+        "sid":  "2009983",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/SQL_injection"
+                }
+    },
+    {
+        "description":  "ET FTP Possible FTP Daemon Username UPDATE SET SQL Injection Attempt",
+        "type":  "attempted-user",
+        "sid":  "2009984",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/SQL_injection"
+                }
+    },
+    {
+        "description":  "ET FTP Possible FTP Daemon Username UNION SELECT SQL Injection Attempt",
+        "type":  "attempted-user",
+        "sid":  "2009985",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/SQL_injection"
+                }
+    },
+    {
+        "description":  "ET FTP Possible FTP Daemon Username INTO OUTFILE SQL Injection Attempt",
+        "type":  "attempted-user",
+        "sid":  "2010081",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2016_07_01",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.milw0rm.com/papers/372"
+                }
+    },
+    {
+        "description":  "GPL FTP LIST directory traversal attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2101992",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2618"
+                }
+    },
+    {
+        "description":  "GPL FTP PASS overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101972",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "18"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "10078"
+                }
+    },
+    {
+        "description":  "GPL FTP MKD overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101973",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "612"
+                }
+    },
+    {
+        "description":  "GPL FTP REST overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101974",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2972"
+                }
+    },
+    {
+        "description":  "GPL FTP DELE overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101975",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2972"
+                }
+    },
+    {
+        "description":  "GPL FTP RMD overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101976",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2972"
+                }
+    },
+    {
+        "description":  "GPL FTP RMDIR overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101942",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "819"
+                }
+    },
+    {
+        "description":  "GPL FTP SITE NEWER overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101920",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "229"
+                }
+    },
+    {
+        "description":  "GPL FTP SITE ZIPCHK overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101921",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2000-0040"
+                }
+    },
+    {
+        "description":  "GPL FTP .forward",
+        "type":  "suspicious-filename-detect",
+        "sid":  "2100334",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "319"
+                }
+    },
+    {
+        "description":  "GPL FTP ALLO overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102449",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9953"
+                }
+    },
+    {
+        "description":  "GPL FTP CMD overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101621",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP CWD overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101919",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "24"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "11069"
+                }
+    },
+    {
+        "description":  "GPL FTP SITE CPWD overflow attempt",
+        "type":  "misc-attack",
+        "sid":  "2101888",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "5427"
+                }
+    },
+    {
+        "description":  "GPL FTP SITE NEWER attempt",
+        "type":  "attempted-dos",
+        "sid":  "2101864",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "1999-0880"
+                }
+    },
+    {
+        "description":  "GPL FTP CWD .... attempt",
+        "type":  "denial-of-service",
+        "sid":  "2101779",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4884"
+                }
+    },
+    {
+        "description":  "GPL FTP CWD ~\u003cCR\u003e\u003cNEWLINE\u003e attempt",
+        "type":  "denial-of-service",
+        "sid":  "2101728",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2601"
+                }
+    },
+    {
+        "description":  "GPL FTP APPE overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102391",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8315"
+                }
+    },
+    {
+        "description":  "GPL FTP CWD ~ attempt",
+        "type":  "denial-of-service",
+        "sid":  "2101672",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2601"
+                }
+    },
+    {
+        "description":  "GPL FTP invalid MODE",
+        "type":  "protocol-command-decode",
+        "sid":  "2101623",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP RNFR ././ attempt",
+        "type":  "misc-attack",
+        "sid":  "2101622",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP SITE overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101529",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "1999-0838"
+                }
+    },
+    {
+        "description":  "GPL FTP SITE CHOWN overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101562",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2120"
+                }
+    },
+    {
+        "description":  "GPL FTP shadow retrieval attempt",
+        "type":  "suspicious-filename-detect",
+        "sid":  "2101928",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP large PWD command",
+        "type":  "protocol-command-decode",
+        "sid":  "2101624",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP MKD overflow",
+        "type":  "attempted-admin",
+        "sid":  "2100349",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "113"
+                }
+    },
+    {
+        "description":  "GPL FTP SITE EXEC attempt",
+        "type":  "bad-unknown",
+        "sid":  "2100361",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "17"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "317"
+                }
+    },
+    {
+        "description":  "GPL FTP CWD Root directory transversal attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2102125",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "7674"
+                }
+    },
+    {
+        "description":  "GPL FTP MDTM overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102546",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9751"
+                }
+    },
+    {
+        "description":  "ET FTP Suspicious Percentage Symbol Usage in FTP Username",
+        "type":  "bad-unknown",
+        "sid":  "2011487",
+        "metadata":  {
+                         "crtime":  "2010_09_28",
+                         "uptime":  "2010_09_28",
+                         "tags":  " Symbol Usage in FTP Username\"; flow:established",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.checkpoint.com/defense/advisories/public/2010/sbp-16-Aug.html"
+                }
+    },
+    {
+        "description":  "GPL FTP CWD ...",
+        "type":  "bad-unknown",
+        "sid":  "2101229",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9237"
+                }
+    },
+    {
+        "description":  "GPL FTP CWD ~root attempt",
+        "type":  "bad-unknown",
+        "sid":  "2100336",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "318"
+                }
+    },
+    {
+        "description":  "GPL FTP NLST overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102374",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "10184"
+                }
+    },
+    {
+        "description":  "GPL FTP PORT bounce attempt",
+        "type":  "misc-attack",
+        "sid":  "2103441",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP RETR overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102392",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8315"
+                }
+    },
+    {
+        "description":  "GPL FTP RNFR overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2103077",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP RNTO overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102389",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8315"
+                }
+    },
+    {
+        "description":  "GPL FTP STAT overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101379",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "3507"
+                }
+    },
+    {
+        "description":  "GPL FTP STOU overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102390",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "8315"
+                }
+    },
+    {
+        "description":  "GPL FTP XMKD overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102373",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "7909"
+                }
+    },
+    {
+        "description":  "GPL FTP passwd retrieval attempt",
+        "type":  "suspicious-filename-detect",
+        "sid":  "2100356",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "213"
+                }
+    },
+    {
+        "description":  "ET FTP Outbound Java Anonymous FTP Login",
+        "type":  "misc-activity",
+        "sid":  "2016687",
+        "metadata":  {
+                         "crtime":  "2013_03_28",
+                         "uptime":  "2013_03_28",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP authorized_keys file transferred",
+        "type":  "suspicious-filename-detect",
+        "sid":  "2101927",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET FTP Suspicious Quotation Mark Usage in FTP Username",
+        "type":  "bad-unknown",
+        "sid":  "2011488",
+        "metadata":  {
+                         "crtime":  "2010_09_28",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.checkpoint.com/defense/advisories/public/2010/sbp-16-Aug.html"
+                }
+    },
+    {
+        "description":  "GPL FTP USER overflow attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101734",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "36"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "10078"
+                }
+    },
+    {
+        "description":  "GPL FTP iss scan",
+        "type":  "suspicious-login",
+        "sid":  "2100354",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "331"
+                }
+    },
+    {
+        "description":  "GPL FTP pass wh00t",
+        "type":  "suspicious-login",
+        "sid":  "2100355",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "324"
+                }
+    },
+    {
+        "description":  "GPL FTP piss scan",
+        "type":  "suspicious-login",
+        "sid":  "2100357",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL FTP saint scan",
+        "type":  "suspicious-login",
+        "sid":  "2100358",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "330"
+                }
+    },
+    {
+        "description":  "GPL FTP satan scan",
+        "type":  "suspicious-login",
+        "sid":  "2100359",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "329"
+                }
+    },
+    {
+        "description":  "GPL FTP tar parameters",
+        "type":  "bad-unknown",
+        "sid":  "2100362",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "134"
+                }
+    },
+    {
+        "description":  "GPL FTP invalid MDTM command attempt",
+        "type":  "attempted-admin",
+        "sid":  "2102416",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9751"
+                }
+    },
+    {
+        "description":  "ET FTP Outbound Java Downloading jar over FTP",
+        "type":  "misc-activity",
+        "sid":  "2016688",
+        "metadata":  {
+                         "crtime":  "2013_03_28",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    }
+]

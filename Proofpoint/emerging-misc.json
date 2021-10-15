@@ -1,0 +1,317 @@
+[
+    {
+        "description":  "GPL MISC CVS invalid user authentication response",
+        "type":  "misc-attack",
+        "sid":  "2102008",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL MISC CVS invalid repository response",
+        "type":  "misc-attack",
+        "sid":  "2102009",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL MISC CVS double free exploit attempt response",
+        "type":  "misc-attack",
+        "sid":  "2102010",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "6650"
+                }
+    },
+    {
+        "description":  "GPL MISC CVS invalid directory response",
+        "type":  "misc-attack",
+        "sid":  "2102011",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "6650"
+                }
+    },
+    {
+        "description":  "GPL MISC CVS missing cvsroot response",
+        "type":  "misc-attack",
+        "sid":  "2102012",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL MISC CVS invalid module response",
+        "type":  "misc-attack",
+        "sid":  "2102013",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL MISC Invalid PCAnywhere Login",
+        "type":  "unsuccessful-user",
+        "sid":  "2100511",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL MISC CVS non-relative path error response",
+        "type":  "misc-attack",
+        "sid":  "2102317",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9178"
+                }
+    },
+    {
+        "description":  "GPL MISC HP Web JetAdmin remote file upload attempt",
+        "type":  "web-application-activity",
+        "sid":  "2102547",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9978"
+                }
+    },
+    {
+        "description":  "GPL MISC HP Web JetAdmin setinfo access",
+        "type":  "web-application-activity",
+        "sid":  "2102548",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9972"
+                }
+    },
+    {
+        "description":  "GPL MISC HP Web JetAdmin file write attempt",
+        "type":  "web-application-activity",
+        "sid":  "2102549",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "9973"
+                }
+    },
+    {
+        "description":  "GPL MISC UPnP Location overflow",
+        "type":  "misc-attack",
+        "sid":  "2101388",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "3723"
+                }
+    },
+    {
+        "description":  "GPL MISC UPnP malformed advertisement",
+        "type":  "misc-attack",
+        "sid":  "2101384",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "3723"
+                }
+    },
+    {
+        "description":  "GPL MISC rwhoisd format string attempt",
+        "type":  "misc-attack",
+        "sid":  "2101323",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "3474"
+                }
+    },
+    {
+        "description":  "GPL MISC rsh echo + +",
+        "type":  "attempted-user",
+        "sid":  "2100608",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "388"
+                }
+    },
+    {
+        "description":  "GPL MISC ident version request",
+        "type":  "attempted-recon",
+        "sid":  "2100616",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "303"
+                }
+    },
+    {
+        "description":  "GPL MISC rlogin bin",
+        "type":  "attempted-user",
+        "sid":  "2100602",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "384"
+                }
+    },
+    {
+        "description":  "GPL MISC rlogin echo++",
+        "type":  "bad-unknown",
+        "sid":  "2100603",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "385"
+                }
+    },
+    {
+        "description":  "GPL MISC rlogin root",
+        "type":  "attempted-admin",
+        "sid":  "2100606",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "389"
+                }
+    },
+    {
+        "description":  "GPL MISC rsh froot",
+        "type":  "attempted-admin",
+        "sid":  "2100609",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "387"
+                }
+    },
+    {
+        "description":  "GPL MISC rsh root",
+        "type":  "attempted-admin",
+        "sid":  "2100610",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "391"
+                }
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "description":  "ET TFTP Outbound TFTP Data Transfer",
+        "type":  "policy-violation",
+        "sid":  "2008117",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008117"
+                }
+    },
+    {
+        "description":  "ET TFTP Outbound TFTP ACK",
+        "type":  "policy-violation",
+        "sid":  "2008118",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008118"
+                }
+    },
+    {
+        "description":  "ET TFTP Outbound TFTP Error Message",
+        "type":  "policy-violation",
+        "sid":  "2008119",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008119"
+                }
+    },
+    {
+        "description":  "GPL TFTP Put",
+        "type":  "bad-unknown",
+        "sid":  "2100518",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "1999-0183"
+                }
+    },
+    {
+        "description":  "GPL TFTP GET shadow",
+        "type":  "successful-admin",
+        "sid":  "2101442",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL TFTP GET passwd",
+        "type":  "successful-admin",
+        "sid":  "2101443",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL TFTP GET Admin.dll",
+        "type":  "successful-admin",
+        "sid":  "2101289",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cert.org/advisories/CA-2001-26.html"
+                }
+    },
+    {
+        "description":  "GPL TFTP GET nc.exe",
+        "type":  "successful-admin",
+        "sid":  "2101441",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL TFTP MISC TFTP32 Get Format string attempt",
+        "type":  "attempted-admin",
+        "sid":  "2101222",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securityfocus.com/archive/1/422405/30/0/threaded"
+                }
+    },
+    {
+        "description":  "ET TFTP Outbound TFTP Read Request",
+        "type":  "policy-violation",
+        "sid":  "2008120",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_01_12",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008120"
+                }
+    },
+    {
+        "description":  "ET TFTP Outbound TFTP Write Request",
+        "type":  "policy-violation",
+        "sid":  "2008116",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_01_25",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008116"
+                }
+    },
+    {
+        "description":  "ET TFTP Outbound TFTP Data Transfer with Cisco config",
+        "type":  "policy-violation",
+        "sid":  "2015857",
+        "metadata":  {
+                         "crtime":  "2012_10_31",
+                         "uptime":  "2017_07_19",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET TFTP Outbound TFTP Data Transfer With Cisco Config 2",
+        "type":  "policy-violation",
+        "sid":  "2024481",
+        "metadata":  {
+                         "crtime":  "2017_07_19",
+                         "uptime":  "2017_07_19",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    }
+]

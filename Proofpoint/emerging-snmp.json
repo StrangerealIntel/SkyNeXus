@@ -1,0 +1,242 @@
+[
+    {
+        "description":  "ET SNMP Attempted UDP Access Attempt to Cisco IOS 12.1 Hidden Read/Write Community String ILMI",
+        "type":  "attempted-admin",
+        "sid":  "2011011",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cisco.com/warp/public/707/cisco-sa-20010228-ios-snmp-community.shtml"
+                }
+    },
+    {
+        "description":  "ET SNMP Attempted UDP Access Attempt to Cisco IOS 12.1 Hidden Read/Write Community String cable-docsis",
+        "type":  "attempted-admin",
+        "sid":  "2011013",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cisco.com/warp/public/707/cisco-sa-20010228-ios-snmp-community.shtml"
+                }
+    },
+    {
+        "description":  "ET SNMP Attempted TCP Access Attempt to Cisco IOS 12.1 Hidden Read/Write Community String cable-docsis",
+        "type":  "attempted-admin",
+        "sid":  "2011014",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cisco.com/warp/public/707/cisco-sa-20010228-ios-snmp-community.shtml"
+                }
+    },
+    {
+        "description":  "GPL SNMP null community string attempt",
+        "type":  "misc-attack",
+        "sid":  "2101892",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2112"
+                }
+    },
+    {
+        "description":  "GPL SNMP private access tcp",
+        "type":  "attempted-recon",
+        "sid":  "2101414",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4088"
+                }
+    },
+    {
+        "description":  "GPL SNMP public access tcp",
+        "type":  "attempted-recon",
+        "sid":  "2101412",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "14"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2112"
+                }
+    },
+    {
+        "description":  "ET SNMP missing community string attempt 1",
+        "type":  "misc-attack",
+        "sid":  "2016178",
+        "metadata":  {
+                         "crtime":  "2013_01_09",
+                         "uptime":  "2013_01_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2112"
+                }
+    },
+    {
+        "description":  "ET SNMP missing community string attempt 2",
+        "type":  "misc-attack",
+        "sid":  "2016179",
+        "metadata":  {
+                         "crtime":  "2013_01_09",
+                         "uptime":  "2013_01_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2112"
+                }
+    },
+    {
+        "description":  "ET SNMP missing community string attempt 4",
+        "type":  "misc-attack",
+        "sid":  "2016181",
+        "metadata":  {
+                         "crtime":  "2013_01_09",
+                         "uptime":  "2013_01_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2112"
+                }
+    },
+    {
+        "description":  "GPL SNMP private access udp",
+        "type":  "attempted-recon",
+        "sid":  "2101413",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "4088"
+                }
+    },
+    {
+        "description":  "GPL SNMP public access udp",
+        "type":  "attempted-recon",
+        "sid":  "2101411",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "2112"
+                }
+    },
+    {
+        "description":  "GPL SNMP PROTOS test-suite-trap-app attempt",
+        "type":  "misc-attack",
+        "sid":  "2101427",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.ee.oulu.fi/research/ouspg/protos/testing/c06/snmpv1/index.html"
+                }
+    },
+    {
+        "description":  "GPL SNMP SNMP NT UserList",
+        "type":  "attempted-recon",
+        "sid":  "2100516",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "nessus",
+                    "ref":  "10546"
+                }
+    },
+    {
+        "description":  "ET SNMP Attempt to retrieve Cisco Config via TFTP (CISCO-CONFIG-COPY)",
+        "type":  "policy-violation",
+        "sid":  "2015856",
+        "metadata":  {
+                         "crtime":  "2012_10_31",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SNMP Samsung Printer SNMP Hardcode RW Community String",
+        "type":  "attempted-admin",
+        "sid":  "2015959",
+        "metadata":  {
+                         "crtime":  "2012_11_28",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.l8security.com/post/36715280176/vu-281284-samsung-printer-snmp-backdoor"
+                }
+    },
+    {
+        "description":  "GPL SNMP SNMP trap Format String detected",
+        "type":  "attempted-recon",
+        "sid":  "2100227",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "bugtraq",
+                    "ref":  "16267"
+                }
+    }
+]

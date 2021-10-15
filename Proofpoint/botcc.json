@@ -1,0 +1,377 @@
+[
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 1",
+        "type":  "trojan-activity",
+        "sid":  "2404300",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 2",
+        "type":  "trojan-activity",
+        "sid":  "2404301",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 3",
+        "type":  "trojan-activity",
+        "sid":  "2404302",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 4",
+        "type":  "trojan-activity",
+        "sid":  "2404303",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 5",
+        "type":  "trojan-activity",
+        "sid":  "2404304",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 6",
+        "type":  "trojan-activity",
+        "sid":  "2404305",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 7",
+        "type":  "trojan-activity",
+        "sid":  "2404306",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 8",
+        "type":  "trojan-activity",
+        "sid":  "2404307",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 9",
+        "type":  "trojan-activity",
+        "sid":  "2404308",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 10",
+        "type":  "trojan-activity",
+        "sid":  "2404309",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 11",
+        "type":  "trojan-activity",
+        "sid":  "2404310",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 12",
+        "type":  "trojan-activity",
+        "sid":  "2404311",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 13",
+        "type":  "trojan-activity",
+        "sid":  "2404312",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 14",
+        "type":  "trojan-activity",
+        "sid":  "2404313",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 15",
+        "type":  "trojan-activity",
+        "sid":  "2404314",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 16",
+        "type":  "trojan-activity",
+        "sid":  "2404315",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 17",
+        "type":  "trojan-activity",
+        "sid":  "2404316",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 18",
+        "type":  "trojan-activity",
+        "sid":  "2404317",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 19",
+        "type":  "trojan-activity",
+        "sid":  "2404318",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 20",
+        "type":  "trojan-activity",
+        "sid":  "2404319",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 21",
+        "type":  "trojan-activity",
+        "sid":  "2404320",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 22",
+        "type":  "trojan-activity",
+        "sid":  "2404321",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 23",
+        "type":  "trojan-activity",
+        "sid":  "2404322",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 24",
+        "type":  "trojan-activity",
+        "sid":  "2404323",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    },
+    {
+        "description":  "ET CNC Feodo Tracker Reported CnC Server group 25",
+        "type":  "trojan-activity",
+        "sid":  "2404324",
+        "metadata":  {
+                         "crtime":  "2014_11_04",
+                         "uptime":  "2021_08_20",
+                         "tags":  "Banking_Trojan",
+                         "rev":  "6196"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/BotCC"
+                }
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "description":  "ET DROP Dshield Block Listed Source group 1",
+    "type":  "misc-attack",
+    "sid":  "2402000",
+    "metadata":  {
+                     "crtime":  "2010_12_30",
+                     "uptime":  "2021_08_20",
+                     "tags":  "Dshield",
+                     "rev":  "6008"
+                 },
+    "ref":  {
+                "type":  "url",
+                "ref":  "feeds.dshield.org/block.txt"
+            }
+}

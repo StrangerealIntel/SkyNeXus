@@ -1,0 +1,1187 @@
+[
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 1",
+        "type":  "misc-attack",
+        "sid":  "2500000",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 2",
+        "type":  "misc-attack",
+        "sid":  "2500002",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 3",
+        "type":  "misc-attack",
+        "sid":  "2500004",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 4",
+        "type":  "misc-attack",
+        "sid":  "2500006",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 5",
+        "type":  "misc-attack",
+        "sid":  "2500008",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 6",
+        "type":  "misc-attack",
+        "sid":  "2500010",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 7",
+        "type":  "misc-attack",
+        "sid":  "2500012",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 8",
+        "type":  "misc-attack",
+        "sid":  "2500014",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 9",
+        "type":  "misc-attack",
+        "sid":  "2500016",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 10",
+        "type":  "misc-attack",
+        "sid":  "2500018",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 11",
+        "type":  "misc-attack",
+        "sid":  "2500020",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 12",
+        "type":  "misc-attack",
+        "sid":  "2500022",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 13",
+        "type":  "misc-attack",
+        "sid":  "2500024",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 14",
+        "type":  "misc-attack",
+        "sid":  "2500026",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 15",
+        "type":  "misc-attack",
+        "sid":  "2500028",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 16",
+        "type":  "misc-attack",
+        "sid":  "2500030",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 17",
+        "type":  "misc-attack",
+        "sid":  "2500032",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 18",
+        "type":  "misc-attack",
+        "sid":  "2500034",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 19",
+        "type":  "misc-attack",
+        "sid":  "2500036",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 20",
+        "type":  "misc-attack",
+        "sid":  "2500038",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 21",
+        "type":  "misc-attack",
+        "sid":  "2500040",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 22",
+        "type":  "misc-attack",
+        "sid":  "2500042",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 23",
+        "type":  "misc-attack",
+        "sid":  "2500044",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 24",
+        "type":  "misc-attack",
+        "sid":  "2500046",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 25",
+        "type":  "misc-attack",
+        "sid":  "2500048",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 26",
+        "type":  "misc-attack",
+        "sid":  "2500050",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 27",
+        "type":  "misc-attack",
+        "sid":  "2500052",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 28",
+        "type":  "misc-attack",
+        "sid":  "2500054",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 29",
+        "type":  "misc-attack",
+        "sid":  "2500056",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 30",
+        "type":  "misc-attack",
+        "sid":  "2500058",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 31",
+        "type":  "misc-attack",
+        "sid":  "2500060",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 32",
+        "type":  "misc-attack",
+        "sid":  "2500062",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 33",
+        "type":  "misc-attack",
+        "sid":  "2500064",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 34",
+        "type":  "misc-attack",
+        "sid":  "2500066",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 35",
+        "type":  "misc-attack",
+        "sid":  "2500068",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 36",
+        "type":  "misc-attack",
+        "sid":  "2500070",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 37",
+        "type":  "misc-attack",
+        "sid":  "2500072",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 38",
+        "type":  "misc-attack",
+        "sid":  "2500074",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 39",
+        "type":  "misc-attack",
+        "sid":  "2500076",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 40",
+        "type":  "misc-attack",
+        "sid":  "2500078",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 41",
+        "type":  "misc-attack",
+        "sid":  "2500080",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 42",
+        "type":  "misc-attack",
+        "sid":  "2500082",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 43",
+        "type":  "misc-attack",
+        "sid":  "2500084",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 44",
+        "type":  "misc-attack",
+        "sid":  "2500086",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 45",
+        "type":  "misc-attack",
+        "sid":  "2500088",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 46",
+        "type":  "misc-attack",
+        "sid":  "2500090",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 47",
+        "type":  "misc-attack",
+        "sid":  "2500092",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 48",
+        "type":  "misc-attack",
+        "sid":  "2500094",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 49",
+        "type":  "misc-attack",
+        "sid":  "2500096",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 50",
+        "type":  "misc-attack",
+        "sid":  "2500098",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 51",
+        "type":  "misc-attack",
+        "sid":  "2500100",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 52",
+        "type":  "misc-attack",
+        "sid":  "2500102",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 53",
+        "type":  "misc-attack",
+        "sid":  "2500104",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 54",
+        "type":  "misc-attack",
+        "sid":  "2500106",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 55",
+        "type":  "misc-attack",
+        "sid":  "2500108",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 56",
+        "type":  "misc-attack",
+        "sid":  "2500110",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 57",
+        "type":  "misc-attack",
+        "sid":  "2500112",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 58",
+        "type":  "misc-attack",
+        "sid":  "2500114",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 59",
+        "type":  "misc-attack",
+        "sid":  "2500116",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 60",
+        "type":  "misc-attack",
+        "sid":  "2500118",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 61",
+        "type":  "misc-attack",
+        "sid":  "2500120",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 62",
+        "type":  "misc-attack",
+        "sid":  "2500122",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 63",
+        "type":  "misc-attack",
+        "sid":  "2500124",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 64",
+        "type":  "misc-attack",
+        "sid":  "2500126",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 65",
+        "type":  "misc-attack",
+        "sid":  "2500128",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 66",
+        "type":  "misc-attack",
+        "sid":  "2500130",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 67",
+        "type":  "misc-attack",
+        "sid":  "2500132",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 68",
+        "type":  "misc-attack",
+        "sid":  "2500134",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 69",
+        "type":  "misc-attack",
+        "sid":  "2500136",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 70",
+        "type":  "misc-attack",
+        "sid":  "2500138",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 71",
+        "type":  "misc-attack",
+        "sid":  "2500140",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 72",
+        "type":  "misc-attack",
+        "sid":  "2500142",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 73",
+        "type":  "misc-attack",
+        "sid":  "2500144",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 74",
+        "type":  "misc-attack",
+        "sid":  "2500146",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 75",
+        "type":  "misc-attack",
+        "sid":  "2500148",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 76",
+        "type":  "misc-attack",
+        "sid":  "2500150",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 77",
+        "type":  "misc-attack",
+        "sid":  "2500152",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 78",
+        "type":  "misc-attack",
+        "sid":  "2500154",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    },
+    {
+        "description":  "ET COMPROMISED Known Compromised or Hostile Host Traffic group 79",
+        "type":  "misc-attack",
+        "sid":  "2500156",
+        "metadata":  {
+                         "crtime":  "2011_04_28",
+                         "uptime":  "2021_08_20",
+                         "tags":  "COMPROMISED",
+                         "rev":  "5897"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/CompromisedHosts"
+                }
+    }
+]

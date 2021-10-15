@@ -1,0 +1,4202 @@
+[
+    {
+        "description":  "ET SCAN Amap TCP Service Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2010371",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "freeworld.thc.org/thc-amap/"
+                }
+    },
+    {
+        "description":  "ET SCAN Amap UDP Service Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2010372",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "freeworld.thc.org/thc-amap/"
+                }
+    },
+    {
+        "description":  "ET SCAN Cisco Torch TFTP Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008414",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.hackingexposedcisco.com/?link=tools"
+                }
+    },
+    {
+        "description":  "ET SCAN Multiple FTP Root Login Attempts from Single Source - Possible Brute Force Attempt",
+        "type":  "attempted-recon",
+        "sid":  "2010642",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010642"
+                }
+    },
+    {
+        "description":  "ET SCAN Multiple FTP Administrator Login Attempts from Single Source - Possible Brute Force Attempt",
+        "type":  "attempted-recon",
+        "sid":  "2010643",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010643"
+                }
+    },
+    {
+        "description":  "ET SCAN Grim\u0027s Ping ftp scanning tool",
+        "type":  "network-scan",
+        "sid":  "2007802",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "archives.neohapsis.com/archives/snort/2002-04/0448.html"
+                }
+    },
+    {
+        "description":  "ET SCAN ICMP PING IPTools",
+        "type":  "misc-activity",
+        "sid":  "2000575",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.ks-soft.net/ip-tools.eng"
+                }
+    },
+    {
+        "description":  "ET SCAN NNG MS02-039 Exploit False Positive Generator - May Conceal A Genuine Attack",
+        "type":  "misc-activity",
+        "sid":  "2008560",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.nl/filedesc/nng-4.13r-public.rar.html"
+                }
+    },
+    {
+        "description":  "ET SCAN MYSQL 4.0 brute force root login attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2001906",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.redferni.uklinux.net/mysql/MySQL-323.html"
+                }
+    },
+    {
+        "description":  "ET SCAN MYSQL 4.1 brute force root login attempt",
+        "type":  "protocol-command-decode",
+        "sid":  "2002842",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.redferni.uklinux.net/mysql/MySQL-Protocol.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Non-Allowed Host Tried to Connect to MySQL Server",
+        "type":  "attempted-recon",
+        "sid":  "2010493",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html"
+                }
+    },
+    {
+        "description":  "ET SCAN PRO Search Crawler Probe",
+        "type":  "not-suspicious",
+        "sid":  "2008179",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sourceforge.net/project/showfiles.php?group_id=149797"
+                }
+    },
+    {
+        "description":  "ET SCAN Sipvicious Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008578",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.sipvicious.org"
+                }
+    },
+    {
+        "description":  "ET SCAN Modified Sipvicious User-Agent Detected (sundayddr)",
+        "type":  "attempted-recon",
+        "sid":  "2011766",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "honeynet.org.au/?q=sunday_scanner"
+                }
+    },
+    {
+        "description":  "ET SCAN Sipsak SIP scan",
+        "type":  "attempted-recon",
+        "sid":  "2008598",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sipsak.org/"
+                }
+    },
+    {
+        "description":  "ET SCAN Sivus VOIP Vulnerability Scanner SIP Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008609",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.security-database.com/toolswatch/SiVus-VoIP-Security-Scanner-1-09.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Sivus VOIP Vulnerability Scanner SIP Components Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008610",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.security-database.com/toolswatch/SiVus-VoIP-Security-Scanner-1-09.html"
+                }
+    },
+    {
+        "description":  "ET SCAN External to Internal UPnP Request udp port 1900",
+        "type":  "attempted-recon",
+        "sid":  "2008094",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.upnp-hacks.org/upnp.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Smap VOIP Device Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008526",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.go2linux.org/smap-find-voip-enabled-devices"
+                }
+    },
+    {
+        "description":  "ET SCAN Voiper Toolkit Torturer Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008568",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sourceforge.net/projects/voiper"
+                }
+    },
+    {
+        "description":  "ET SCAN Voiper Fuzzing Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008577",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sourceforge.net/projects/voiper"
+                }
+    },
+    {
+        "description":  "ET SCAN SIP erase_registrations/add registrations attempt",
+        "type":  "attempted-recon",
+        "sid":  "2008640",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.hackingvoip.com/sec_tools.html"
+                }
+    },
+    {
+        "description":  "ET SCAN DCERPC rpcmgmt ifids Unauthenticated BIND",
+        "type":  "attempted-recon",
+        "sid":  "2009832",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.symantec.com/avcenter/reference/Vista_Network_Attack_Surface_RTM.pdf"
+                }
+    },
+    {
+        "description":  "ET SCAN Acunetix Version 6 (Free Edition) Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009646",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.acunetix.com/"
+                }
+    },
+    {
+        "description":  "ET SCAN RatProxy in-use",
+        "type":  "attempted-recon",
+        "sid":  "2011975",
+        "metadata":  {
+                         "crtime":  "2010_11_24",
+                         "uptime":  "2010_11_24",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Sipp SIP Stress Test Detected",
+        "type":  "attempted-recon",
+        "sid":  "2008579",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sourceforge.net/projects/sipp/"
+                }
+    },
+    {
+        "description":  "ET SCAN sipscan probe",
+        "type":  "attempted-recon",
+        "sid":  "2008641",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.hackingvoip.com/sec_tools.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Modified Sipvicious Sundayddr Scanner (sipsscuser)",
+        "type":  "attempted-recon",
+        "sid":  "2012204",
+        "metadata":  {
+                         "crtime":  "2011_01_20",
+                         "uptime":  "2011_01_20",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/sipvicious/"
+                }
+    },
+    {
+        "description":  "ET SCAN Havij SQL Injection Tool User-Agent Inbound",
+        "type":  "web-application-attack",
+        "sid":  "2012606",
+        "metadata":  {
+                         "crtime":  "2011_03_30",
+                         "uptime":  "2020_04_19",
+                         "tags":  "SQL_Injection",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "itsecteam.com/en/projects/project1.htm"
+                }
+    },
+    {
+        "description":  "ET SCAN Havij SQL Injection Tool User-Agent Outbound",
+        "type":  "web-application-attack",
+        "sid":  "2011924",
+        "metadata":  {
+                         "crtime":  "2010_11_12",
+                         "uptime":  "2020_04_20",
+                         "tags":  "SQL_Injection",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "itsecteam.com/en/projects/project1.htm"
+                }
+    },
+    {
+        "description":  "GPL SCAN SolarWinds IP scan attempt",
+        "type":  "network-scan",
+        "sid":  "2101918",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Possible SQLMAP Scan",
+        "type":  "attempted-recon",
+        "sid":  "2012754",
+        "metadata":  {
+                         "crtime":  "2011_04_29",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlmap.sourceforge.net"
+                }
+    },
+    {
+        "description":  "GPL SCAN ISS Pinger",
+        "type":  "attempted-recon",
+        "sid":  "2100465",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "158"
+                }
+    },
+    {
+        "description":  "GPL SCAN PING CyberKit 2.2 Windows",
+        "type":  "misc-activity",
+        "sid":  "2100483",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "154"
+                }
+    },
+    {
+        "description":  "GPL SCAN PING Delphi-Piette Windows",
+        "type":  "misc-activity",
+        "sid":  "2100372",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "155"
+                }
+    },
+    {
+        "description":  "GPL SCAN PING Sniffer Pro/NetXRay network scan",
+        "type":  "misc-activity",
+        "sid":  "2100484",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SCAN superscan echo",
+        "type":  "attempted-recon",
+        "sid":  "2100474",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SCAN webtrends scanner",
+        "type":  "attempted-recon",
+        "sid":  "2100476",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "307"
+                }
+    },
+    {
+        "description":  "GPL SCAN SSH Version map attempt",
+        "type":  "network-scan",
+        "sid":  "2101638",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Nessus FTP Scan detected (ftp_anonymous.nasl)",
+        "type":  "attempted-recon",
+        "sid":  "2013263",
+        "metadata":  {
+                         "crtime":  "2011_07_13",
+                         "uptime":  "2011_07_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.nessus.org/plugins/index.php?view=single\u0026id=10079"
+                }
+    },
+    {
+        "description":  "ET SCAN Nessus FTP Scan detected (ftp_writeable_directories.nasl)",
+        "type":  "attempted-recon",
+        "sid":  "2013264",
+        "metadata":  {
+                         "crtime":  "2011_07_13",
+                         "uptime":  "2011_07_13",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.nessus.org/plugins/index.php?view=single\u0026id=19782"
+                }
+    },
+    {
+        "description":  "ET SCAN Kingcope KillApache.pl Apache mod_deflate DoS attempt",
+        "type":  "attempted-dos",
+        "sid":  "2013472",
+        "metadata":  {
+                         "crtime":  "2011_08_26",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "seclists.org/fulldisclosure/2011/Aug/175"
+                }
+    },
+    {
+        "description":  "ET SCAN NMAP SQL Spider Scan",
+        "type":  "web-application-attack",
+        "sid":  "2013778",
+        "metadata":  {
+                         "crtime":  "2011_10_19",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "nmap.org/nsedoc/scripts/sql-injection.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Paros Proxy Scanner Detected",
+        "type":  "attempted-recon",
+        "sid":  "2008187",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.parosproxy.org"
+                }
+    },
+    {
+        "description":  "GPL SCAN adm scan",
+        "type":  "suspicious-login",
+        "sid":  "2100353",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "332"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLix SQL Injection Vector Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008654",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_20",
+                         "tags":  "SQL_Injection",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.owasp.org/index.php/Category%3aOWASP_SQLiX_Project"
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat Auth Brute Force attempt (manager)",
+        "type":  "web-application-attack",
+        "sid":  "2008455",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008455"
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat Auth Brute Force attempt (tomcat)",
+        "type":  "web-application-attack",
+        "sid":  "2008454",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008454"
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat Auth Brute Force attempt (admin)",
+        "type":  "web-application-attack",
+        "sid":  "2008453",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008453"
+                }
+    },
+    {
+        "description":  "GPL SCAN nessus 2.x 404 probe",
+        "type":  "attempted-recon",
+        "sid":  "2102585",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "nessus",
+                    "ref":  "10386"
+                }
+    },
+    {
+        "description":  "ET SCAN Enumiax Inter-Asterisk Exchange Protocol Username Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008606",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sourceforge.net/projects/enumiax/"
+                }
+    },
+    {
+        "description":  "ET SCAN Port Unreachable Response to Xprobe2 OS Fingerprint Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009298",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "xprobe.sourceforge.net/"
+                }
+    },
+    {
+        "description":  "ET SCAN Vega Web Application Scan",
+        "type":  "attempted-recon",
+        "sid":  "2013249",
+        "metadata":  {
+                         "crtime":  "2011_07_11",
+                         "uptime":  "2020_04_21",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.subgraph.com/products.html"
+                }
+    },
+    {
+        "description":  "ET SCAN HTExploit Method",
+        "type":  "trojan-activity",
+        "sid":  "2015552",
+        "metadata":  {
+                         "crtime":  "2012_07_31",
+                         "uptime":  "2012_07_31",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.mkit.com.ar/labs/htexploit/download.php"
+                }
+    },
+    {
+        "description":  "GPL SCAN ssh-research-scanner",
+        "type":  "attempted-recon",
+        "sid":  "2100617",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2010_09_23",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ZmEu Scanner User-Agent Inbound",
+        "type":  "trojan-activity",
+        "sid":  "2012936",
+        "metadata":  {
+                         "crtime":  "2011_06_06",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat admin-blank login credentials",
+        "type":  "attempted-admin",
+        "sid":  "2009218",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tomcat.apache.org"
+                }
+    },
+    {
+        "description":  "ET SCAN Absinthe SQL Injection Tool HTTP Header Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009555",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "SQL_Injection",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "0x90.org/releases/absinthe"
+                }
+    },
+    {
+        "description":  "ET SCAN Nessus User Agent",
+        "type":  "attempted-recon",
+        "sid":  "2002664",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.nessus.org"
+                }
+    },
+    {
+        "description":  "ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine)",
+        "type":  "web-application-attack",
+        "sid":  "2009358",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009358"
+                }
+    },
+    {
+        "description":  "ET SCAN Brutus Scan Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2015702",
+        "metadata":  {
+                         "crtime":  "2012_09_17",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ZmEu exploit scanner",
+        "type":  "web-application-attack",
+        "sid":  "2010715",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010715"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious User-Agent inbound (bot)",
+        "type":  "trojan-activity",
+        "sid":  "2008228",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_22",
+                         "tags":  "User_Agent",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/bin/view/Main/2008228"
+                }
+    },
+    {
+        "description":  "ET SCAN Sipvicious User-Agent Detected (friendly-scanner)",
+        "type":  "attempted-recon",
+        "sid":  "2011716",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/sipvicious/"
+                }
+    },
+    {
+        "description":  "ET SCAN FHScan core User-Agent Detect",
+        "type":  "attempted-recon",
+        "sid":  "2014541",
+        "metadata":  {
+                         "crtime":  "2012_04_12",
+                         "uptime":  "2020_04_22",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.tarasco.org/security/FHScan_Fast_HTTP_Vulnerability_Scanner/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN MYSQL MySQL Remote FAST Account Password Cracking",
+        "type":  "protocol-command-decode",
+        "sid":  "2015986",
+        "metadata":  {
+                         "crtime":  "2012_12_04",
+                         "uptime":  "2012_12_04",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securityfocus.com/archive/1/524927/30/0/threaded"
+                }
+    },
+    {
+        "description":  "ET SCAN GET with HTML tag in start of URI seen with PHPMyAdmin scanning",
+        "type":  "web-application-attack",
+        "sid":  "2016222",
+        "metadata":  {
+                         "crtime":  "2013_01_16",
+                         "uptime":  "2020_04_23",
+                         "tags":  "in start of URI seen with PHPMyAdmin scanning\"; flow:established",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Cisco Torch IOS HTTP Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008415",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_23",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.hackingexposedcisco.com/?link=tools"
+                }
+    },
+    {
+        "description":  "ET SCAN Core-Project Scanning Bot UA Detected",
+        "type":  "web-application-activity",
+        "sid":  "2008529",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_23",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Apache mod_deflate DoS via many multiple byte Range values",
+        "type":  "attempted-dos",
+        "sid":  "2013473",
+        "metadata":  {
+                         "crtime":  "2011_08_26",
+                         "uptime":  "2011_08_26",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "seclists.org/fulldisclosure/2011/Aug/175"
+                }
+    },
+    {
+        "description":  "ET SCAN NETWORK Outgoing Masscan detected",
+        "type":  "network-scan",
+        "sid":  "2017615",
+        "metadata":  {
+                         "crtime":  "2013_10_18",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.erratasec.com/2013/10/that-dlink-bug-masscan.html"
+                }
+    },
+    {
+        "description":  "ET SCAN NETWORK Incoming Masscan detected",
+        "type":  "network-scan",
+        "sid":  "2017616",
+        "metadata":  {
+                         "crtime":  "2013_10_18",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.erratasec.com/2013/10/that-dlink-bug-masscan.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Httprint Web Server Fingerprint Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008416",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.net-square.com/httprint/"
+                }
+    },
+    {
+        "description":  "ET SCAN Nikto Web App Scan in Progress",
+        "type":  "web-application-attack",
+        "sid":  "2002677",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_27",
+                         "tags":  "-",
+                         "rev":  "13"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.cirt.net/code/nikto.shtml"
+                }
+    },
+    {
+        "description":  "ET SCAN NMAP SIP Version Detect OPTIONS Scan",
+        "type":  "attempted-recon",
+        "sid":  "2018317",
+        "metadata":  {
+                         "crtime":  "2014_03_25",
+                         "uptime":  "2014_03_25",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN NMAP SIP Version Detection Script Activity",
+        "type":  "attempted-recon",
+        "sid":  "2018318",
+        "metadata":  {
+                         "crtime":  "2014_03_25",
+                         "uptime":  "2014_03_25",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN IBM NSA User Agent",
+        "type":  "attempted-recon",
+        "sid":  "2003171",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_04_29",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "ftp.inf.utfsm.cl/pub/Docs/IBM/Tivoli/pdfs/sg246021.pdf"
+                }
+    },
+    {
+        "description":  "ET SCAN Chroot-apache0day Unknown Web Scanner User Agent",
+        "type":  "attempted-recon",
+        "sid":  "2018800",
+        "metadata":  {
+                         "crtime":  "2014_07_29",
+                         "uptime":  "2020_05_01",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/forums/diary/Interesting+HTTP+User+Agent+chroot-apach0day+/18453"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja MSSQL Version Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009038",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap NSE)",
+        "type":  "web-application-attack",
+        "sid":  "2009359",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009359"
+                }
+    },
+    {
+        "description":  "ET SCAN Pavuk User Agent Detected - Website Mirroring Tool for Off-line Analysis",
+        "type":  "attempted-recon",
+        "sid":  "2009827",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "pavuk.sourceforge.net/about.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Default Mysqloit User Agent Detected - Mysql Injection Takover Tool",
+        "type":  "attempted-recon",
+        "sid":  "2009882",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "SQL_Injection",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/mysqloit/"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible Mysqloit Operating System Fingerprint/SQL Injection Test Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009883",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "SQL_Injection",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/mysqloit/"
+                }
+    },
+    {
+        "description":  "ET SCAN SQL Injection Attempt (Agent uil2pn)",
+        "type":  "web-application-attack",
+        "sid":  "2010215",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "SQL_Injection",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.prevx.com/filenames/89385984947861762-X1/UIL2PN.EXE.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Springenwerk XSS Scanner User-Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2010508",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "springenwerk.org/"
+                }
+    },
+    {
+        "description":  "ET SCAN Skipfish Web Application Scan Detected (2)",
+        "type":  "attempted-recon",
+        "sid":  "2010956",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.org/diary.html?storyid=8467"
+                }
+    },
+    {
+        "description":  "ET SCAN crimscanner User-Agent detected",
+        "type":  "network-scan",
+        "sid":  "2010954",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010954"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible DavTest WebDav Vulnerability Scanner Initial Check Detected",
+        "type":  "attempted-recon",
+        "sid":  "2011088",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darknet.org.uk/2010/04/davtest-webdav-vulerability-scanning-scanner-tool/"
+                }
+    },
+    {
+        "description":  "ET SCAN w3af Scan Remote File Include Retrieval",
+        "type":  "web-application-activity",
+        "sid":  "2011389",
+        "metadata":  {
+                         "crtime":  "2010_09_27",
+                         "uptime":  "2020_05_04",
+                         "tags":  "Remote_File_Include",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "w3af.sourceforge.net"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible WafWoof Web Application Firewall Detection Scan",
+        "type":  "attempted-recon",
+        "sid":  "2011720",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/waffit/"
+                }
+    },
+    {
+        "description":  "ET SCAN Internal Dummy Connection User-Agent Inbound",
+        "type":  "trojan-activity",
+        "sid":  "2012937",
+        "metadata":  {
+                         "crtime":  "2011_06_06",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Nikto Scan Remote File Include Retrieval",
+        "type":  "web-application-activity",
+        "sid":  "2011390",
+        "metadata":  {
+                         "crtime":  "2010_09_27",
+                         "uptime":  "2020_05_04",
+                         "tags":  "Remote_File_Include",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "cirt.net/nikto2"
+                }
+    },
+    {
+        "description":  "ET SCAN Simple Slowloris Flooder",
+        "type":  "web-application-attack",
+        "sid":  "2016033",
+        "metadata":  {
+                         "crtime":  "2012_12_13",
+                         "uptime":  "2020_05_08",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.imperva.com/docs/HII_Denial_of_Service_Attacks-Trends_Techniques_and_Technologies.pdf"
+                }
+    },
+    {
+        "description":  "ET SCAN Acunetix Accept HTTP Header detected scan in progress",
+        "type":  "attempted-recon",
+        "sid":  "2019963",
+        "metadata":  {
+                         "crtime":  "2014_12_17",
+                         "uptime":  "2020_05_14",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.acunetix.com/"
+                }
+    },
+    {
+        "description":  "ET SCAN H.323 Scanning device",
+        "type":  "network-scan",
+        "sid":  "2020853",
+        "metadata":  {
+                         "crtime":  "2015_04_07",
+                         "uptime":  "2015_04_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "videonationsltd.co.uk/2014/11/h-323-cisco-spam-calls/"
+                }
+    },
+    {
+        "description":  "ET SCAN ICMP =XXXXXXXX Likely Precursor to Scan",
+        "type":  "network-scan",
+        "sid":  "2010686",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010686"
+                }
+    },
+    {
+        "description":  "ET SCAN LibSSH Based Frequent SSH Connections Likely BruteForce Attack",
+        "type":  "attempted-admin",
+        "sid":  "2006546",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2006546"
+                }
+    },
+    {
+        "description":  "ET SCAN Potential FTP Brute-Force attempt response",
+        "type":  "unsuccessful-user",
+        "sid":  "2002383",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002383"
+                }
+    },
+    {
+        "description":  "ET SCAN Nmap NSE Heartbleed Request",
+        "type":  "attempted-recon",
+        "sid":  "2021023",
+        "metadata":  {
+                         "crtime":  "2015_04_28",
+                         "uptime":  "2015_04_28",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Nmap NSE Heartbleed Response",
+        "type":  "attempted-recon",
+        "sid":  "2021024",
+        "metadata":  {
+                         "crtime":  "2015_04_28",
+                         "uptime":  "2015_04_28",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Potential SSH Scan",
+        "type":  "attempted-recon",
+        "sid":  "2001219",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "20"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/Brute_force_attack"
+                }
+    },
+    {
+        "description":  "ET SCAN Potential VNC Scan 5800-5820",
+        "type":  "attempted-recon",
+        "sid":  "2002910",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002910"
+                }
+    },
+    {
+        "description":  "ET SCAN Potential VNC Scan 5900-5920",
+        "type":  "attempted-recon",
+        "sid":  "2002911",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002911"
+                }
+    },
+    {
+        "description":  "ET SCAN Rapid POP3 Connections - Possible Brute Force Attack",
+        "type":  "misc-activity",
+        "sid":  "2002992",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002992"
+                }
+    },
+    {
+        "description":  "ET SCAN Rapid POP3S Connections - Possible Brute Force Attack",
+        "type":  "misc-activity",
+        "sid":  "2002993",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002993"
+                }
+    },
+    {
+        "description":  "ET SCAN Rapid IMAP Connections - Possible Brute Force Attack",
+        "type":  "misc-activity",
+        "sid":  "2002994",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002994"
+                }
+    },
+    {
+        "description":  "ET SCAN Rapid IMAPS Connections - Possible Brute Force Attack",
+        "type":  "misc-activity",
+        "sid":  "2002995",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2002995"
+                }
+    },
+    {
+        "description":  "ET SCAN Potential SSH Scan OUTBOUND",
+        "type":  "attempted-recon",
+        "sid":  "2003068",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2010_07_30",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "en.wikipedia.org/wiki/Brute_force_attack"
+                }
+    },
+    {
+        "description":  "ET SCAN Arachni Scanner Web Scan",
+        "type":  "attempted-recon",
+        "sid":  "2014869",
+        "metadata":  {
+                         "crtime":  "2012_06_07",
+                         "uptime":  "2020_06_09",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "arachni-scanner.com"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible Scanning for Vulnerable JBoss",
+        "type":  "web-application-attack",
+        "sid":  "2022240",
+        "metadata":  {
+                         "crtime":  "2015_12_08",
+                         "uptime":  "2020_06_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.imperva.com/2015/12/zero-day-attack-strikes-again-java-zero-day-vulnerability-cve-2015-4852-tracked-by-imperva.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible WordPress xmlrpc.php BruteForce in Progress - Response",
+        "type":  "attempted-admin",
+        "sid":  "2018755",
+        "metadata":  {
+                         "crtime":  "2014_07_23",
+                         "uptime":  "2016_07_01",
+                         "tags":  "Wordpress",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/diary/+WordPress+brute+force+attack+via+wp.getUsersBlogs/18427"
+                }
+    },
+    {
+        "description":  "ET SCAN MySQL Malicious Scanning 3",
+        "type":  "bad-unknown",
+        "sid":  "2022581",
+        "metadata":  {
+                         "crtime":  "2016_03_01",
+                         "uptime":  "2016_03_01",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/diary/Quick+Analysis+of+a+Recent+MySQL+Exploit/20781"
+                }
+    },
+    {
+        "description":  "ET SCAN Redis SSH Key Overwrite Probing",
+        "type":  "misc-attack",
+        "sid":  "2023510",
+        "metadata":  {
+                         "crtime":  "2016_07_07",
+                         "uptime":  "2016_11_15",
+                         "tags":  "SCAN_Redis_SSH",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "antirez.com/news/96"
+                }
+    },
+    {
+        "description":  "ET SCAN MS Terminal Server Traffic on Non-standard Port",
+        "type":  "attempted-recon",
+        "sid":  "2023753",
+        "metadata":  {
+                         "crtime":  "2017_01_23",
+                         "uptime":  "2017_02_23",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ICMP Delphi Likely Precursor to Scan",
+        "type":  "misc-activity",
+        "sid":  "2010681",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.koders.com/delphi/fid942A4EAF946B244BD3CD9BC83FEAAC35BA1F38AB.aspx"
+                }
+    },
+    {
+        "description":  "ET SCAN Multiple MySQL Login Failures Possible Brute Force Attempt",
+        "type":  "attempted-recon",
+        "sid":  "2010494",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010494"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusual Port 445 traffic Potential Scan or Infection",
+        "type":  "misc-activity",
+        "sid":  "2001569",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001569"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusual Port 139 traffic Potential Scan or Infection",
+        "type":  "misc-activity",
+        "sid":  "2001579",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001579"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusual Port 137 traffic Potential Scan or Infection",
+        "type":  "misc-activity",
+        "sid":  "2001580",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001580"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection",
+        "type":  "misc-activity",
+        "sid":  "2001581",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001581"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusual Port 1434 traffic Potential Scan or Infection",
+        "type":  "misc-activity",
+        "sid":  "2001582",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001582"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusual Port 1433 traffic Potential Scan or Infection",
+        "type":  "misc-activity",
+        "sid":  "2001583",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "16"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001583"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Inbound)",
+        "type":  "network-scan",
+        "sid":  "2001972",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "20"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2001972"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious User-Agent Containing SQL Inject/ion Likely SQL Injection Scanner",
+        "type":  "attempted-recon",
+        "sid":  "2010087",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_06",
+                         "tags":  "SQL_Injection",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.owasp.org/index.php/SQL_Injection"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner",
+        "type":  "attempted-recon",
+        "sid":  "2010088",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_06",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010088"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious User-Agent Containing Security Scan/ner Likely Scan",
+        "type":  "attempted-recon",
+        "sid":  "2010089",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_06",
+                         "tags":  "User_Agent",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010089"
+                }
+    },
+    {
+        "description":  "ET SCAN ICMP @hello request Likely Precursor to Scan",
+        "type":  "misc-activity",
+        "sid":  "2010641",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010641"
+                }
+    },
+    {
+        "description":  "ET SCAN Behavioral Unusually fast Terminal Server Traffic Potential Scan or Infection (Outbound)",
+        "type":  "misc-activity",
+        "sid":  "2013479",
+        "metadata":  {
+                         "crtime":  "2011_08_29",
+                         "uptime":  "2017_05_11",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "threatpost.com/en_us/blogs/new-worm-morto-using-rdp-infect-windows-pcs-082811"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible Nmap User-Agent Observed",
+        "type":  "web-application-attack",
+        "sid":  "2024364",
+        "metadata":  {
+                         "crtime":  "2017_06_08",
+                         "uptime":  "2020_08_06",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN struts-pwn User-Agent",
+        "type":  "attempted-user",
+        "sid":  "2024843",
+        "metadata":  {
+                         "crtime":  "2017_10_16",
+                         "uptime":  "2020_08_13",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/mazen160/struts-pwn_CVE-2017-9805/blob/master/struts-pwn.py"
+                }
+    },
+    {
+        "description":  "ET SCAN OpenVAS User-Agent Inbound",
+        "type":  "attempted-recon",
+        "sid":  "2012726",
+        "metadata":  {
+                         "crtime":  "2011_04_26",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "openvas.org"
+                }
+    },
+    {
+        "description":  "ET SCAN DirBuster Web App Scan in Progress",
+        "type":  "web-application-attack",
+        "sid":  "2008186",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_18",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "owasp.org"
+                }
+    },
+    {
+        "description":  "ET SCAN Sqlmap SQL Injection Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008538",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_20",
+                         "tags":  "SQL_Injection",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlmap.sourceforge.net"
+                }
+    },
+    {
+        "description":  "ET SCAN SSH BruteForce Tool with fake PUTTY version",
+        "type":  "network-scan",
+        "sid":  "2019876",
+        "metadata":  {
+                         "crtime":  "2014_12_05",
+                         "uptime":  "2017_12_01",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious inbound to PostgreSQL port 5432",
+        "type":  "bad-unknown",
+        "sid":  "2010939",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2018_03_27",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010939"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious inbound to mSQL port 4333",
+        "type":  "bad-unknown",
+        "sid":  "2010938",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2018_03_27",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010938"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious inbound to mySQL port 3306",
+        "type":  "bad-unknown",
+        "sid":  "2010937",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2018_03_27",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010937"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious inbound to Oracle SQL port 1521",
+        "type":  "bad-unknown",
+        "sid":  "2010936",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2018_03_27",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010936"
+                }
+    },
+    {
+        "description":  "ET SCAN Suspicious inbound to MSSQL port 1433",
+        "type":  "bad-unknown",
+        "sid":  "2010935",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2018_03_27",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010935"
+                }
+    },
+    {
+        "description":  "ET SCAN NYU Internet Census UA Inbound",
+        "type":  "network-scan",
+        "sid":  "2025461",
+        "metadata":  {
+                         "crtime":  "2018_04_03",
+                         "uptime":  "2020_08_25",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "scan.lol"
+                }
+    },
+    {
+        "description":  "ET SCAN PHP Attack Tool Morfeus F Scanner",
+        "type":  "web-application-attack",
+        "sid":  "2003466",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_25",
+                         "tags":  "-",
+                         "rev":  "15"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.webmasterworld.com/search_engine_spiders/3227720.htm"
+                }
+    },
+    {
+        "description":  "ET SCAN HP Enterprise VAN SDN Controller",
+        "type":  "attempted-recon",
+        "sid":  "2025760",
+        "metadata":  {
+                         "crtime":  "2018_06_28",
+                         "uptime":  "2020_09_16",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/44951/"
+                }
+    },
+    {
+        "description":  "ET SCAN ntop-ng Authentication Bypass via Session ID Guessing",
+        "type":  "attempted-recon",
+        "sid":  "2025780",
+        "metadata":  {
+                         "crtime":  "2018_07_03",
+                         "uptime":  "2020_08_25",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2018-12520"
+                }
+    },
+    {
+        "description":  "ET SCAN HID VertX and Edge door controllers discover",
+        "type":  "attempted-recon",
+        "sid":  "2025822",
+        "metadata":  {
+                         "crtime":  "2018_07_10",
+                         "uptime":  "2018_07_18",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/44992/"
+                }
+    },
+    {
+        "description":  "ET SCAN Geutebrueck re_porter 7.8.974.20 Information Disclosure",
+        "type":  "attempted-recon",
+        "sid":  "2026008",
+        "metadata":  {
+                         "crtime":  "2018_08_22",
+                         "uptime":  "2020_08_25",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2018-15534"
+                }
+    },
+    {
+        "description":  "ET SCAN Hikvision IP Camera 5.4.0 Information Disclosure",
+        "type":  "attempted-recon",
+        "sid":  "2026015",
+        "metadata":  {
+                         "crtime":  "2018_08_22",
+                         "uptime":  "2020_08_25",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "exploit-db.com/exploits/45231/"
+                }
+    },
+    {
+        "description":  "ET SCAN Hello Peppa! Scan Activity",
+        "type":  "attempted-recon",
+        "sid":  "2026464",
+        "metadata":  {
+                         "crtime":  "2018_10_10",
+                         "uptime":  "2020_08_26",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/diary/rss/23860"
+                }
+    },
+    {
+        "description":  "ET SCAN StarDotStar HELO, suspected AUTH LOGIN botnet",
+        "type":  "bad-unknown",
+        "sid":  "2026463",
+        "metadata":  {
+                         "crtime":  "2018_10_09",
+                         "uptime":  "2018_10_12",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN DirBuster Scan in Progress",
+        "type":  "attempted-recon",
+        "sid":  "2011914",
+        "metadata":  {
+                         "crtime":  "2010_11_09",
+                         "uptime":  "2020_09_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.owasp.org/index.php/Category%3aOWASP_DirBuster_Project"
+                }
+    },
+    {
+        "description":  "ET SCAN Metasploit WMAP GET len 0 and type",
+        "type":  "attempted-recon",
+        "sid":  "2011974",
+        "metadata":  {
+                         "crtime":  "2010_11_24",
+                         "uptime":  "2020_09_03",
+                         "tags":  "Metasploit",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Goatzapszu Header from unknown Scanning Tool",
+        "type":  "attempted-recon",
+        "sid":  "2012077",
+        "metadata":  {
+                         "crtime":  "2010_12_18",
+                         "uptime":  "2020_09_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "GPL SCAN nessus 1.X 404 probe",
+        "type":  "web-application-attack",
+        "sid":  "2101102",
+        "metadata":  {
+                         "crtime":  "2010_09_23",
+                         "uptime":  "2020_09_04",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "arachnids",
+                    "ref":  "301"
+                }
+    },
+    {
+        "description":  "ET SCAN Medusa User-Agent",
+        "type":  "attempted-recon",
+        "sid":  "2011887",
+        "metadata":  {
+                         "crtime":  "2010_10_31",
+                         "uptime":  "2020_09_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.foofus.net/~jmk/medusa/medusa.html"
+                }
+    },
+    {
+        "description":  "ET SCAN DotDotPwn User-Agent",
+        "type":  "attempted-recon",
+        "sid":  "2011915",
+        "metadata":  {
+                         "crtime":  "2010_11_09",
+                         "uptime":  "2020_09_04",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "dotdotpwn.sectester.net"
+                }
+    },
+    {
+        "description":  "ET SCAN Internal to Internal UPnP Request tcp port 2555",
+        "type":  "attempted-recon",
+        "sid":  "2008092",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_26",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.upnp-hacks.org/upnp.html"
+                }
+    },
+    {
+        "description":  "ET SCAN External to Internal UPnP Request tcp port 2555",
+        "type":  "attempted-recon",
+        "sid":  "2008093",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_26",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.upnp-hacks.org/upnp.html"
+                }
+    },
+    {
+        "description":  "ET SCAN DEBUG Method Request with Command",
+        "type":  "attempted-recon",
+        "sid":  "2008312",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2008312"
+                }
+    },
+    {
+        "description":  "ET SCAN Possible Fast-Track Tool Spidering User-Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2011721",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.offensive-security.com/metasploit-unleashed/Fast-Track-Modes"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLBrute SQL Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009477",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.justinclarke.com/archives/2006/03/sqlbrute.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja MSSQL User Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009040",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja MSSQL Database User Rights Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009041",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja MSSQL Authentication Mode Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009042",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja Attempt To Recreate xp_cmdshell Using sp_configure",
+        "type":  "attempted-admin",
+        "sid":  "2009043",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja Attempt To Create xp_cmdshell Session",
+        "type":  "attempted-admin",
+        "sid":  "2009044",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Stompy Web Application Session Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008605",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darknet.org.uk/2007/03/stompy-the-web-application-session-analyzer-tool/"
+                }
+    },
+    {
+        "description":  "ET SCAN w3af Scan In Progress ARGENTINA Req Method",
+        "type":  "attempted-recon",
+        "sid":  "2011027",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "w3af.sourceforge.net"
+                }
+    },
+    {
+        "description":  "ET SCAN WhatWeb Web Application Fingerprint Scanner Default User-Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2010960",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.morningstarsecurity.com/research/whatweb"
+                }
+    },
+    {
+        "description":  "ET SCAN Wapiti Web Server Vulnerability Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008417",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "wapiti.sourceforge.net/"
+                }
+    },
+    {
+        "description":  "ET SCAN Inspathx Path Disclosure Scanner User-Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2011808",
+        "metadata":  {
+                         "crtime":  "2010_10_12",
+                         "uptime":  "2020_09_10",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/inspathx/"
+                }
+    },
+    {
+        "description":  "ET SCAN Inspathx Path Disclosure Scan",
+        "type":  "attempted-recon",
+        "sid":  "2011809",
+        "metadata":  {
+                         "crtime":  "2010_10_12",
+                         "uptime":  "2020_09_11",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/inspathx/"
+                }
+    },
+    {
+        "description":  "ET SCAN WebHack Control Center User-Agent Inbound (WHCC/)",
+        "type":  "trojan-activity",
+        "sid":  "2003924",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_08_19",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.governmentsecurity.org/forum/index.php?showtopic=5112\u0026pid=28561\u0026mode=threaded\u0026start="
+                }
+    },
+    {
+        "description":  "ET SCAN Netsparker Default User-Agent",
+        "type":  "attempted-recon",
+        "sid":  "2011029",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.mavitunasecurity.com/communityedition/"
+                }
+    },
+    {
+        "description":  "ET SCAN Skipfish Web Application Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2010953",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.org/diary.html?storyid=8467"
+                }
+    },
+    {
+        "description":  "ET SCAN bsqlbf Brute Force SQL Injection",
+        "type":  "web-application-activity",
+        "sid":  "2008362",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "SQL_Injection",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "code.google.com/p/bsqlbf-v2/"
+                }
+    },
+    {
+        "description":  "ET SCAN SQLNinja MSSQL XPCmdShell Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009039",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "sqlninja.sourceforge.net/index.html"
+                }
+    },
+    {
+        "description":  "ET SCAN WebShag Web Application Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009158",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.scrt.ch/pages_en/outils.html"
+                }
+    },
+    {
+        "description":  "ET SCAN HZZP Scan in Progress calc in Headers",
+        "type":  "attempted-recon",
+        "sid":  "2011028",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.krakowlabs.com/dev.html"
+                }
+    },
+    {
+        "description":  "ET SCAN ProxyReconBot CONNECT method to Mail",
+        "type":  "misc-attack",
+        "sid":  "2003869",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_09_27",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2003869"
+                }
+    },
+    {
+        "description":  "ET SCAN Acunetix Version 6 Crawl/Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2008571",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.acunetix.com/"
+                }
+    },
+    {
+        "description":  "ET SCAN Netsparker Scan in Progress",
+        "type":  "attempted-recon",
+        "sid":  "2011030",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_13",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.mavitunasecurity.com/communityedition/"
+                }
+    },
+    {
+        "description":  "ET SCAN Httprecon Web Server Fingerprint Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008627",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.computec.ch/projekte/httprecon/"
+                }
+    },
+    {
+        "description":  "ET SCAN Wikto Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008617",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.sensepost.com/research/wikto/WiktoDoc1-51.htm"
+                }
+    },
+    {
+        "description":  "ET SCAN Wikto Backend Data Miner Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008629",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.sensepost.com/research/wikto/WiktoDoc1-51.htm"
+                }
+    },
+    {
+        "description":  "ET SCAN Asp-Audit Web Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009479",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_14",
+                         "tags":  "-",
+                         "rev":  "11"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.hacker-soft.net/Soft/Soft_2895.htm"
+                }
+    },
+    {
+        "description":  "ET SCAN WSFuzzer Web Application Fuzzing",
+        "type":  "attempted-recon",
+        "sid":  "2008628",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.owasp.org/index.php/Category%3aOWASP_WSFuzzer_Project"
+                }
+    },
+    {
+        "description":  "ET SCAN Positive Technologies XSpider Security Scanner User-Agent (PTX)",
+        "type":  "attempted-recon",
+        "sid":  "2013779",
+        "metadata":  {
+                         "crtime":  "2011_10_19",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.securitylab.ru/forum/forum16/topic26800/"
+                }
+    },
+    {
+        "description":  "ET SCAN w3af User-Agent 2",
+        "type":  "attempted-recon",
+        "sid":  "2015484",
+        "metadata":  {
+                         "crtime":  "2012_07_17",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Nessus Netbios Scanning",
+        "type":  "attempted-recon",
+        "sid":  "2015754",
+        "metadata":  {
+                         "crtime":  "2012_10_01",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.tenable.com/products/nessus/nessus-product-overview"
+                }
+    },
+    {
+        "description":  "ET SCAN SFTP/FTP Password Exposure via sftp-config.json",
+        "type":  "attempted-recon",
+        "sid":  "2015940",
+        "metadata":  {
+                         "crtime":  "2012_11_26",
+                         "uptime":  "2020_09_17",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.sucuri.net/2012/11/psa-sftpftp-password-exposure-via-sftp-config-json.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SipCLI VOIP Scan - TCP",
+        "type":  "attempted-recon",
+        "sid":  "2017161",
+        "metadata":  {
+                         "crtime":  "2013_07_17",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.yasinkaplan.com/SipCli/"
+                }
+    },
+    {
+        "description":  "ET SCAN SipCLI VOIP Scan",
+        "type":  "attempted-recon",
+        "sid":  "2017162",
+        "metadata":  {
+                         "crtime":  "2013_07_17",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.yasinkaplan.com/SipCli/"
+                }
+    },
+    {
+        "description":  "ET SCAN FOCA uri",
+        "type":  "attempted-recon",
+        "sid":  "2017950",
+        "metadata":  {
+                         "crtime":  "2014_01_09",
+                         "uptime":  "2020_09_22",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blog.bannasties.com/2013/08/vulnerability-scans/"
+                }
+    },
+    {
+        "description":  "ET SCAN NMAP OS Detection Probe",
+        "type":  "attempted-recon",
+        "sid":  "2018489",
+        "metadata":  {
+                         "crtime":  "2014_05_20",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Possible WordPress xmlrpc.php wp.getUsersBlogs Flowbit Set",
+        "type":  "attempted-admin",
+        "sid":  "2018754",
+        "metadata":  {
+                         "crtime":  "2014_07_23",
+                         "uptime":  "2020_09_24",
+                         "tags":  "Wordpress",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/diary/+WordPress+brute+force+attack+via+wp.getUsersBlogs/18427"
+                }
+    },
+    {
+        "description":  "ET SCAN Grendel-Scan Web Application Security Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009481",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_09_29",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.grendel-scan.com"
+                }
+    },
+    {
+        "description":  "ET SCAN Xenu Link Sleuth Scanner Outbound",
+        "type":  "attempted-recon",
+        "sid":  "2021058",
+        "metadata":  {
+                         "crtime":  "2015_05_05",
+                         "uptime":  "2020_09_30",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN COMMIX Command injection scan attempt",
+        "type":  "web-application-activity",
+        "sid":  "2022243",
+        "metadata":  {
+                         "crtime":  "2015_12_11",
+                         "uptime":  "2020_10_05",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/stasinopoulos/commix/blob/master/README.md"
+                }
+    },
+    {
+        "description":  "ET SCAN MySQL Malicious Scanning 1",
+        "type":  "bad-unknown",
+        "sid":  "2022579",
+        "metadata":  {
+                         "crtime":  "2016_03_01",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/diary/Quick+Analysis+of+a+Recent+MySQL+Exploit/20781"
+                }
+    },
+    {
+        "description":  "ET SCAN MySQL Malicious Scanning 2",
+        "type":  "bad-unknown",
+        "sid":  "2022580",
+        "metadata":  {
+                         "crtime":  "2016_03_01",
+                         "uptime":  "2019_10_07",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.edu/diary/Quick+Analysis+of+a+Recent+MySQL+Exploit/20781"
+                }
+    },
+    {
+        "description":  "ET SCAN Acunetix scan in progress acunetix_wvs_security_test in http_uri",
+        "type":  "web-application-attack",
+        "sid":  "2023687",
+        "metadata":  {
+                         "crtime":  "2016_12_28",
+                         "uptime":  "2020_12_03",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.acunetix.com/"
+                }
+    },
+    {
+        "description":  "ET SCAN Acunetix scan in progress acunetix variable in http_uri",
+        "type":  "web-application-attack",
+        "sid":  "2023688",
+        "metadata":  {
+                         "crtime":  "2016_12_28",
+                         "uptime":  "2020_12_03",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.acunetix.com/"
+                }
+    },
+    {
+        "description":  "ET SCAN DominoHunter Security Scan in Progress",
+        "type":  "web-application-attack",
+        "sid":  "2013171",
+        "metadata":  {
+                         "crtime":  "2011_07_02",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "packetstormsecurity.org/files/31653/DominoHunter-0.92.zip.html"
+                }
+    },
+    {
+        "description":  "ET SCAN Toata Scanner User-Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009159",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "isc.sans.org/diary.html?storyid=5599"
+                }
+    },
+    {
+        "description":  "ET SCAN Automated Injection Tool User-Agent (AutoGetColumn)",
+        "type":  "attempted-recon",
+        "sid":  "2009154",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_13",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2009154"
+                }
+    },
+    {
+        "description":  "ET SCAN Grendel Web Scan - Default User Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009480",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_14",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.grendel-scan.com"
+                }
+    },
+    {
+        "description":  "ET SCAN JCE Joomla Scanner",
+        "type":  "web-application-attack",
+        "sid":  "2016032",
+        "metadata":  {
+                         "crtime":  "2012_12_13",
+                         "uptime":  "2020_10_14",
+                         "tags":  "-",
+                         "rev":  "4"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat Web Application Manager scanning",
+        "type":  "attempted-recon",
+        "sid":  "2010019",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_17",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "doc.emergingthreats.net/2010019"
+                }
+    },
+    {
+        "description":  "ET SCAN w3af User Agent",
+        "type":  "attempted-recon",
+        "sid":  "2007757",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "w3af.sourceforge.net"
+                }
+    },
+    {
+        "description":  "ET SCAN DavTest WebDav Vulnerability Scanner Default User Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2011089",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.darknet.org.uk/2010/04/davtest-webdav-vulerability-scanning-scanner-tool/"
+                }
+    },
+    {
+        "description":  "ET SCAN Grabber.py Web Scan Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009483",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "6"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "rgaucher.info/beta/grabber/"
+                }
+    },
+    {
+        "description":  "ET SCAN Mini MySqlatOr SQL Injection Scanner",
+        "type":  "attempted-recon",
+        "sid":  "2008729",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "SQL_Injection",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.scrt.ch/pages_en/minimysqlator.html"
+                }
+    },
+    {
+        "description":  "ET SCAN SQL Power Injector SQL Injection User Agent Detected",
+        "type":  "attempted-recon",
+        "sid":  "2009769",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "SQL_Injection",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.sqlpowerinjector.com/index.htm"
+                }
+    },
+    {
+        "description":  "ET SCAN Open-Proxy ScannerBot (webcollage-UA) ",
+        "type":  "bad-unknown",
+        "sid":  "2010768",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  " stateofsecurity.com/?p=526"
+                }
+    },
+    {
+        "description":  "ET SCAN Hmap Webserver Fingerprint Scan",
+        "type":  "attempted-recon",
+        "sid":  "2008537",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_19",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.ujeni.murkyroc.com/hmap/"
+                }
+    },
+    {
+        "description":  "ET SCAN Hydra User-Agent",
+        "type":  "attempted-recon",
+        "sid":  "2011497",
+        "metadata":  {
+                         "crtime":  "2010_09_27",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "freeworld.thc.org/thc-hydra"
+                }
+    },
+    {
+        "description":  "ET SCAN Internet Scanning Project HTTP scan",
+        "type":  "attempted-recon",
+        "sid":  "2018782",
+        "metadata":  {
+                         "crtime":  "2014_07_25",
+                         "uptime":  "2020_05_01",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.internetscanningproject.org"
+                }
+    },
+    {
+        "description":  "ET SCAN WITOOL SQL Injection Scan",
+        "type":  "attempted-recon",
+        "sid":  "2009833",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_05_04",
+                         "tags":  "SQL_Injection",
+                         "rev":  "12"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "witool.sourceforge.net/"
+                }
+    },
+    {
+        "description":  "ET SCAN McAfee/Foundstone Scanner Web Scan",
+        "type":  "attempted-recon",
+        "sid":  "2013492",
+        "metadata":  {
+                         "crtime":  "2011_08_30",
+                         "uptime":  "2020_04_20",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.mcafee.com/us/products/vulnerability-manager.aspx"
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029015",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_22",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029016",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029017",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029018",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029019",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029020",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029021",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029023",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029024",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029026",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Zmap User-Agent (Inbound)",
+        "type":  "network-scan",
+        "sid":  "2029054",
+        "metadata":  {
+                         "crtime":  "2019_11_26",
+                         "uptime":  "2020_10_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Watchfire AppScan Web App Vulnerability Scanner",
+        "type":  "attempted-recon",
+        "sid":  "2008311",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2019_12_19",
+                         "tags":  "-",
+                         "rev":  "8"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.watchfire.com/products/appscan/default.aspx"
+                }
+    },
+    {
+        "description":  "ET SCAN Dark Nexus IoT Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029208",
+        "metadata":  {
+                         "crtime":  "2019_12_30",
+                         "uptime":  "2020_10_27",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Tomato Router Default Credentials (admin:admin)",
+        "type":  "attempted-admin",
+        "sid":  "2029317",
+        "metadata":  {
+                         "crtime":  "2020_01_23",
+                         "uptime":  "2020_01_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "unit42.paloaltonetworks.com/muhstik-botnet-attacks-tomato-routers-to-harvest-new-iot-devices/"
+                }
+    },
+    {
+        "description":  "ET SCAN Tomato Router Default Credentials (root:admin)",
+        "type":  "attempted-admin",
+        "sid":  "2029318",
+        "metadata":  {
+                         "crtime":  "2020_01_23",
+                         "uptime":  "2020_01_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "unit42.paloaltonetworks.com/muhstik-botnet-attacks-tomato-routers-to-harvest-new-iot-devices/"
+                }
+    },
+    {
+        "description":  "ET SCAN Apache mod_proxy Reverse Proxy Exposure 1",
+        "type":  "attempted-recon",
+        "sid":  "2013791",
+        "metadata":  {
+                         "crtime":  "2011_10_24",
+                         "uptime":  "2020_10_28",
+                         "tags":  "-",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.contextis.com/research/blog/reverseproxybypass/"
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat upload from external source",
+        "type":  "successful-admin",
+        "sid":  "2009220",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_10_28",
+                         "tags":  "-",
+                         "rev":  "7"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tomcat.apache.org"
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029022",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_10_29",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai User-Agent Observed (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029473",
+        "metadata":  {
+                         "crtime":  "2020_02_17",
+                         "uptime":  "2020_02_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Tomcat admin-admin login credentials",
+        "type":  "attempted-admin",
+        "sid":  "2009217",
+        "metadata":  {
+                         "crtime":  "2010_07_30",
+                         "uptime":  "2020_11_02",
+                         "tags":  "-",
+                         "rev":  "9"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "tomcat.apache.org"
+                }
+    },
+    {
+        "description":  "ET SCAN abdullkarem Wordpress PHP Scanner",
+        "type":  "web-application-attack",
+        "sid":  "2021949",
+        "metadata":  {
+                         "crtime":  "2015_10_14",
+                         "uptime":  "2020_11_03",
+                         "tags":  "Wordpress",
+                         "rev":  "3"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Polaris Botnet User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029577",
+        "metadata":  {
+                         "crtime":  "2020_03_05",
+                         "uptime":  "2020_03_05",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Apache mod_proxy Reverse Proxy Exposure 2",
+        "type":  "attempted-recon",
+        "sid":  "2013792",
+        "metadata":  {
+                         "crtime":  "2011_10_24",
+                         "uptime":  "2020_11_06",
+                         "tags":  "-",
+                         "rev":  "5"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "www.contextis.com/research/blog/reverseproxybypass/"
+                }
+    },
+    {
+        "description":  "ET SCAN libwww-perl GET to // with specific HTTP header ordering without libwww-perl User-Agent",
+        "type":  "attempted-recon",
+        "sid":  "2013416",
+        "metadata":  {
+                         "crtime":  "2011_08_16",
+                         "uptime":  "2020_11_06",
+                         "tags":  "-",
+                         "rev":  "10"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Polaris Botnet User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029645",
+        "metadata":  {
+                         "crtime":  "2020_03_18",
+                         "uptime":  "2020_03_18",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029025",
+        "metadata":  {
+                         "crtime":  "2019_11_21",
+                         "uptime":  "2020_11_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029759",
+        "metadata":  {
+                         "crtime":  "2020_03_29",
+                         "uptime":  "2020_03_29",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029763",
+        "metadata":  {
+                         "crtime":  "2020_03_30",
+                         "uptime":  "2020_03_30",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029769",
+        "metadata":  {
+                         "crtime":  "2020_03_31",
+                         "uptime":  "2020_03_31",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029792",
+        "metadata":  {
+                         "crtime":  "2020_04_02",
+                         "uptime":  "2020_04_02",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029790",
+        "metadata":  {
+                         "crtime":  "2020_04_02",
+                         "uptime":  "2020_04_03",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029808",
+        "metadata":  {
+                         "crtime":  "2020_04_03",
+                         "uptime":  "2020_04_03",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2029929",
+        "metadata":  {
+                         "crtime":  "2020_04_17",
+                         "uptime":  "2020_04_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030048",
+        "metadata":  {
+                         "crtime":  "2020_04_29",
+                         "uptime":  "2020_04_29",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN JAWS Webserver Unauthenticated Shell Command Execution",
+        "type":  "web-application-attack",
+        "sid":  "2030093",
+        "metadata":  {
+                         "crtime":  "2020_05_04",
+                         "uptime":  "2020_05_04",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "md5",
+                    "ref":  "fea9e4132fc9d30bda5eb6b1d9d0b9b9"
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030198",
+        "metadata":  {
+                         "crtime":  "2020_05_21",
+                         "uptime":  "2020_05_21",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Observed Suspicious UA (Callstranger Vulnerability Checker)",
+        "type":  "attempted-recon",
+        "sid":  "2030271",
+        "metadata":  {
+                         "crtime":  "2020_06_09",
+                         "uptime":  "2020_06_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/yunuscadirci/CallStranger"
+                }
+    },
+    {
+        "description":  "ET SCAN UPnP SUBSCRIBE Inbound - Possible CallStranger Scan (CVE-2020-12695)",
+        "type":  "attempted-recon",
+        "sid":  "2030272",
+        "metadata":  {
+                         "crtime":  "2020_06_09",
+                         "uptime":  "2020_06_09",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "cve",
+                    "ref":  "2020-12695"
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030273",
+        "metadata":  {
+                         "crtime":  "2020_06_09",
+                         "uptime":  "2020_06_09",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030373",
+        "metadata":  {
+                         "crtime":  "2020_06_22",
+                         "uptime":  "2020_06_22",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030375",
+        "metadata":  {
+                         "crtime":  "2020_06_22",
+                         "uptime":  "2020_06_22",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030470",
+        "metadata":  {
+                         "crtime":  "2020_07_06",
+                         "uptime":  "2020_07_06",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030583",
+        "metadata":  {
+                         "crtime":  "2020_07_23",
+                         "uptime":  "2020_07_23",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030676",
+        "metadata":  {
+                         "crtime":  "2020_08_12",
+                         "uptime":  "2020_08_12",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030692",
+        "metadata":  {
+                         "crtime":  "2020_08_17",
+                         "uptime":  "2020_08_17",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030909",
+        "metadata":  {
+                         "crtime":  "2020_09_28",
+                         "uptime":  "2020_09_28",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030964",
+        "metadata":  {
+                         "crtime":  "2020_10_06",
+                         "uptime":  "2020_10_06",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN ELF/Mirai Variant User-Agent (Inbound)",
+        "type":  "attempted-admin",
+        "sid":  "2030995",
+        "metadata":  {
+                         "crtime":  "2020_10_12",
+                         "uptime":  "2020_10_12",
+                         "tags":  "-",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN WordPress Scanner Performing Multiple Requests to Windows Live Writer XML",
+        "type":  "network-scan",
+        "sid":  "2031505",
+        "metadata":  {
+                         "crtime":  "2021_01_08",
+                         "uptime":  "2021_01_08",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Generic IDBTE4M Exploit Scanner (Outbound)",
+        "type":  "bad-unknown",
+        "sid":  "2031602",
+        "metadata":  {
+                         "crtime":  "2021_02_02",
+                         "uptime":  "2021_02_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Generic IDBTE4M Exploit Scanner (Inbound)",
+        "type":  "bad-unknown",
+        "sid":  "2031603",
+        "metadata":  {
+                         "crtime":  "2021_02_02",
+                         "uptime":  "2021_02_02",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN DNS Query for allports.exposed",
+        "type":  "network-scan",
+        "sid":  "2032091",
+        "metadata":  {
+                         "crtime":  "2021_03_17",
+                         "uptime":  "2021_03_17",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "blackhillsinfosec.com/poking-holes-in-the-firewall-egress-testing-with-allports-exposed/"
+                }
+    },
+    {
+        "description":  "ET SCAN Google Webcrawler User-Agent (Mediapartners-Google)",
+        "type":  "not-suspicious",
+        "sid":  "2032978",
+        "metadata":  {
+                         "crtime":  "2021_05_18",
+                         "uptime":  "2021_05_18, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Yandex Webcrawler User-Agent (YandexBot)",
+        "type":  "not-suspicious",
+        "sid":  "2032979",
+        "metadata":  {
+                         "crtime":  "2021_05_18",
+                         "uptime":  "2021_05_18, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN DuckDuckGo Webcrawler User-Agent (DuckDuckBot)",
+        "type":  "not-suspicious",
+        "sid":  "2032980",
+        "metadata":  {
+                         "crtime":  "2021_05_18",
+                         "uptime":  "2021_05_18, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Bing Webcrawler User-Agent (BingBot)",
+        "type":  "not-suspicious",
+        "sid":  "2032981",
+        "metadata":  {
+                         "crtime":  "2021_05_18",
+                         "uptime":  "2021_05_18, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Naver Webcrawler User-Agent (Naver.me)",
+        "type":  "not-suspicious",
+        "sid":  "2032982",
+        "metadata":  {
+                         "crtime":  "2021_05_18",
+                         "uptime":  "2021_05_18, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Baidu Spider Webcrawler User Agent - inbound",
+        "type":  "not-suspicious",
+        "sid":  "2033338",
+        "metadata":  {
+                         "crtime":  "2021_05_19",
+                         "uptime":  "2021_05_19, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "1"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN Exabot Webcrawler User Agent",
+        "type":  "not-suspicious",
+        "sid":  "2033165",
+        "metadata":  {
+                         "crtime":  "2021_06_23",
+                         "uptime":  "2021_06_23, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN AOL Webcrawler User-Agent",
+        "type":  "not-suspicious",
+        "sid":  "2033166",
+        "metadata":  {
+                         "crtime":  "2021_06_23",
+                         "uptime":  "2021_06_23, mitre_tactic_id TA0043, mitre_tactic_name Reconnaissance, mitre_technique_id T1593, mitre_technique_name Search_Open_Websites",
+                         "tags":  "WebCrawler",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "-",
+                    "ref":  null
+                }
+    },
+    {
+        "description":  "ET SCAN OpenVASVT RCE Test String in HTTP Request Inbound",
+        "type":  "bad-unknown",
+        "sid":  "2033101",
+        "metadata":  {
+                         "crtime":  "2021_06_07",
+                         "uptime":  "2021_08_11",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/greenbone/openvas-scanner/blob/622e205327ea374d1ccbb3b0e8dcb3fe5c1bb87d/nasl/nasl_http.c#L120"
+                }
+    },
+    {
+        "description":  "ET SCAN OpenVASVT RCE Test String in HTTP Request Outbound",
+        "type":  "bad-unknown",
+        "sid":  "2033102",
+        "metadata":  {
+                         "crtime":  "2021_06_07",
+                         "uptime":  "2021_08_11",
+                         "tags":  "-",
+                         "rev":  "2"
+                     },
+        "ref":  {
+                    "type":  "url",
+                    "ref":  "github.com/greenbone/openvas-scanner/blob/622e205327ea374d1ccbb3b0e8dcb3fe5c1bb87d/nasl/nasl_http.c#L120"
+                }
+    }
+]
